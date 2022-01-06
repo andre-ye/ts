@@ -2,33 +2,21 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Notes from classes, research, speeches, student organizations, and more from the University of Washington."
+description: "Notes from the Robinson Center's Transition School Program."
 permalink: /
 ---
 
-# Uni Notes
+# TS Notes
 {: .fs-9 }
 
-Notes from classes, research, speeches, student organizations, and more from the University of Washington (from a 4.0 CGPA student!).
+Notes from the Robinson Center's Transition School Program.
 {: .fs-6 .fw-300 }
 
-[Research](https://andre-ye.github.io/docs/research){: .btn .btn-blue }
-[CHEM 142](https://andre-ye.github.io/docs/nsciences/chem-142){: .btn .btn-green }
-[CSE 142](https://andre-ye.github.io/docs/cs/cse-142){: .btn .btn-purple }
-[CSE 143](https://andre-ye.github.io/docs/cs/cse-143){: .btn .btn-blue }
-[CSE 390](https://andre-ye.github.io/docs/cs/cse-390){: .btn .btn-green }
-[MATH 124](https://andre-ye.github.io/docs/math/math-124){: .btn .btn-purple }
-[MATH 125](https://andre-ye.github.io/docs/math/math-125){: .btn .btn-blue }
-[ENGL 131](https://andre-ye.github.io/docs/eng/engl-131){: .btn .btn-green }
-[Philosophy Society](https://andre-ye.github.io/docs/phil/phil-society/phil-society){: .btn .btn-purple }
+[🡠 Explore Notes](){: .btn }
 
-[🡠 Explore More](){: .btn }
+I'm Andre Ye. I'm a current student at the University of Washington pursuing dual study in Computer Science and Philosophy. I was granted admission into the UW through the Early Entrance Program; I attended Transition School during the 2020-2021 school year. This website stores my notes and work from the intense but incredibly rewarding year.
 
-<!-- [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } -->
+The [Transition School](https://robinsoncenter.uw.edu/programs/transition-school/){:target="_blank"} is a one-year college preparatory program offered through the [Robinson Center for Young Scholars](https://robinsoncenter.uw.edu/){:target="_blank"} at the University of Washington via the Early Entrance Program (EEP). Students leave eighth grade into the Transition School, from which they graduate and become matriculated college students.
 
----
-
-I’m Andre, and I’m on a mission to document my college experience. This website serves to host class notes at the University of Washington. I’m pursuing dual study in Computer Science and Philosophy.
-
-**This website is still in the process of being transferred.** If you are looking for TS notes, please visit the link in the top right corner. Notes for UW classes will be uploaded soon. Note that this site works best with Chrome; using other browsers may expose bugs.
+**This website is still in the process of being transferred.** If you are looking for UW notes, please visit the link in the top right corner. Notes for UW classes will be uploaded soon. Note that this site works best with Chrome; using other browsers may expose bugs.
 {: .text-red-200}
