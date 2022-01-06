@@ -8,7 +8,5 @@ permalink: /docs/biology
 
 # Biology Notes
 
-Biological Principles
+Cristina Valensisi, *Biological Principles*
 {: .fs-6 .fw-300 }
-
-[Tags]
