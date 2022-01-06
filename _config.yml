@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: TS Notes
-description: Notes from the Robinson Center's Transition School Program.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://andre-ye.github.io/ts" # the base hostname & protocol for your site, e.g. http://example.com
+description: Notes from the Transition School Program at the Robinson Center.
+baseurl: "/ts" # the subpath of your site, e.g. /blog
+url: "https://andre-ye.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 remote_theme: pmarsceill/just-the-docs
 
