@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: TS Notes
 description: Notes from the Robinson Center's Transition School Program.
-baseurl: "/ts" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://andre-ye.github.io/ts" # the base hostname & protocol for your site, e.g. http://example.com
 
 remote_theme: pmarsceill/just-the-docs
