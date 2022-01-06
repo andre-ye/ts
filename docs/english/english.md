@@ -8,7 +8,7 @@ permalink: /docs/english
 
 # English Notes
 
-Content
+Amanda Zink, *Composition and Literary Analysis*
 {: .fs-6 .fw-300 }
 
 [Tags]
