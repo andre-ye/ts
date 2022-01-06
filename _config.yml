@@ -68,8 +68,8 @@ heading_anchors: true
 aux_links:
   "Personal Site":
     - "http://andre-ye.ml"
-  "TS Notes":
-    - "https://andre-ye.github.io/ts-notes"
+  "UW Notes":
+    - "https://andre-ye.github.io"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
