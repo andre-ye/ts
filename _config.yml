@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Uni Notes
 description: Notes from the University of Washington
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://andre-ye.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/ts" # the subpath of your site, e.g. /blog
+url: "https://andre-ye.github.io/ts" # the base hostname & protocol for your site, e.g. http://example.com
 
 remote_theme: pmarsceill/just-the-docs
 
@@ -96,7 +96,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/andre-ye/andre-ye.github.io" # the github URL for your repo
+gh_edit_repository: "https://github.com/andre-ye/andre-ye.github.io/ts" # the github URL for your repo
 gh_edit_branch: "master" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
