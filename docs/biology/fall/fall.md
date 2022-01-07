@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fall Quarter
+title: Fall
 parent: Biology
 nav_order: 1
 permalink: /docs/biology/fall
