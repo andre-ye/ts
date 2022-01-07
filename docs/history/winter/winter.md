@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Winter Quarter
+title: Winter
 parent: History
 nav_order: 2
 permalink: /docs/history/winter
