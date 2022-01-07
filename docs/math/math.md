@@ -13,10 +13,10 @@ Reese Johnston, *Precalculus*
 
 ---
 
-<br>
-
 ## Collingwood Homeworks
 *Collingwood textbook is available [here](https://sites.math.washington.edu/~colling/HSMath120/TB201112.pdf){:target="_blank"}. Solutions may or may not be correct. In Winter and Spring quarters (chapter 8 and onward) there is only one Collingwood per chapter.*
+
+<br>
 
 Chapter 1: "Warming Up". Rates, times, and distances; the modeling process. 
 {: .fs-4 .fw-300 }
