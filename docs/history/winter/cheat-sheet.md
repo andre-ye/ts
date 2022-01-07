@@ -6,7 +6,7 @@ grand_parent: History
 nav_order: 100
 ---
 
-# Course Final Study Guide / Course Overview
+# Course Final Study Guide
 
 Winter History
 {: .fs-6 .fw-300 }
@@ -34,17 +34,16 @@ This is the history final study guide. It goes over all the course lectures and 
 ---
 
 
-
- ## Summary
+## Summary
  
- | Section | Summary |
- | --- | --- |
- | Gilded Age and Progressive Era | Unregulated expansion following industrialization led to poor living and working conditions. These conditions fueled violent conflicts between corporations and workers, and the state positioned themselves on the side of the corporations. Progressives of the Progressive Era emerged proposing the government to remedy these poor living conditions. Many Progressives still sought to operate within an industrial-capitalist framework, although others pushed further towards socialism. |
- | American Empire | Near the end of the 19th century, the United States took advantage of collapsing empires around the world through the notion of Empire of Liberty. Racial and commercial justifications were given for the Spanish-American War and the Philippine-American War. |
- | World War I and New Deals | World War I led to a rise of the Red Scare, disrupting anticapitalist politics. Business-friendly policies dominated in the 1920s, and the amount of high-risk investment mechanisms was increasing without government intervention; this exacerbated boom/bust cycles, leading to the Great Depression. Roosevelt was elected on the campaign of greater government intervention under Keynesian economics, and labor interests were significantly advanced. |
- | World War II and Cold War | During World War II, FDR's policies of Keynesian economics continued to perform well and labor scarcity opened up the primary labor market to new population segments. Post-WWII, antifascism bolstered free market intellectuals and radicalism in this period (early 1950s) was suppressed. The increasing power of the Soviet Union and the threat of communism spreading developed into a U.S. policy of containment that led to the Korean and Vietnamese Wars. |
- | Civil Rights and the New Critique | Black activism succeeds in establishing political rights, but a new, more radical critique for economic freedoms emerges. |
- | Neoliberalism | Free market economics re-emerged as an answer to stagflation that Keynesian economics could not answer. Hence, free-market solutions were applied to emerging structural problems that resulted from deindustrialization. By the 1980s, a significant neoliberal shift had emerged, marked by the era of Reagan. |
+| Section | Summary |
+| --- | --- |
+| Gilded Age and Progressive Era | Unregulated expansion following industrialization led to poor living and working conditions. These conditions fueled violent conflicts between corporations and workers, and the state positioned themselves on the side of the corporations. Progressives of the Progressive Era emerged proposing the government to remedy these poor living conditions. Many Progressives still sought to operate within an industrial-capitalist framework, although others pushed further towards socialism. |
+| American Empire | Near the end of the 19th century, the United States took advantage of collapsing empires around the world through the notion of Empire of Liberty. Racial and commercial justifications were given for the Spanish-American War and the Philippine-American War. |
+| World War I and New Deals | World War I led to a rise of the Red Scare, disrupting anticapitalist politics. Business-friendly policies dominated in the 1920s, and the amount of high-risk investment mechanisms was increasing without government intervention; this exacerbated boom/bust cycles, leading to the Great Depression. Roosevelt was elected on the campaign of greater government intervention under Keynesian economics, and labor interests were significantly advanced. |
+| World War II and Cold War | During World War II, FDR's policies of Keynesian economics continued to perform well and labor scarcity opened up the primary labor market to new population segments. Post-WWII, antifascism bolstered free market intellectuals and radicalism in this period (early 1950s) was suppressed. The increasing power of the Soviet Union and the threat of communism spreading developed into a U.S. policy of containment that led to the Korean and Vietnamese Wars. |
+| Civil Rights and the New Critique | Black activism succeeds in establishing political rights, but a new, more radical critique for economic freedoms emerges. |
+| Neoliberalism | Free market economics re-emerged as an answer to stagflation that Keynesian economics could not answer. Hence, free-market solutions were applied to emerging structural problems that resulted from deindustrialization. By the 1980s, a significant neoliberal shift had emerged, marked by the era of Reagan. |
  
  
  
@@ -52,7 +51,7 @@ This is the history final study guide. It goes over all the course lectures and 
  
  
  
- ## Gilded Age and Progressive Era
+## Gilded Age and Progressive Era
  Relevant lectures: "Class Conflict in the Gilded Age" and "The Progressive Era: Race, Class, and Gender in the 20th Century".
  
  *Bottom Line*: Unregulated expansion following industrialization led to poor living and working conditions. These conditions fueled violent conflicts between corporations and workers, and the state positioned itself on the side of the corporations. Progressives of the Progressive Era emerged proposing the government to remedy these poor living conditions. Many Progressives still sought to operate within an industrial-capitalist framework, although others pushed further towards socialism.
@@ -80,7 +79,7 @@ This is the history final study guide. It goes over all the course lectures and 
  
  
  
- ## American Empire
+## American Empire
  
  Relevant lecture: "Advent of Empire: Race and Conquest in 1900"
  
@@ -105,7 +104,7 @@ This is the history final study guide. It goes over all the course lectures and 
  
  
  
- ## World War I and New Deals
+## World War I and New Deals
  Relevant lecture: "New Deals: Ideas and Governance"
  
  *Bottom line*: World War I led to a rise of the Red Scare, disrupting anticapitalist politics. Business-friendly policies dominated in the 1920s, and the number of high-risk investment mechanisms was increasing without government intervention; this exacerbated boom/bust cycles, leading to the Great Depression. Roosevelt was elected on the campaign of greater government intervention under Keynesian economics, and labor interests were significantly advanced.
@@ -135,7 +134,7 @@ This is the history final study guide. It goes over all the course lectures and 
  
  
  
- ## World War II and Cold War
+## World War II and Cold War
  Relevant lectures: "World War II: Meanings of Freedom and Popular Ideas" and "World War II and the Cold War: Warfare and Statecraft"
  
  *Bottom line*: During World War II, FDR's policies of Keynesian economics continued to perform well and labor scarcity opened up the primary labor market to new population segments. Post-WWII, antifascism bolstered free-market intellectuals, and radicalism in this period (the early 1950s) was suppressed. The increasing power of the Soviet Union and the threat of communism spreading developed into a U.S. policy of containment that led to the Korean and Vietnamese Wars.
@@ -162,7 +161,7 @@ This is the history final study guide. It goes over all the course lectures and 
  
  
  
- ## Civil Rights and the New Critique
+## Civil Rights and the New Critique
  Relevant lecture: "Freedom Now: Political Economy and Black Movements"
  
  *Bottom line*: Black activism succeeds in establishing political rights, but a new, more radical critique for economic freedoms emerges.
@@ -182,7 +181,7 @@ This is the history final study guide. It goes over all the course lectures and 
  
  
  
- ## Neoliberalism
+## Neoliberalism
  Relevant lecture: "Neoliberalism: A Changing Political Economy"
  
  *Bottom line*: Free market economics re-emerged as an answer to stagflation that Keynesian economics could not answer. Hence, free-market solutions were applied to emerging structural problems that resulted from deindustrialization. By the 1980s, a significant neoliberal shift had emerged, marked by the era of Reagan.
