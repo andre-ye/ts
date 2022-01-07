@@ -6,7 +6,7 @@ grand_parent: History
 nav_order: 100
 ---
 
-# Winter Final Study Guide / Course Overview
+# Course Final Study Guide / Course Overview
 
 Winter History
 {: .fs-6 .fw-300 }
