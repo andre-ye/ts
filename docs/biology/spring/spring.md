@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spring Quarter
+title: Spring
 parent: Biology
 nav_order: 3
 permalink: /docs/biology/spring
