@@ -14,10 +14,32 @@ Winter History
 ---
 
 ## Navigate
+* [*On Agency* by Walter Johnson](#-on-agency--by-walter-johnson)
+* [*Is History a Science?* by Eugene Goodheart](#-is-history-a-science---by-eugene-goodheart)
+* ["I am an Anarchist" by Lucy Parsons](#-i-am-an-anarchist--by-lucy-parsons)
+* [Dynamite and Historical Significance](#dynamite-and-historical-significance)
+* [*Industrialism and the American Worker, 1865-1920* by Melvyn Dubofsky](#-industrialism-and-the-american-worker--1865-1920--by-melvyn-dubofsky)
+* [*Documents on African-American Opposition to Empire (1898-1899)*](#-documents-on-african-american-opposition-to-empire--1898-1899--)
+* [*Race-Making and Colonial Violence in the U.S. Empire: The Philippine-American War as a Race War* by Paul A. Kramer](#-race-making-and-colonial-violence-in-the-us-empire--the-philippine-american-war-as-a-race-war--by-paul-a-kramer)
+* ["On the War in the Philippines" by Albert J. Beveridge](#-on-the-war-in-the-philippines--by-albert-j-beveridge)
+* ["The Subjective Necessity for Social Settlements" by Jane Addams (1892)](#-the-subjective-necessity-for-social-settlements--by-jane-addams--1892-)
+* ["Now We Can Begin" (1920) by Crystal Eastman](#-now-we-can-begin---1920--by-crystal-eastman)
+* [*Reinventing the People: The Progressive Movement, the Class Problem, and the Origins of Modern Liberalism* by Shelton Stromquist](#-reinventing-the-people--the-progressive-movement--the-class-problem--and-the-origins-of-modern-liberalism--by-shelton-stromquist)
+* [*Labor's Untold Story - Chapter 10, "Victory"* by Richard O. Boyer and Herbert M. Morais](#-labor-s-untold-story---chapter-10---victory---by-richard-o-boyer-and-herbert-m-morais)
+* ["Preamble to the National Labor Relations Act"](#-preamble-to-the-national-labor-relations-act-)
+* [*Wartime Shipyard: A Study in Social Disunity* by Katherine Archibald](#-wartime-shipyard--a-study-in-social-disunity--by-katherine-archibald)
+* [*American Empire: The Realities and Consequences of U.S. Diplomacy; Chapter 1: "The Myth of the Reluctant Superpower"* by Andrew Bacevich](#-american-empire--the-realities-and-consequences-of-us-diplomacy--chapter-1---the-myth-of-the-reluctant-superpower---by-andrew-bacevich)
+* [*Revolution in the Air: Sixties Radicals Turn to Lenin, Mao, and Che* by Max Elbaum](#-revolution-in-the-air--sixties-radicals-turn-to-lenin--mao--and-che--by-max-elbaum)
+* [*Beyond Vietnam* by Martin Luther King, Jr.](#-beyond-vietnam--by-martin-luther-king--jr)
+* [*Guns and Butter: The Welfare State, the Carceral State, and the Politics of Exclusion in the Postwar United States* by Julilly Johler-Hausmann](#-guns-and-butter--the-welfare-state--the-carceral-state--and-the-politics-of-exclusion-in-the-postwar-united-states--by-julilly-johler-hausmann)
+* [the Powell Memorandum: *Attack on American Free Enterprise System*](#the-powell-memorandum---attack-on-american-free-enterprise-system-)
+* ["How Wealth Inequality Has Changed in the US since the Great Recession, by Race, Ethnicity, and Income" by Rakesh Kochhar](#-how-wealth-inequality-has-changed-in-the-us-since-the-great-recession--by-race--ethnicity--and-income--by-rakesh-kochhar)
+* ["Global Warming's Terrifying New Math" by Bill McKibben](#-global-warming-s-terrifying-new-math--by-bill-mckibben)
+* [*From #BlackLivesMatter to Black Liberation* by Keeanga-Yamahtta Taylor](#-from--blacklivesmatter-to-black-liberation--by-keeanga-yamahtta-taylor)
 
 ---
 
- ## *On Agency* by Walter Johnson
+## *On Agency* by Walter Johnson
   
   
   
@@ -66,7 +88,7 @@ Winter History
   
  --- 
  
- ## *Is History a Science?* by Eugene Goodheart
+## *Is History a Science?* by Eugene Goodheart
   
   
   
@@ -118,11 +140,11 @@ Winter History
   
  --- 
  
- ## "I am an Anarchist" by Lucy Parsons
+## "I am an Anarchist" by Lucy Parsons
   
   
   
-  ### Navigate
+### Navigate
   - [Introduction](#introduction)
   - [The Rationale for Anarchy](#the-rationale-for-anarchy)
   - [Unjustified Opposition to Anarchists and the Haymarket Incident](#unjustified-opposition-to-anarchists-and-the-haymarket-incident)
@@ -132,7 +154,7 @@ Winter History
   
   
   
-  ### Introduction
+### Introduction
   > I am an anarchist. I suppose you came here, the most of you, to see what Ia real, live anarchist looked like. I suppose some of you expected to see me with a bomb in one hand and a flaming torch in the other, but are disappointed in seeing neither.
   
   - Anarchists are peaceful and law abiding people, Parsons argues; people have misconstrued what it is to be an anarchist.
@@ -140,7 +162,7 @@ Winter History
   
   
   
-  ### The Rationale for Anarchy
+### The Rationale for Anarchy
   - Is America truly a great land of liberty?
   - New York; count the homeless, the starving, and the slaves.
   - Those that dare call America a land of liberty pay no attention to the poor, Parsons argues.
@@ -150,7 +172,7 @@ Winter History
   
   
   
-  ### Unjustified Opposition to Anarchists and the Haymarket Incident
+### Unjustified Opposition to Anarchists and the Haymarket Incident
   - Many believe anarchists have no right to exist at all.
   - Arrests and succeeding arrests were effected by detectives - Pinkerton detectives set up by the capitalists, Parsons argues.
   - The Constitution says there are inalienable rights like free press, free speech, and free assemblage.
@@ -163,7 +185,7 @@ Winter History
   
   
   
-  ## Dynamite and Historical Significance
+ ## Dynamite and Historical Significance
   - Feudal system at the height of its power during the discovery of dynamite.
     - This discovery 'made the middle classes'.
   - The bomb in Chicago sounds the fall of the 19th century wage system.
@@ -172,7 +194,7 @@ Winter History
   
   
   
-  ### Improper Court Precedings
+### Improper Court Precedings
   - After the bombs exploded, arrests were made; yet the judicial system was biased.
     - A Knight of Labor or some other labor sympathizer would have not been considered competent to serve on a jury.
   - The ruling was without precedent and contrary to law, reason, or common sense.
@@ -184,7 +206,7 @@ Winter History
       
   
   
-  ### Conclusion
+### Conclusion
   - Liberty has been repurposed as anarchy.
     - Capitalism has reappropriate liberty such that you can have it if you can pay for it.
   > Bread is freedom and freedom is bread.
@@ -195,11 +217,11 @@ Winter History
   
  --- 
  
- ## *Industrialism and the American Worker, 1865-1920* by Melvyn Dubofsky
+## *Industrialism and the American Worker, 1865-1920* by Melvyn Dubofsky
   
   
   
-  ### Navigate
+### Navigate
   - [Introduction](#introduction)
   - [The Shock of Change](#the-shock-of-change)
     * [Changing Relationships Between Workers and Employers](#changing-relationships-between-workers-and-employers)
@@ -216,14 +238,14 @@ Winter History
   
   
   
-  ### Introduction
+### Introduction
   - Civil War to the end of the 19th century: **turmoil for the American working class.**
     - Workers fought violent industrial conflicts in American history.
   - A variety of political movements transpired.
   
   
   
-  ### The Shock of Change
+### The Shock of Change
   - Extensive industrialization produced a large shock to the social order.
   - 1865-1897: orthodox values and community structures shattered by economic & social change.
     - Giant business corporations and urban concentrations of people shifted meanings of concepts like liberty and oppurtunity.
@@ -236,7 +258,7 @@ Winter History
   - **When elites dominated society, this frustrated the masses** of a less technological and bureaucratic nature.
     - A failure of political parties and social structures to offer a sense of security in this chaotic environment.
   
-  #### Changing Relationships Between Workers and Employers
+#### Changing Relationships Between Workers and Employers
   - Workers did not enter postbellum industrial expansion as powerless; in 1870s and 1880s workers had some level of power on their employers.
     - Iron, steel, and farm machinery: workers united in craft unions were indispensable.
   - Craftsmen that scored successes in wages yielded rewards for semiskilled and unskilled workers as well.
@@ -251,7 +273,7 @@ Winter History
   
   
   
-  ### Industrial Conflict
+### Industrial Conflict
   - Workers attempted to preserve or expand their power; employers sought additional authority over their employees.
   - Bitter battles of labor and capital.
     - Molly Maguire and coal district notoriety;
@@ -264,7 +286,7 @@ Winter History
   - Striking had become the wage worker's primary defense against employers by the end of the 19th century.
     - Strikes became more planned and less spontaneous, associated with unions.
   
-  #### Conflicts Between Anthracite Miners and Mine Owners
+#### Conflicts Between Anthracite Miners and Mine Owners
   - Occurred in northeastern Pennsylvania.
   - Older narrative romanticized the situation: noble operators protected the local community against criminimal anarchists ('Mollies'), or courageous miners defined rederess of grievances.
   - Anthracite district of Penn. experienced rapid economic & population growth immediately postbellum. 
@@ -291,7 +313,7 @@ Winter History
     - Mollies were linked with unionism and lawlessness.
     - By linking the WBA with the Mollies, killed unionism in the district.
     
-  #### Other Conflicts and Industrialist Tactics for Strike Repression
+#### Other Conflicts and Industrialist Tactics for Strike Repression
   - Most industrialists lacked Irish-immigrant scapegoats, but neverhteless harnessed violence and defense of the law to turn in their own advantage.
     - 1873-1876; employers that encoutered a powerful workforce would engage in inevitable violence.
     - Strikebreakers were often recruited; tensions were often exacerbated by ethnic and racial characteristics of many strikebreakers. Compounded economic and social fault lines; raised violence to a higher level.
@@ -299,7 +321,7 @@ Winter History
       - Often relied upon governors or presidents to provide marshals and troops.
   - Workers saw local power usurped by external sources of authority functioning for the industrialists.
   
-  #### 1877 Railroad Strikes
+#### 1877 Railroad Strikes
   - Financially strained railroads in 1877 cut workers' wages sharply and increased workloads.
     - Stimulated mass anger and a unionization attempt.
   - July; Baltimore & Ohio Railroad announced third 10% cut in wages; a spontaneous walkout erupted.
@@ -317,7 +339,7 @@ Winter History
   - Technological iinnovation undercut the strength and security of workers; craftsmen found their skills superfluous.
   - Economic power of employers and alliance with government bred frustration among militant workers.
   
-  #### Haymarket Square Incident
+#### Haymarket Square Incident
   - 1880s militant workers and radical agitators often resorted to rhetoric of violence, especially in Chicago.
     - 1886 Chicago: center of radical and anarchist activities.
   - In May 1886, police and strikers clashed; death of two workers.
@@ -330,7 +352,7 @@ Winter History
   - Furthermore, strikers and milita clashed in Bay View, Wisconsin.
     - A Polish iron worker used crowd action to close iron foundries; ten were shot fatally to end the strike.
   
-  #### Andrew Carnegie and Industrialist Desire to Destroy Trade Unions
+#### Andrew Carnegie and Industrialist Desire to Destroy Trade Unions
   - 1870s-1880s: Amalgamated Association fo Iron and Steel Workers was the most powerful craft union of the nation.
     - Members could only watch as steel production grew more important and Andrew Carnegie produced interruptions with union agreement.
   - Carnegie wanted to end the union's influence.
@@ -338,12 +360,12 @@ Winter History
     - Under protection of the militia, strikebreakers went to work and forced workers to work.
     - November 1892, the union surrended completely.
   
-  #### Lessons from Two Decades of Industrial Conflict
+#### Lessons from Two Decades of Industrial Conflict
   - Labor lacked to power to challenge concentrated capital.
   - When workers had short-term ability to stalemate employers, the state intervened.
   - If employers sought to drive out unions, workers had no choice but to fight back.
   
-  #### The Pullman Boycott
+#### The Pullman Boycott
   - The conflict revealed respective strength and political power of workers and employers; industrialists' power grew far past that of employees.
     - Workers were divided by demographic, but employers were united through mergers and trade associations.
     - Railroads suffered from excessive competition; railroad managers made informal and formal alliances to cure this.
@@ -351,7 +373,7 @@ Winter History
     - Members boycotted all railroads using Pullman cars; most railroad traffic was brought to a halt.
   - Grover Cleveland and the Attorney General threw resources of the federal government against the strikers.
   
-  #### Conclusions and Discussion
+#### Conclusions and Discussion
   - This discussion of industrial conflict questions assumptions of American social order.
   - Workers are distinguished from employers not by values, behaviors, or goals, but simply by capital owned.
   - Most discussions of American history are very abstracted; people did indeed enjoy simple joys.
@@ -361,7 +383,7 @@ Winter History
   
   
   
-  ### Labor Confronts the Law
+### Labor Confronts the Law
   - The law was a battleground in which shared values and principles favored employers.
   - Late 19th century law generally allowed trade unions to exist legally.
     - Unions and practices were no longer criminal conspiracies, yet they remained parchment rights.
@@ -380,18 +402,18 @@ Winter History
   
  --- 
  
- ## *Documents on African-American Opposition to Empire (1898-1899)*
+## *Documents on African-American Opposition to Empire (1898-1899)*
   
   
   
-  ### Navigate
+### Navigate
   - [Lewis H. Douglass Opposition to McKinley](#lewis-h-douglass-opposition-to-mckinley)
   - ["The Negro Should Not Enter the Army", Missionary Department of the Atlanta, Georgia, A.M.E. Church](#the-negro-should-not-enter-the-army-missionary-department-of-the-atlanta-georgia-ame-church)
   
   
   
   
-  ### Lewis H. Douglass Opposition to McKinley
+### Lewis H. Douglass Opposition to McKinley
   - President William McKinley promised Flipinos under American sovereignty would not be governed as slaves, because a government of liberty would be ruling over them.
   - Douglass argues McKinley is blind to racial prejudice in the United States and in soldiers overseas.
   - Black American soldiers are despised by the South, which the McKinley administration has "accept[ed] dictation" and cater to.
@@ -403,7 +425,7 @@ Winter History
   
   
   
-  ### "The Negro Should Not Enter the Army", Missionary Department of the Atlanta, Georgia, A.M.E. Church
+### "The Negro Should Not Enter the Army", Missionary Department of the Atlanta, Georgia, A.M.E. Church
   - The ministers of the A.M.E. church - progressive and enlightened - should tell black young men to stay out of the United States army.
   	> "If it is a white man's government, and we grant it is, let him take care of it. The Negro has no flag to defend."
   - If black people have no civil, social, political, judicial, or existing rights, they should not further the institution that guarantees the very absence of those rights.
@@ -416,16 +438,14 @@ Winter History
   
   
   
-  
-  
  --- 
  
- ## *Race-Making and Colonial Violence in the U.S. Empire: The Philippine-American War as a Race War* by Paul A. Kramer
+## *Race-Making and Colonial Violence in the U.S. Empire: The Philippine-American War as a Race War* by Paul A. Kramer
   Andre Ye, 1/13/2021
   
   
   
-  ### Navigate
+### Navigate
   - [Introduction](#introduction)
   - [Questions of Recognition](#questions-of-recognition)
   - [Race-Making and Colonial Warfare](#race-making-and-colonial-warfare)
@@ -436,7 +456,7 @@ Winter History
   
   
   
-  ### Introduction
+### Introduction
   - Theodore Roosevelt placed colonial violence at the heart of America: Roosevelt justified the ongoing colonial war in the Philippines by casting it as a race war.
   - The war was often rationalized in racial terms, and soldiers knew Filipinos in racial terms.
   - These racial ideologies were not simply reflexive projections from the US; instead, race helped organize and justify U.S. colonial violence.
@@ -446,7 +466,7 @@ Winter History
   
   
   
-  ### Questions of Recognition
+### Questions of Recognition
   - By 1898, Filipino elites engaged in a struggle against Spanish racism - a key element of Spanish colonialism - for two decades.
   	- Spanish political and racial ideologies advocated for Catholicism, greater education, etc.; Filipinos used these to argue for greater rights.
   - U.S. troops took Manila following the Battle of Manila Bay. This introduced a 6-month period "battle for recognition".
@@ -483,7 +503,7 @@ Winter History
   
   
   
-  ### Race-Making and Colonial Warfare
+### Race-Making and Colonial Warfare
   - Outbreak of the war occured in early February of 1899.
   - Filipino sokesmen revealed a preoccupation with promoting Filipino civilization.
   	- Anti-Imperialist newspapers argued that the Filipinos has excelled in education, literacy, art, and political & religious leadership.
@@ -520,7 +540,7 @@ Winter History
   
   
   
-  ### Racializing Guerrilla Warfare
+### Racializing Guerrilla Warfare
   - General Arthur MacArthur reported that there was no *organized* insurgent force to strike at; Filipino tactics had shifted dramatically towards guerrilla warfare.
   - In these new settings, tropical disease, impassable roads, and unfamiliar conditions would weaken American advance; the guerrilla swould have geogrpahic knowledge and village-level support.
   - U.S. Army General Otis similar decentralized his forces to match the Filipino army.
@@ -546,7 +566,7 @@ Winter History
   
   
   
-  ### Race and Atrocity
+### Race and Atrocity
   - Race was made to defend the means, undermining moral and legal claims against American soldiers accused of "severities".
   - U.S. Army defenders held that abuses were rare, and were swiftly punished.
   - Three variants of racial arguments.
@@ -564,7 +584,7 @@ Winter History
   
  --- 
  
- ## "On the War in the Philippines" by Albert J. Beveridge
+## "On the War in the Philippines" by Albert J. Beveridge
   
   
   
@@ -580,7 +600,7 @@ Winter History
       
   
   
-  ### Context
+### Context
   The year was 1900, and the United States was engaged in a controversial war to
   gain control of the Philippine Islands. Many Americans opposed this first
   attempt by the U.S. government to exercise imperial control over another
@@ -590,7 +610,7 @@ Winter History
   
   
   
-  ### Introduction
+### Introduction
   - The Philippines are territory Constitutionally belonging to the United States.
   - Beyond the Philippines are China's markets, which would be a shame to throw away.
   	> We will not renounce our part in the
@@ -599,7 +619,7 @@ Winter History
   
   
   
-  ### Trade Links to China
+### Trade Links to China
   - The Philippines are "the last land left in all the oceans", and it would be an irreversible mistake to abandom it.
   - Asia will be the largest trade partner with America; the Pacific belongs to her.
   - Europe will begin to become dependent on American exports; where shall America turn?
@@ -613,14 +633,14 @@ Winter History
   
   
   
-  ### Strategic Military Placement
+### Strategic Military Placement
   - The Philippines are in a convenient place as a "fortress" in the Pacific to defend the Western coast.
   - It is a base for military and naval operations.
   - From this position, the United States can strike any enemy.
   
   
   
-  ### Natural Resources and Wealth of the Land
+### Natural Resources and Wealth of the Land
   - The fertility of the land in the Philippines is unsurpassed.
   	- Various exotic and lush products grow in the tropical zones.
   	- Philippine wood can supply furniture.
@@ -630,13 +650,13 @@ Winter History
   
   
   
-  ### Opposition to War as its Prolongment
+### Opposition to War as its Prolongment
   - American opposition to the war has been the primary factor in prolonging it.
   - The Philippine War is like the -Revolutionary War.
   
   
   
-  ### The Barbarism of Filipino People
+### The Barbarism of Filipino People
   - The Filipinos are a "barbarous race" that have been modified through contact with a "decadent race".
   - Filipinos are superstitious, dishonest, disorderly, and corrupt.
   - Few in the Philippines are capable of Anglo-Saxon self-government, or even to comprehend it.
@@ -646,7 +666,7 @@ Winter History
   	- It is a *prostitution* to express these rights to Filipinos.
   	- If the Declaration applies to all men, why is it denied to American Indians?
   
-  #### God's Call for Imperialism
+#### God's Call for Imperialism
   - God has not been preparing Anglo-Saxons to stand idle; he has instead marked the American people to lead the regeneration of the world.
   - He has delegated this as the *divine mission* of America.
   - America serves as the trustee of the world's progress and guardians of righteous peace.
@@ -660,11 +680,11 @@ Winter History
   
  --- 
  
- ## "The Subjective Necessity for Social Settlements" by Jane Addams (1892)
+## "The Subjective Necessity for Social Settlements" by Jane Addams (1892)
   
   
   
-  ### Context
+### Context
   > Hull House, Chicago’s famed “settlement house,” was designed to uplift urban populations. Here, Addams explains why she believes reformers must “add the social function to democracy.” As Addams explained, Hull House “was opened on the theory that the dependence of classes on each other is reciprocal.”
   
   
@@ -690,11 +710,11 @@ Winter History
   
  --- 
  
- ## "Now We Can Begin" (1920) by Crystal Eastman
+## "Now We Can Begin" (1920) by Crystal Eastman
   
   
   
-  ### Context
+### Context
   > In the following selection, Crystal Eastman, a socialist and feminist, considered what women should fight for following the ratification of the Nineteenth Amendment, which granted American women the right to vote.
   
   
@@ -723,11 +743,11 @@ Winter History
   
  --- 
  
- ## *Reinventing the People: The Progressive Movement, the Class Problem, and the Origins of Modern Liberalism* by Shelton Stromquist
+## *Reinventing the People: The Progressive Movement, the Class Problem, and the Origins of Modern Liberalism* by Shelton Stromquist
   
   
   
-  ### Navigate
+### Navigate
   - [Introduction: "Progressives and the Problem of Class"](#introduction-progressives-and-the-problem-of-class-)
     * [Historical Debate Around the Progressive Movement](#historical-debate-around-the-progressive-movement)
     * [Rhetoric of the Progressive Movement](#rhetoric-of-the-progressive-movement)
@@ -743,7 +763,7 @@ Winter History
     
   
   
-  ### Introduction: "Progressives and the Problem of Class"
+### Introduction: "Progressives and the Problem of Class"
   - Jane Addams amid the Pullman car shopworkers' strike of 1894: torn between sympathy for strikers and a desire to bridge class divisions.
     - Addams met with striking employees and listened to their grievances, as well as the managers.
     - Class war began to loom on the horizon.
@@ -752,7 +772,7 @@ Winter History
     - Looked unflinchingly at social inequity around them, and hoped to overcome barriers to individual opportunity.
   - The reform movement was not to be working towards one kind or class of people, but instead for the common good.
   
-  #### Historical Debate Around the Progressive Movement
+#### Historical Debate Around the Progressive Movement
   - The Progressive movement has been elusive for historians; there are many theories:
     - Progressives were viewed as members of a displaced middle class, driven to reform by anxiety over their status.
     - Progressives were argued to have advocated for the corporate ideal, promising social stability, while protecting the interests of large businesses.
@@ -767,7 +787,7 @@ Winter History
   - A vigorous and smaller group identified themselves with a class partisan perspective associated with socialist or syndicalist tendencies.
   - Between these groups lay several reformers whose ideology overlapped these two wings.
   
-  #### Rhetoric of the Progressive Movement
+#### Rhetoric of the Progressive Movement
   - A new language of reform emerged.
   - It distanced itself from republicanism or nationalist Americanism, but instead used terms like "the people".
   - The "rhetoric of the moral whole"[^1] promised restoration of the common good as a social ideal.
@@ -780,7 +800,7 @@ Winter History
   - Neither individuals nor the government should, in the view of the Progressives, alter social power and property.
     - Progressives lay the foundation for 20th-century liberals in restricting a worldview formed by class.
     
-  #### The Progressive Movement in the Face of Postbellum Industrialism
+#### The Progressive Movement in the Face of Postbellum Industrialism
   - "The sovereignty of the people" was a "dynamic fiction" in republican thought, Edmund Morgan argues.
   - Elimination of property qualifications for white males made citizenship classless, but still excluded African Americans, immigrants, and women.
   - Postbellum "free labor ideology" promised universal access to opportunity in the frontier.
@@ -793,7 +813,7 @@ Winter History
   - These reformers embraced the idea that industrial progress would produce prosperity and alleviate misery.
   - Massive immigration initiated by the "second industrial revolution" prompted early 20th-century reformers to work hard in producing an enlightened populous.
   
-  #### Progressive Unwillingness to Accept Class and the Ideal of Social Harmony
+#### Progressive Unwillingness to Accept Class and the Ideal of Social Harmony
   - Placing importance on new educational techniques and settlement houses, Progressives insisted on socially responsible behavior of capital.
   - The reform movement hoped to rationalize production and to reengineer a more socially productive society.
   - Purged of corrupting influences, democratic politics could be used to build social solidarity and community responsibility.
@@ -806,7 +826,7 @@ Winter History
   - Unwillingness to acknowledge class divisions were rampant in the Progressive movement.
     - Embraced *classless social harmony*.
   
-  #### Dynamics and Influences on Progressive Reform
+#### Dynamics and Influences on Progressive Reform
   - **A broad group of reformers often gathered at critical moments despite their differences in support of progressivism.**
     - Reformers reaffirmed the Progressive movement when many gathered to support the NAACP[^2].
     > In the five years before the outbreak of the world war... our general efforts were more and more interrelated with many other movements. -Jane Addams
@@ -819,7 +839,7 @@ Winter History
   - The core Progressive movement may have lost its initial coherence, but it retained its identity.
   - Progressive historians have often lost sight of the core vision amid a torrent of reform activity.
   
-  #### Cultural Limitations to a Universal Promise
+#### Cultural Limitations to a Universal Promise
   - The Progressive movement carried middle-class and native-born working-class cultural conceptions from where it began.
     - It drew heavily on a maternalist reform agenda.
     - Its visions of "the people" were limited and culturally bounded.
@@ -827,7 +847,7 @@ Winter History
   - When ethnic or race leaders advocated on their own behalf, many reformers viewed them as dangerous.
   - As class conflict erupted repeatedly, reformers' confidence in the ability to sustain a movement of class reconciliation and industrial peace was heavily shaken.
   
-  #### Modern Progressivism Amidst War and the Great Depression
+#### Modern Progressivism Amidst War and the Great Depression
   - Progressivist reformers assembled fractured legions to take on a new national mission for democracy.
     - Found the campaign for democratic reform absorbed into the wartime agenda of a broad patriotic coalition.
     - This coalition included many of their corporate enemies.
@@ -842,7 +862,7 @@ Winter History
   
   
   
-  ### Conclusion: War and the Ragged Edges of Reform
+### Conclusion: War and the Ragged Edges of Reform
   - The roots of 20th-century liberalism ("new liberalism") lay in its critique and abandonment of classical liberalism.
     - Classical liberalism's faults lay in its excessive deference to *individual liberty* and faith in the natural justice of the marketplace.
   - Many reformers believed that such principles were bankrupt in the face of deeper social crises.
@@ -876,7 +896,7 @@ Winter History
   - Reformers hoped to use war's emergency to realign relationships between labor and capital.
   - Labor Progressives hoped to find a model for expanded public ownership in the postwar period.
   
-  #### Progressive Positions Amid War
+#### Progressive Positions Amid War
   - Many Progressives found new rhetorical uses for the term "the people" as a way of embodying national identity and democratic culture.
   - The war appeared initially to be a gift to progressivism and gave reformers nationalist rhetoric to use.
   - **Embracing war was not an easy proposition** for many progressive reformers.
@@ -905,7 +925,7 @@ Winter History
   - Some "war intellectuals" were found to be naive and delusional at best, and cynical at worst.
   - The war disabled a promising movement for reform.
   
-  #### Campaigning for Industrial Democracy
+#### Campaigning for Industrial Democracy
   - Many reformers say a different kind of opportunity in the war.
   - Industrial democracy implied a "socializing" of industry; forging new ties among laboring people based on shared class interest.
   - In war, these views set apart a coalition of labor reformers and socialists from dominant currents of progressive reform that favored class reconciliation and social harmony.
@@ -919,7 +939,7 @@ Winter History
       - Staked positions in a few industries, where they promoted new class harmonization strategies.
     - Another more radical wing of industrial democrats pursued reforms including the nationalization of railroads and coal.
   
-  #### The Legacies of Progressive Reform
+#### The Legacies of Progressive Reform
   - Remnants of the reform community that had been the core of the Progressive movement felt a rightward shift in American politics during the 1920s.
   - Reformers drifted in greater isolation from centers of public power than prewar.
   - Still unwilling to frame problems in terms of class, these reformers shared little common ground with industrial democrats.
@@ -947,11 +967,11 @@ Winter History
   
  --- 
  
- ## *Labor's Untold Story - Chapter 10, "Victory"* by Richard O. Boyer and Herbert M. Morais
+## *Labor's Untold Story - Chapter 10, "Victory"* by Richard O. Boyer and Herbert M. Morais
   
   
   
-  ### Navigate
+### Navigate
   - [The Committee for Industrial Organization](#the-committee-for-industrial-organization)
   - [Sit-down at Flint](#sit-down-at-flint)
   - [Triumph](#triumph)
@@ -959,7 +979,7 @@ Winter History
   
   
   
-  ### The Committee for Industrial Organization
+### The Committee for Industrial Organization
   - A revolutionary, apocalyptic time; generations had battled in vain to accomplish what would be accomplished soon.
   - A time of youth and growth; the red scare was laft at and the new was welcomed.
   - Triumph and courage were infectious; many read of unprecedented sit-downs reducing General Motors.
@@ -1000,7 +1020,7 @@ Winter History
   
   
   
-  ### Sit-down at Flint
+### Sit-down at Flint
   - Strategists of the CIO intended to organize the union-breaking steel industry first.
     - Spontaneous surge of organization and the success of the sit-down tactic made them change.
   - The automobile industry was particularly brutal towards workers.
@@ -1032,7 +1052,7 @@ Winter History
   
   
   
-  ### Triumph
+### Triumph
   - In the aftermath of Flint, sit-downs moved from Flint to Detroit, Chicago, and other cities.
   - To the elite, sit-downs seemed like a horirlbe disease.
   - New sets of standards emerged; many workers who had never heard of unions sat down and raiiusd rages.
@@ -1059,7 +1079,7 @@ Winter History
   
   
   
-  ### The Know-How of Victory
+### The Know-How of Victory
   - The CIO was swiftly built, but not easily built.
     - It was hit hard by Communist conspiracy charges, negative press, and monopolized capital.
   - By 1938, monopolies began to recover and fight against labor.
@@ -1103,18 +1123,18 @@ Winter History
   
  --- 
  
- ## "Preamble to the National Labor Relations Act"
+## "Preamble to the National Labor Relations Act"
   
   
   
-  ### Introduction
+### Introduction
   - The National Labor Relations Act of 1935; more commonly known as the Wagner Act.
     - Named after its chief sponsor, NY senator Robert Wagner.
   - Justifies the rights of workers to choose their representatives democratically, and to bargain collectively with employers.
   
   
   
-  ### Preamble of the National Relations Act, 1935
+### Preamble of the National Relations Act, 1935
   - Employers denying employees the ability ot organize and the refusal of employers to accept collective bargaining leads inevitably to strikes nad unrest.
   - These strikes obstruct commerce by
     1. impairing the safety and efficiency of commerce;
@@ -1134,17 +1154,17 @@ Winter History
   
  --- 
  
- ## *Wartime Shipyard: A Study in Social Disunity* by Katherine Archibald
+## *Wartime Shipyard: A Study in Social Disunity* by Katherine Archibald
   
   
   
-  ### Navigate
+### Navigate
   * [Women in the Shipyard](#women-in-the-shipyard)
   * [Okies](#okies)
   
   
   
-  ### Women in the Shipyard
+### Women in the Shipyard
   - Before the war, most heavy industries provided a few areas where feminism did not work out.
   - The work was thought to be so complex and arduous it would never be able to be handled by women.
   - Women were beginning to intrude into the work of construction by late spring 1942, later into shipbuilding.
@@ -1205,7 +1225,7 @@ Winter History
   
   
   
-  ### Okies
+### Okies
   - Immigration from foreign shores was the largest source of growth in the 19th and early 20th centuries.
   - Most of California's immigrants were non-Californian.
   - Industrial and agricultural interests welcomed waves of migration, but the stranger was nonetheless disdained.
@@ -1246,11 +1266,11 @@ Winter History
   
  --- 
  
- ## *American Empire: The Realities and Consequences of U.S. Diplomacy; Chapter 1: "The Myth of the Reluctant Superpower"* by Andrew Bacevich
+## *American Empire: The Realities and Consequences of U.S. Diplomacy; Chapter 1: "The Myth of the Reluctant Superpower"* by Andrew Bacevich
   
   
   
-  ### Navigate
+### Navigate
   - [Introduction](#introduction)
   - [Early Challenges to the Reluctant Superpower Myth](#early-challenges-to-the-reluctant-superpower-myth)
   - [The Rise and Fall of Charles A. Beard](#the-rise-and-fall-of-charles-a-beard)
@@ -1264,7 +1284,7 @@ Winter History
   
   
   
-  ### Introduction
+### Introduction
   - Events culminating in an onward thrust of 1898 and a dramatic emergence on the world stage.
   - Prevailing idea: *Greatness was not sought, it happened*. American policy was a response to external factors.
     - 1898, Americans chose war only when depredations of Spain in Cuba were intolerable.
@@ -1276,7 +1296,7 @@ Winter History
   
   
   
-  ### Early Challenges to the Reluctant Superpower Myth
+### Early Challenges to the Reluctant Superpower Myth
   - Two occasions: critics mounted a challenge to the reluctant superpower consensus.
     1. Decade leading up to World War II;
     2. Crisis centered on the Vietnam War.
@@ -1292,7 +1312,7 @@ Winter History
   
   
   
-  ### The Rise and Fall of Charles A. Beard
+### The Rise and Fall of Charles A. Beard
   - Charles A. Beard was the most influential historian in America; he was original in interpretation, politically progressive, and prolific.
   - However, Beard's reputation stood as a ruin in the landscape of American historiography; Beard found himself denounced as a fascist apologist.
   - Beard closed his career by denouncing the orthodox account of U.S. entry into WWII.
@@ -1305,7 +1325,7 @@ Winter History
     - Some instances of Roosevelt's dishonesty - notably in misrepresenting U.S. naval involvement in GB's battle against U-boat threats.
   - Such an attack by Beard was impermissible; he consigned himself to the status of a miscreant.
   
-  #### Beginnings of Economic-Root Ideas
+#### Beginnings of Economic-Root Ideas
   - Beard was stirred by social ills of his era - by-products of laissez-faire attitudes of American industrialism.
   - How had such a society come into existence?
     - Beard's first book scandalized patriotic defenders of historical orthodoxy.
@@ -1341,7 +1361,7 @@ Winter History
   - Beard proposed the U.S. emphasize self-reliance and economic self-sufficiency - maximizing American freedom of action.
   - At the end of FDR's term, Beard realized the New Deal was a salvage operation; FDR was intent on preserving democratic capitalism.
   
-  #### Five Faults of Economic Expansion
+#### Five Faults of Economic Expansion
   1. Dreams of endless economic expansion are illusory.
   2. The more insistently the U.S. pressed to open the world, the greater the opposition it would encounter.
   3. In provoking resistance, the door to militarism at home would be opened and the U.S. would find itself increasingly resorting to force.
@@ -1353,7 +1373,7 @@ Winter History
     - To pursue the nation's material well-being by venturing beyond the frame of national security was to court collapse and exhaustion.
     - America's internal market was undeveloped and vast.
   
-  #### Complex Characterization and Disgrace in World War II
+#### Complex Characterization and Disgrace in World War II
   - Looming crises in Europe and Asia were portrayed primarily in moral terms leading up to WWII.
   - No victim was complete without fault and no great power was innocent.
   
@@ -1373,7 +1393,7 @@ Winter History
   
   
   
-  ### William Appleman Williams
+### William Appleman Williams
   - William Appleman Williams was a midwesterner; his father was killed when he was 8.
   - 1947, Williams left the Navy to study history @ the University of Wisconsin - famous for loyalty to the teachings of Charles Beard.
   - Heavy progressivism at the University of Wisconsin completed his transformation into a radical.
@@ -1387,7 +1407,7 @@ Winter History
   - Williams acknowledged his debt to Beard at a time when Beard's professional reputation was at rock bottom.
     - Beard's ideas provided the foundation for William's ideas.
     
-  #### Expansionism and Openness
+#### Expansionism and Openness
   - Williams endorsed Beard's view that expansionism was integral to American history.
     - Expression of a struggle for America's soul - not whether citizens should be agrarians or merchants, but instead whether Americans would descend into materialism or a Christian commonwealth.
   - Americans could give themselves over to hedonistic individualism or accept demands and self-discipline of living with others in a responsible, humane fashion.
@@ -1403,7 +1423,7 @@ Winter History
   - Openness was not simply a cover for exploitation - most imperialists believed an American empire would be humanitarian.
   - Dogma of openness became a central component of American ideology.
   
-  #### World War II
+#### World War II
   - Williams wrote that the war's end left Americans confident that their earlier visions of Manifest Destiny were materializing.
   - Orthodox view: Joseph Stalin entertained aspirations of his own - the Soviet dictator marked himself as ungratefully and dangerous.
     - William rejected this, instead proposing Soviet behavior was defensive in nature, and that the U.S. more than the Soviet Union was bent on exploiting victory to expand its influence.
@@ -1423,7 +1443,7 @@ Winter History
   > "The issue is the nature and dynamic of the American empire, not the validity of Lenin’s thesis."
   > - Williams
   
-  #### Four Worthy Points from Williams' Efforts to Understand American Power
+#### Four Worthy Points from Williams' Efforts to Understand American Power
   - From Williams' efforts to understand American power, there are four worthy points.
   1. The United States came to play a role in the 20th century that must be understood as a variant of the empire.
   2. The idea of something coming into existence out of American control was rejected; American imperialism arose out of a particular worldview and reflected a coherent strategy with the support of the American people.
@@ -1437,11 +1457,11 @@ Winter History
   
  --- 
  
- ## *Revolution in the Air: Sixties Radicals Turn to Lenin, Mao, and Che* by Max Elbaum
+## *Revolution in the Air: Sixties Radicals Turn to Lenin, Mao, and Che* by Max Elbaum
   
   
   
-  ### Navigate
+### Navigate
   - [Introduction](#introduction)
   - [1968: "It All Fit Together"](#1968-it-all-fit-together)
   - ["Three Million Think Revolution Is Needed"](#-three-million-think-revolution-is-needed)
@@ -1459,7 +1479,7 @@ Winter History
   
   
   
-  ### Introduction
+### Introduction
   - Conventional wisdom about sixties radicals: decade began with impassioned people struggling to fulfill the promise of America, eventually becoming irrational and self-destructive.
   - Elbaum proposes a new look at the radicalism of the sixties.
     - As a result of their engagement in the struggle against the war in Vietnam and racism at home, radicals gained new levels of insight into inequality and militarism in US society.
@@ -1468,7 +1488,7 @@ Winter History
   
   
   
-  ### 1968: "It All Fit Together"
+### 1968: "It All Fit Together"
   - 1968 was a watershed year for revolutionarist activists.
     1. Explosion of the Vietnamese Tet offensive at the end;
     2. Lyndon Johnson's forced withdrawal from the presidential race;
@@ -1483,7 +1503,7 @@ Winter History
   
   
   
-  ### "Three Million Think Revolution Is Needed"
+### "Three Million Think Revolution Is Needed"
   - Nixon's doomed efforts to win the war in Southeast Asia led to the May 1970 invasion of Cambodia.
     - This resulted in one of the biggest protest explosions on US college campuses in history.
     - 4/10 college students (nearly 3 million people) thought a revolution was necessary.
@@ -1500,7 +1520,7 @@ Winter History
     
   
   
-  ### Preparing the Ground
+### Preparing the Ground
   - The new political force that came together in 1968 was the result of a whole array of experiences in which young people learned lessons about power, the nature of social conflict, and US society.
   - Chief events transformed the consciousness of sixties activists.
   - **Primary force** in initiating this generation's ideological evolution was the civil rights movement.
@@ -1519,7 +1539,7 @@ Winter History
   
   
   
-  ### The Move Toward the Left Accelerates
+### The Move Toward the Left Accelerates
   - Expansion and leftward transition of activist ranks accelerated between 1964 and 1967.
   - The Democratic Party refused to seat the openly segregationist Mississippi delegation.
   - Betrayal of racial justice in favor of political expediency solidified many suspicions of official liberalism.
@@ -1553,7 +1573,7 @@ Winter History
   
   
   
-  ### King's Watershed Antiwar Speech
+### King's Watershed Antiwar Speech
   - Martin Luther King gave the momentous "breaking silence" speech condemning the Vietnam War.
   - King began to speak consistently in terms of direct links between US violence in Vietnam and racism at home.
   - Murder of Che in 1967 had a significant impact; young people were "making connections" quickly.
@@ -1569,7 +1589,7 @@ Winter History
   
   
   
-  ### Revolution in the Air
+### Revolution in the Air
   - The Vietnamese Tet offensive was a surprise to war-makers and protestors.
   - The National Liberation Front (NLF) launched a coordinated assault.
     - Exposed the weaknesses of the South Vietnamese regime and the failure of Washington's Vietnam policy.
@@ -1598,7 +1618,7 @@ Winter History
   
   
   
-  ### New Constituencies Mobilize
+### New Constituencies Mobilize
   - May 1970 protests were to be the last militant antiwar actions.
   - SNCC and SDS collapsed.
   - Other indicators of the establishment's vulnerability and the spread of radicalism to new constituencies:
@@ -1628,7 +1648,7 @@ Winter History
   
   
   
-  ### Out of Prisons, Kitchens, and Closets
+### Out of Prisons, Kitchens, and Closets
   - Development of a radical movement "behind the walls" as prisoners became politicized.
   - Prison protests frequently turned into revolt.
     - September 1971 at Attica - 1,200 inmates seized control of half the prison and took hostages.
@@ -1642,7 +1662,7 @@ Winter History
   
   
   
-  ### Shaking the Empire
+### Shaking the Empire
   - When North Korea seized the *USS Pueblo* and held its crew as spies, the US issued an apology to get the sailors back.
   - Mexico, faced with a rising student protest movement and fearing embarrassment at the Olympic Games, massacred at least 300 students.
     - Tommie Smith and John Carlos gave the black power salute while receiving their Olympic medals.
@@ -1655,7 +1675,7 @@ Winter History
   
   
   
-  ### Worker Militancy
+### Worker Militancy
   - A surge of labor militancy altered the political thinking of new radicals and government policy-makers in 1969-70.
   - Nationwide strike against General Electric, Post Office walkout, two-month strike against General Motors, etc.
     - Growing numbers of cases where unionists welcomed radicals.
@@ -1664,7 +1684,7 @@ Winter History
   
   
   
-  ### 1969: Implosion or Fadeout?
+### 1969: Implosion or Fadeout?
   - Tremendous ferment boiled among the dispossessed.
   - These movements focused almost exclusively on the ebb and flow of activism among white radicals in and around SDS.
     - The turn taken by prominent figures out of the New Left to apocalyptic rhetoric and small-group violence is taken as a central development and the destroyer of the New Left.
@@ -1686,7 +1706,7 @@ Winter History
   
   
   
-  ### A Broad Base of Revolutionary Sentiment
+### A Broad Base of Revolutionary Sentiment
   - The new 1968-73 revolutionary current was too broad for any single event to halt its momentum.
   - Ideas about revolution spread widely among the youth of color and white counterculture.
   - Being a revolutionary did not mean being an ideological oddball, but instead a strong sense of social responsibility, giving the revolutionary effort strength and self-confidence.
@@ -1699,7 +1719,7 @@ Winter History
   
   
   
-  ### More Complex Challenges on the Agenda
+### More Complex Challenges on the Agenda
   - 1968-1973 clashes drastically changed the US political terrain.
   - Established centers of power could no longer completely control events.
   - Masses of "everyday people" stepped onto the political stage as independent actors.
@@ -1719,11 +1739,11 @@ Winter History
   
  --- 
  
- ## *Beyond Vietnam* by Martin Luther King, Jr.
+## *Beyond Vietnam* by Martin Luther King, Jr.
   
   
   
-  ### Navigation
+### Navigation
   - [Introduction](#introduction)
   - [The Vietnam War as an Enemy of the Poor](#the-vietnam-war-as-an-enemy-of-the-poor)
   - [The Vietnam War as an Unfair Conscription](#the-vietnam-war-as-an-unfair-conscription)
@@ -1739,7 +1759,7 @@ Winter History
   
   
   
-  ### Introduction
+### Introduction
   - Delivered April 167, New York, NY.
   - Coming to address the audience because "my conscience leaves me no choice".
     - Men do not easily oppose the government's policy, especially in times of war.
@@ -1752,7 +1772,7 @@ Winter History
   
   
   
-  ### The Vietnam War as an Enemy of the Poor
+### The Vietnam War as an Enemy of the Poor
   - Shining moment in the struggle of America - a promise of hope for the poor through the poverty program.
   - As the Vietnam War arrived, the program was broken and society had gone mad on war.
   - America would never invest funds or energies into the rehabilitation of the poor so long as adventures like Vietnam continue to draw men, skills, and money.
@@ -1760,14 +1780,14 @@ Winter History
   
   
   
-  ### The Vietnam War as an Unfair Conscription
+### The Vietnam War as an Unfair Conscription
   - The war does more than just devastate the hopes of the poor.
   - The Vietnam War has caused black young men to disproportionately be sent to guarantee liberties in Southeast Asia when they cannot find them in the American South.
   - A cruel manipulation of the poor.
   
   
   
-  ### The Vietnam War as an Irony Exempt from Violence Standards
+### The Vietnam War as an Irony Exempt from Violence Standards
   - As MLK walked among angry young men, he told them that Molotov cocktails and rifles would not solve their problem.
     - They respond: "What about Vietnam?"
   - Is America not using massive doses of violence to solve its problems?
@@ -1776,7 +1796,7 @@ Winter History
   
   
   
-  ### The Vietnam War as an Unignorable Issue
+### The Vietnam War as an Unignorable Issue
   - Some ask, "Aren't you a civil rights leader?" to exclude MLK from the peace movement.
   - MLK and the Southern Christian Leadership Conference were convinced not to limit the vision of rights for black people only.
   - It should be clear that no one who has any concern for the integrity of America can ignore the present war.
@@ -1789,14 +1809,14 @@ Winter History
   
   
   
-  ### The Vietnam War as a Question of God
+### The Vietnam War as a Question of God
   - MLK lives with meaning to his commitment to the ministry of Jesus Christ.
   - The Good News was meant for all men.
   - The ministry is in obedience to the one who loved his enemies so fully that he died for them.
   
   
   
-  ### The Vietnam War as a Question of Brotherhood
+### The Vietnam War as a Question of Brotherhood
   - Beyond the calling of race or nation or creed is one of brotherhood.
   - The Father is deeply concerned; MLK comes to speak for the helpless and outcast children.
   - We are bound by deeper allegiances and loyalties than nationalism and self-defined goals and positions.
@@ -1804,7 +1824,7 @@ Winter History
   
   
   
-  ### A History of Failed US Involvement in Vietnam
+### A History of Failed US Involvement in Vietnam
   - Speaking to the people living under the curse of war for almost three decades.
   - Americans are strange liberators.
     - The Vietnamese proclaimed independence in 1945, led by Ho Chi Minh.
@@ -1821,7 +1841,7 @@ Winter History
   
   
   
-  ### Seeking to Understand the North Vietnamese Perspective
+### Seeking to Understand the North Vietnamese Perspective
   - What do the communists and the "VC" think of the US?
   - How can they believe in US integrity when she speaks of aggression from the north?
   - Men we support pressed the North Vietnamese to their violence.
@@ -1834,7 +1854,7 @@ Winter History
   
   
   
-  ### Ending the Vietnam War as an End to American Destruction
+### Ending the Vietnam War as an End to American Destruction
   - By sending US troops to Vietnam, they are being submitted to a brutalizing process of destruction and cynicism.
   - The wealthy and secure create a hell for the poor.
   - The madness must cease; the poor in America are paying the double price of failed hopes and dealing with death and corruption of Vietnam.
@@ -1846,7 +1866,7 @@ Winter History
   
   
   
-  ### Recommendations for Concrete Action
+### Recommendations for Concrete Action
   - Five recommendations:
     1. End all bombing in North and South Vietnam.
     2. Declare a ceasefire; such action will create an atmosphere for negotiation.
@@ -1863,7 +1883,7 @@ Winter History
   
   
   
-  ### A Radical Revolution of Values
+### A Radical Revolution of Values
   - We must shift from an object-oriented society to a person-oriented society.
   - When machines, profit motives, and property rights are most important than people, racism, extreme materialism, and militarism are unconquerable.
   - A revolution of values will question the fairness and justice of our policies.
@@ -1883,11 +1903,11 @@ Winter History
   
  --- 
  
- ## *Guns and Butter: The Welfare State, the Carceral State, and the Politics of Exclusion in the Postwar United States* by Julilly Johler-Hausmann
+## *Guns and Butter: The Welfare State, the Carceral State, and the Politics of Exclusion in the Postwar United States* by Julilly Johler-Hausmann
   
   
   
-  ### Navigation
+### Navigation
   - [Introduction](#introduction)
   - [Outside Big Government Debates](#outside-big-government-debates)
   - [State Strategies and Their Political Implications](#state-strategies-and-their-political-implications)
@@ -1899,7 +1919,7 @@ Winter History
   
   
   
-  ### Introduction
+### Introduction
   - Opposition to full rights to suspect populations was common in social and criminal policy discourse.
   - Frequently, Americans would be frustrated over reforms distributing resources to "undeserving" groups.
   - Connecting the US carceral state with the welfare state; welfare and criminal policy are the state's responsibilities to poor and socially marginalized people.
@@ -1911,7 +1931,7 @@ Winter History
   
   
   
-  ### Outside Big Government Debates
+### Outside Big Government Debates
   - Examining welfare and penal transformations together helps to recast assumptions about the "rise of the Right".
     - These assumptions often assume conservatives aimed to decrease the government's size and role in society.
   - However, this obscures the roles of other groups - moderates and liberals - in facilitating state transformation.
@@ -1930,7 +1950,7 @@ Winter History
   
   
   
-  ### State Strategies and Their Political Implications
+### State Strategies and Their Political Implications
   - Americans have seen transformations in governing missions within institutions.
   - Policymakers replaced social integration via economic redistribution and reform with punitive and exclusionary means.
   - State programs have a range of political effects.
@@ -1948,7 +1968,7 @@ Winter History
   
   
   
-  ### Confronting the Urban Crisis
+### Confronting the Urban Crisis
   - "Urban crisis" - the economic downturn, capital migration, discriminatory housing, and hiring.
     - Lyndon B. Johnson's War on Poverty - reflected confidence that social welfare initiatives & economic prosperity would allow the country to confront these challenges.
   - Trade-off of "guns and butter" - diminished resources for social programs contrasted against escalating Vietnam War cost.
@@ -1972,7 +1992,7 @@ Winter History
   
   
   
-  ### Drug Policy
+### Drug Policy
   - A diverse range of state institutions abandoned rehabilitative strategies and embraced punishment.
   - Difficulty in the treatment program efforts set the stage for punitive proposals to deal with the drug problem.
     - Treatment programs were challenging, controversial, and expensive.
@@ -1985,7 +2005,7 @@ Winter History
   
   
   
-  ### AFDC Policy
+### AFDC Policy
   - The AFDC welfare program underwent a similar reorientation, embracing increasingly punitive practices.
   - Welfare opponents justified punitive retrenchment by asserting recipients failed to fulfill citizenship obligations.
   - Receiving welfare marked the abdication of personal responsibility, which justified denial of rights.
@@ -1994,7 +2014,7 @@ Winter History
   
   
   
-  ### Crime Policy
+### Crime Policy
   - The penal system repudiated a commitment to therapeutic correction.
   - Rehabilitation coddles criminals - "nothing works" in rehabilitation programs.
   - Jerry Brown, California's Democrat governor, oversaw the passage of California's determinate-sentencing law.
@@ -2007,7 +2027,7 @@ Winter History
   
   
   
-  ### The Spectacle of Getting Tough
+### The Spectacle of Getting Tough
   - Linking welfare and penal history suggests exclusionary policies played an important role in solidifying visions of a racialized underclass in poverty.
   - The welfare system often enlisted the penal system to signal suspicion of recipients.
   - Policies produced the political reality they argued they reflected - erecting barriers to civic and economic participation of poor people.
@@ -2020,11 +2040,11 @@ Winter History
   
  --- 
  
- ## the Powell Memorandum: *Attack on American Free Enterprise System*
+## the Powell Memorandum: *Attack on American Free Enterprise System*
   
   
   
-  ### Navigation
+### Navigation
   - [Dimensions of the Attack](#dimensions-of-the-attack)
   - [Sources of the Attack](#sources-of-the-attack)
   - [Tone of Attack](#tone-of-attack)
@@ -2049,14 +2069,14 @@ Winter History
   
   
   
-  ### Dimensions of the Attack
+### Dimensions of the Attack
   - The American economic system is under broad attack.
   - There are always some that prefer socialism and statism; some critics have been helpful.
   - However, now we are not dealing with isolated attacks; an assault on the enterprise system is being consistently pursued.
   
   
   
-  ### Sources of the Attack
+### Sources of the Attack
   - Sources are varied and diffused.
     - Communists, New Leftists, other revolutionaries.
     - These new left extremists are more numerous and better financed.
@@ -2069,7 +2089,7 @@ Winter History
   
   
   
-  ### Tone of Attack
+### Tone of Attack
   - William Kunstler, warmly welcomed on campuses:
   
     > "You must learn to fight in the streets, to revolt, to shoot guns. We will learn to do all of the things that property owners fear."
@@ -2082,7 +2102,7 @@ Winter History
   
   
   
-  ### The Apathy and Default of Business
+### The Apathy and Default of Business
   - Businesses have often responded by appeasement or ignorance.
   - The businessmen have not been trained to conduct guerrilla warfare on propagandizers, to be fair; they have performed their tasks of making profits and creating jobs very well.
     - However, have shown little skill or gut against their critics.
@@ -2090,7 +2110,7 @@ Winter History
   
   
   
-  ### Responsibility of Business Executives
+### Responsibility of Business Executives
   - What should be done?
   - Businessmen need to confront the problem as a primary responsibility of corporate management.
   - Top management must be equally concerned with profits as protecting the system itself.
@@ -2099,7 +2119,7 @@ Winter History
   
   
   
-  ### Possible Role of the Chamber of Commerce
+### Possible Role of the Chamber of Commerce
   - Strength lies in the organization - individual activity by corporations will not be enough.
   - The National Chamber of Commerce plays a vital role.
     - A fine reputation, broad base of support.
@@ -2107,7 +2127,7 @@ Winter History
   
   
   
-  ### The Campus
+### The Campus
   - Assault on the enterprise system has gradually evolved over the past two decades.
   - Social science faculties are generally liberally oriented.
   
@@ -2124,7 +2144,7 @@ Winter History
   - "Intellectuals" end up in regulatory agencies with large authority over the business system.
   - Business must address the campus origin of this hostility.
   
-  #### What Can Be Done About the Campus
+#### What Can Be Done About the Campus
   - The Chamber can assist constructive change in many ways.
   
   | Method | Description |
@@ -2138,7 +2158,7 @@ Winter History
   
   
   
-  ### Equal Time on the Campus
+### Equal Time on the Campus
   - The Chamber should insist on equal time on college speaking circuits.
   - Each campus has formal and informal groups that invite speakers; there is inadequacy in the representation of these programs.
   - The Chamber must aggressively insist on "the right to be heard" - "equal time".
@@ -2149,24 +2169,24 @@ Winter History
   
   
   
-  ### Balancing of Faculties
+### Balancing of Faculties
   - A fundamental problem - an imbalance of many faculties.
   - Should be undertaken as part of an overall program.
   - Basic concepts of balance, fairness, and truth are difficult to resist or presented properly.
   
   
   
-  ### Graduate Schools of Business
+### Graduate Schools of Business
   - The Chamber should request specific courses in schools - essential training for the executives of the future.
   
   
   
-  ### Secondary Education
+### Secondary Education
   - Priority should be at the college level, but high school activity is increasing as well.
   
   
   
-  ### What Can Be Done About the Public?
+### What Can Be Done About the Public?
   - Reaching the public is essential for the shorter term.
   
   | Means | Description |
@@ -2179,7 +2199,7 @@ Winter History
   
   
   
-  ### The Neglected Political Arena
+### The Neglected Political Arena
   - It is the Marxist doctrine that capitalist countries are controlled by big business.
   - Few elements of American society have as little influence as the American businessman, corporation, or corporate stockholders.
   - The American business executive is truly the forgotten man.
@@ -2190,45 +2210,45 @@ Winter History
   
   
   
-  ### Neglected Opportunity in the Courts
+### Neglected Opportunity in the Courts
   - American business and the enterprise system have been affected much by the courts.
   - The ACLU intervenes in many cases each year; labor unions, civil rights groups, etc. are extremely active in the judicial arena.
   - The Chamber should engage a highly competent staff of lawyers.
   
   
   
-  ### Neglected Stockholder Power
+### Neglected Stockholder Power
   - 20 million stockholders are real owners and capitalists of the system, providing the capital that fuels the economic system to produce the highest standard of living.
   - How to influence stockholders? - educational program and political action program.
   
   
   
-  ### A More Aggressive Attitude
+### A More Aggressive Attitude
   - Business interests have tried to maintain low profiles, especially w/ respect to political action.
   - The spokesmen of the enterprise system need to be more aggressive than in the past.
   
   
   
-  ### The Cost
+### The Cost
   - Such a program would require more generous financial support from American corporations.
   - Salaries for the staff of the Chamber need to be raised.
   - The Chamber itself may benefit from restructuring - less changing of officers.
   
   
   
-  ### Quality Control is Essential
+### Quality Control is Essential
   - Publications, articles, speeches, and so on must meet standards of accuracy and excellence.
   
   
   
-  ### Relationship to Freedom
+### Relationship to Freedom
   - Threat to the enterprise is not merely an economic matter, but one of **individual freedom**.
   - Alternatives to free enterprise require bureaucratic regulation of individual freedom.
   - The message to the American people: the contraction of economic freedom is followed by governmental restrictions on other rights.
   
   
   
-  ### Conclusion
+### Conclusion
   - Views suggested are tentative.
   - However, business and the enterprise system are in deep trouble.
   
@@ -2240,7 +2260,7 @@ Winter History
   
  --- 
  
- ## "How Wealth Inequality Has Changed in the US since the Great Recession, by Race, Ethnicity, and Income" by Rakesh Kochhar
+## "How Wealth Inequality Has Changed in the US since the Great Recession, by Race, Ethnicity, and Income" by Rakesh Kochhar
   
   
   
@@ -2263,11 +2283,11 @@ Winter History
   
  --- 
  
- ## "Global Warming's Terrifying New Math" by Bill McKibben
+## "Global Warming's Terrifying New Math" by Bill McKibben
   
   
   
-  ### Navigate
+### Navigate
   - [Introduction](#introduction)
   - [The First Number: 2 Degrees Celsius](#the-first-number-2-degrees-celsius)
   - [The Second Number: 565 Gigatons](#the-second-number-565-gigatons)
@@ -2276,7 +2296,7 @@ Winter History
   
   
   
-  ### Introduction
+### Introduction
   - There are hard numbers about climate change.
   - Meterologists report that this spring is the warmest ever in the nation.
   - Barack Obama did not attend the environmental summit.
@@ -2284,7 +2304,7 @@ Winter History
   
   
   
-  ### The First Number: 2 Degrees Celsius
+### The First Number: 2 Degrees Celsius
   - Copenhagen climate conference of 2009 would have marked the culmination of a fight to slow climate change.
   - Copenhagen Accord - the increase in global temperature should be below 2 degrees Celsius.
   - This ratified later positions in the Major Economies Forum and is taken as convention.
@@ -2294,7 +2314,7 @@ Winter History
   
   
   
-  ### The Second Number: 565 Gigatons
+### The Second Number: 565 Gigatons
   - Humans can pour roughly 565 more gigatons of carbon dioxide and have reasonable hope of staying below two degrees.
   - Global "carbon budget" - calculating how much oil, coal, and gas can be safely burned.
   - Even if we stop increasing CO2 now, the temperature will likely rise to another 0.8 degrees.
@@ -2305,7 +2325,7 @@ Winter History
   
   
   
-  ### The Third Number: 2,795 Gigatons
+### The Third Number: 2,795 Gigatons
   - London financial analysis and environmentalists at the Carbon Tracker Initiative.
   - Amount of carbon contained in coal, oil, and gas reserves of fossil-fuel companies.
     - 2,795 gigatons > 565 gigatons.
@@ -2317,7 +2337,7 @@ Winter History
   
   
   
-  ### Proposed Solutions
+### Proposed Solutions
   - We know which strategies don't work.
     - Changing individual lifestyles is difficult because we are constructing a campaign that works aainst our interests.
     - Time is what we lack.
@@ -2350,11 +2370,11 @@ Winter History
   
  --- 
  
- ## *From #BlackLivesMatter to Black Liberation* by Keeanga-Yamahtta Taylor
+## *From #BlackLivesMatter to Black Liberation* by Keeanga-Yamahtta Taylor
   
   
   
-  ### Navigate
+### Navigate
   - [Introduction](#introduction)
   - [Two Black Societies, Separate and Unequal](#two-black-societies-separate-and-unequal)
   - [Black Awakening in Obama's America](#black-awakening-in-obamas-america)
@@ -2363,7 +2383,7 @@ Winter History
   
   
   
-  ### Introduction
+### Introduction
   - The "eminently desirable" black rebellion - triumphalist rhetoric of the American dream meaningless.
   - Relentless burden of conditions would propel 1/2 million African Americans to rise in the course of the 1960s.
   - Ten months from Fall 2014 to Spring 2015 - the United States rocked by mass protests in response to the death of Michael Brown involvement with the police.
@@ -2391,7 +2411,7 @@ Winter History
   
   
   
-  ### Two Black Societies, Separate and Unequal
+### Two Black Societies, Separate and Unequal
   - How can we explain the rise of Barack Obama and the growth of the black political class at the same time as the emergence of BLM?
   - Deep class differences among African Americans allow for the rise of a few while the vast majority languishes in despair.
   - The wealthiest 1% controls 40% of the wealth.
@@ -2411,7 +2431,7 @@ Winter History
   
   
   
-  ### Black Awakening in Obama's America
+### Black Awakening in Obama's America
   - Periodic ruptures in US narrative of its triumph ver racism.
   - Death of Emmett Till; black freedom struggle of the 1960s; 1992 LA Rebellion.
   - It is impossible to say when and where a movement will arise, but its eventual emergence is predictable.
@@ -2426,7 +2446,7 @@ Winter History
   
   
   
-  ### "Hands Up, Don't Shoot"
+### "Hands Up, Don't Shoot"
   - Killing of Mike Brown drove holes in logic that black people simply doing the "right things" could overcome crises.
   - When police are involved, looking black can make you a suspect or get you killed.
   - Specter of the crisis was bolstered.
@@ -2437,10 +2457,11 @@ Winter History
   
   
   
-  ### The Future of Black Politics
+### The Future of Black Politics
   - The most significant transformation has been the emergence of the black elite.
   - There are many African Americans that advocate for greater privatization of public resources.
   - Black officials are just as eager as white officers to invoke racial stereotypes to cover their incompetence.
   - Growing polarization between the black political and economic elite and the "disposable".
   - Black Lives Matter is encountering some of the same questions as the Black Power movement of the 1960s and 70s.
   - Why did BLM emerge under the nation's first black president?
+ 
