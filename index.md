@@ -18,5 +18,5 @@ I'm Andre Ye. I'm a current student at the University of Washington pursuing dua
 
 The [Transition School](https://robinsoncenter.uw.edu/programs/transition-school/){:target="_blank"} is a one-year college preparatory program offered through the [Robinson Center for Young Scholars](https://robinsoncenter.uw.edu/){:target="_blank"} at the University of Washington via the Early Entrance Program (EEP). Students leave eighth grade into the Transition School, from which they graduate and become matriculated college students.
 
-**This website is still in the process of being transferred.** If you are looking for UW notes, please visit the link in the top right corner. Notes for UW classes will be uploaded soon. Note that this site works best with Chrome; using other browsers may expose bugs.
+**This website is still in the process of being transferred. If you are looking for secure TS notes, visit [this page](https://andre-ye.github.io/ts-notes){: .btn}.** If you are looking for UW notes, please visit the link in the top right corner. Notes for UW classes will be uploaded soon. Note that this site works best with Chrome; using other browsers may expose bugs.
 {: .text-red-200}
