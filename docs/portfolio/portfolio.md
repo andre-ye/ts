@@ -27,7 +27,8 @@ Collected work from Transition School
 
 ["The Immolation"](https://andre-ye.github.io/history/winter/portfolio/Final Draft for Cumulative Project.pdf){:target="_blank"} 
 > A short story written for history class seeking to reunderstand in both allegorical and literal paintings the dynamics of labor unionization in the 1930s.
-| [Journal Club: "Improved Protein Structure Prediction Using Potentials from Deep Learning"](https://andre-ye.github.io/biology/winter-quarter/portfolio/winter-bio-jc.pdf){:target="_blank"}
+
+[Journal Club: "Improved Protein Structure Prediction Using Potentials from Deep Learning"](https://andre-ye.github.io/biology/winter-quarter/portfolio/winter-bio-jc.pdf){:target="_blank"}
 > Slides from a journal club presentation on a DeepMind paper for biology class.
 
 ---
