@@ -14,14 +14,21 @@ Collected work from Transition School
 ---
 
 
+## Showcase
 
-| Title + Link | Description |
-| --- | --- |
-| ["The Cigarette and the Tragic Pursuit of Death in *Pale Horse, Pale Rider*"](https://andre-ye.github.io/english/portfolio/Draft 3.pdf){:target="_blank"} | Written for English class, this essay explores the symbolism of the cigarette and tragic love amidst death in Katherine Anne Porter's novel, *Pale Horse, Pale Rider*. |
-| ["Analyzing Latent Space in Autoencoders of Varied Bottleneck Size""](https://andre-ye.github.io/precalc/portfolio/Project 4 Draft 3.pdf){:target="_blank"} | This mathematics class project explores and understands the clustering of neural network representations of handwritten digits, and uncovers some interesting findings suggesting another way to represent the Deep Double Descent curve. |
-| ["Analying Sinusoidal Patterns in 2020 U.S. Presidential Election Tweets"](https://andre-ye.github.io/precalc/portfolio/Project_5_final.pdf){:target="_blank"} | This mathematics class project explores trends in the frequency and sentiment of tweets in the 2020 U.S. Presidential Election. |
-| ["The Immolation"](https://andre-ye.github.io/history/winter/portfolio/Final Draft for Cumulative Project.pdf){:target="_blank"} | A short story written for history class seeking to reunderstand in both allegorical and literal paintings the dynamics of labor unionization in the 1930s. |
-| [Journal Club: "Improved Protein Structure Prediction Using Potentials from Deep Learning"](https://andre-ye.github.io/biology/winter-quarter/portfolio/winter-bio-jc.pdf){:target="_blank"} | Slides from a journal club presentation on a DeepMind paper for biology class. |
+["The Cigarette and the Tragic Pursuit of Death in *Pale Horse, Pale Rider*"](https://andre-ye.github.io/english/portfolio/Draft 3.pdf){:target="_blank"}
+> Written for English class, this essay explores the symbolism of the cigarette and tragic love amidst death in Katherine Anne Porter's novel, *Pale Horse, Pale Rider*.
+
+["Analyzing Latent Space in Autoencoders of Varied Bottleneck Size""](https://andre-ye.github.io/precalc/portfolio/Project 4 Draft 3.pdf){:target="_blank"}
+> This mathematics class project explores and understands the clustering of neural network representations of handwritten digits, and uncovers some interesting findings suggesting another way to represent the Deep Double Descent curve.
+
+["Analying Sinusoidal Patterns in 2020 U.S. Presidential Election Tweets"](https://andre-ye.github.io/precalc/portfolio/Project_5_final.pdf){:target="_blank"}
+> This mathematics class project explores trends in the frequency and sentiment of tweets in the 2020 U.S. Presidential Election.
+
+["The Immolation"](https://andre-ye.github.io/history/winter/portfolio/Final Draft for Cumulative Project.pdf){:target="_blank"} 
+> A short story written for history class seeking to reunderstand in both allegorical and literal paintings the dynamics of labor unionization in the 1930s.
+| [Journal Club: "Improved Protein Structure Prediction Using Potentials from Deep Learning"](https://andre-ye.github.io/biology/winter-quarter/portfolio/winter-bio-jc.pdf){:target="_blank"}
+> Slides from a journal club presentation on a DeepMind paper for biology class.
 
 ---
 
