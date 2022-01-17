@@ -71,13 +71,13 @@ Collected work from Transition School
 *See notes for lectures and reading response materials [here](https://andre-ye.github.io/history/history_navigation){:target="_blank"}.*
 
 #### Fall Quarter
-- [Fall Midterm Essay](https://andre-ye.github.io/history/portfolio/Fall Midterm Essay.pdf){:target="_blank"}, on the pyschological reinforcement of slavery.
-- [Fall Final Essay](https://andre-ye.github.io/history/portfolio/History Final.pdf){:target="_blank"}, on the South's aggression and the Free Soil Dream in the Civil War.
-- [Fall Quarter Essay 1](https://andre-ye.github.io/history/portfolio/Essay%201.pdf){:target="_blank"}, on the role of religion in conquest.
-- [Fall Quarter Essay 2](https://andre-ye.github.io/history/portfolio/Essay%202%20Revised.pdf){:target="_blank"}, on immigrant inclusion and race dynamics.
-- [Fall Quarter Essay 3](https://andre-ye.github.io/history/portfolio/Essay Draft 1.pdf){:target="_blank"}, on the relationship between emancipation and the women's movement.
+- [Fall Midterm Essay](https://andre-ye.github.io/ts/docs/portfolio/files/history/fall/Fall Midterm Essay.pdf){:target="_blank"}, on the pyschological reinforcement of slavery.
+- [Fall Final Essay](https://andre-ye.github.io/ts/docs/portfolio/files/history/fall/History Final.pdf){:target="_blank"}, on the South's aggression and the Free Soil Dream in the Civil War.
+- [Fall Quarter Essay 1](https://andre-ye.github.io/ts/docs/portfolio/files/history/fall/Essay%201.pdf){:target="_blank"}, on the role of religion in conquest.
+- [Fall Quarter Essay 2](https://andre-ye.github.io/ts/docs/portfolio/files/history/fall/Essay%202%20Revised.pdf){:target="_blank"}, on immigrant inclusion and race dynamics.
+- [Fall Quarter Essay 3](https://andre-ye.github.io/ts/docs/portfolio/files/history/fall/Essay Draft 1.pdf){:target="_blank"}, on the relationship between emancipation and the women's movement.
 
 #### Winter Quarter
-- [Winter Quarter Essay 1 - "Clashing Notions of Liberty in the Gilded Age"](https://andre-ye.github.io/history/winter/portfolio/Essay 1 Draft.pdf){:target="_blank"}
-- [Winter Quarter Essay 2 - "The Hesitancy of Progressivism"](https://andre-ye.github.io/history/winter/portfolio/Essay 2 Draft 2.pdf){:target="_blank"}
-- [Final Culminating Project - "The Immolation"](https://andre-ye.github.io/history/winter/portfolio/Final Draft for Cumulative Project.pdf){:target="_blank"}, a short story on unionization in the 1930s.
+- [Winter Quarter Essay 1 - "Clashing Notions of Liberty in the Gilded Age"](https://andre-ye.github.io/ts/docs/portfolio/files/history/winter/Essay 1 Draft.pdf){:target="_blank"}
+- [Winter Quarter Essay 2 - "The Hesitancy of Progressivism"](https://andre-ye.github.io/ts/docs/portfolio/files/history/winter/Essay 2 Draft 2.pdf){:target="_blank"}
+- [Final Culminating Project - "The Immolation"](https://andre-ye.github.io/history/ts/docs/portfolio/files/history/winter/Final Draft for Cumulative Project.pdf){:target="_blank"}, a short story on unionization in the 1930s.
