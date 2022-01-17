@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spring Quarter
+title: Spring
 parent: English
 nav_order: 3
 permalink: /docs/english/spring
