@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Winter Quarter
+title: Winter
 parent: English
 nav_order: 2
 permalink: /docs/english/winter
