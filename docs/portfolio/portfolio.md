@@ -34,11 +34,11 @@ Collected work from Transition School
 ---
 
 ### Mathematics
-- [Fall Quarter Project 1 - "Intersections of Constrained Lines Within the Unit Circle"](https://andre-ye.github.io/precalc/portfolio/Project_1_Final_Draft.pdf){:target="_blank"}.
-- [Winter Quarter Project 2 - "The Continued Fraction Problem"](https://andre-ye.github.io/precalc/portfolio/annotated-Project_2-1.pdf){:target="_blank"}.
-- [Winter Quarter Project 3 - "Optimum and Convergence Patterns in Power Towers"](https://andre-ye.github.io/precalc/portfolio/project-3.pdf){:target="_blank"}.
-- [Spring Quarter Project 4 - "Analyzing Latent Space in Autoencoders of Varied Bottleneck Size"](https://andre-ye.github.io/precalc/portfolio/Project 4 Draft 3.pdf){:target="_blank"}.
-- [Spring Quarter Project 5 - "Analying Sinusoidal Patterns in 2020 U.S. Presidential Election Tweets"](https://andre-ye.github.io/precalc/portfolio/Project_5_final.pdf){:target="_blank"}
+- [Fall Quarter Project 1 - "Intersections of Constrained Lines Within the Unit Circle"](https://andre-ye.github.io/ts/docs/portfolio/files/math/Project_1_Final_Draft.pdf){:target="_blank"}.
+- [Winter Quarter Project 2 - "The Continued Fraction Problem"](https://andre-ye.github.io/ts/docs/portfolio/files/math/annotated-Project_2-1.pdf){:target="_blank"}.
+- [Winter Quarter Project 3 - "Optimum and Convergence Patterns in Power Towers"](https://andre-ye.github.io/ts/docs/portfolio/files/math/project-3.pdf){:target="_blank"}.
+- [Spring Quarter Project 4 - "Analyzing Latent Space in Autoencoders of Varied Bottleneck Size"](https://andre-ye.github.io/ts/docs/portfolio/files/math/Project 4 Draft 3.pdf){:target="_blank"}.
+- [Spring Quarter Project 5 - "Analying Sinusoidal Patterns in 2020 U.S. Presidential Election Tweets"](https://andre-ye.github.io/ts/docs/portfolio/files/math/Project_5_final.pdf){:target="_blank"}
 
 ---
 
