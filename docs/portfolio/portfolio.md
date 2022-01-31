@@ -63,7 +63,9 @@ Collected work from Transition School
 ---
 
 ### Sociology
-[Final Research Essay - "Collective Individualism in Black Conservatism"](https://andre-ye.github.io/ts/sociology/portfolio/Draft 4 - Final.pdf){:target="_blank"}
+[Final Research Essay - "Collective Individualism in Black Conservatism"](https://andre-ye.github.io/ts/docs/portfolio/files/sociology/Draft 4 - Final.pdf){:target="_blank"}
+
+Reading Responses: [Week 1 - Booth, Harding](https://andre-ye.github.io/ts/docs/portfolio/files/sociology/Week 1 Reading Response.pdf){:target="_blank"}, [Week 2 - Booth, Wallace](https://andre-ye.github.io/ts/docs/portfolio/files/sociology/Week 2 Reading Response.pdf){:target="_blank"}, [Week 3 - Booth, Kapczynski & Gonsalves, Van Ness](https://andre-ye.github.io/ts/docs/portfolio/files/sociology/Week 3 Reading Response.pdf){:target="_blank"}, [Week 4 - Althusser, De Beauvoir, Taylor](https://andre-ye.github.io/ts/docs/portfolio/files/sociology/Week 4 Reading Response.pdf){:target="_blank"}
 
 ---
 
@@ -76,6 +78,8 @@ Collected work from Transition School
 - [Fall Quarter Essay 1](https://andre-ye.github.io/ts/docs/portfolio/files/history/fall/Essay%201.pdf){:target="_blank"}, on the role of religion in conquest.
 - [Fall Quarter Essay 2](https://andre-ye.github.io/ts/docs/portfolio/files/history/fall/Essay%202%20Revised.pdf){:target="_blank"}, on immigrant inclusion and race dynamics.
 - [Fall Quarter Essay 3](https://andre-ye.github.io/ts/docs/portfolio/files/history/fall/Essay Draft 1.pdf){:target="_blank"}, on the relationship between emancipation and the women's movement.
+
+Reading Responses: [Week 1 - Rampolla, Rael, Diamond](https://andre-ye.github.io/ts/docs/portfolio/files/history/fall/Week 1 Reading Response.pdf){:target="_blank"},  [Week 2 - Las Casas, Locke, Gonzales](https://andre-ye.github.io/ts/docs/portfolio/files/history/fall/Week 2 Reading Response.pdf){:target="_blank"},  [Week 3 - Equiano/Vassa, Morgan, Sprigs](https://andre-ye.github.io/ts/docs/portfolio/files/history/fall/Week 3 Reading Response.pdf){:target="_blank"}, [Week 4 - Madison, Holton](https://andre-ye.github.io/ts/docs/portfolio/files/history/fall/Week 4 Reading Response.pdf){:target="_blank"}, [Week 5 - Reagan, Robinson](https://andre-ye.github.io/ts/docs/portfolio/files/history/fall/Week 5 Reading Response.pdf){:target="_blank"}, [Week 6 - Anti-Catholic Petition, Zia, Jacobson](https://andre-ye.github.io/ts/docs/portfolio/files/history/fall/Week 6 Reading Response.pdf){:target="_blank"}, [Week 7 - Brown, Johnson](https://andre-ye.github.io/ts/docs/portfolio/files/history/fall/Week 7 Reading Response.pdf){:target="_blank"}, [Week 8 - Douglass, Truth, Jacobs](https://andre-ye.github.io/ts/docs/portfolio/files/history/fall/Week 8 Reading Response.pdf){:target="_blank"}, [Week 9 - du Bois, Lincoln](https://andre-ye.github.io/ts/docs/portfolio/files/history/fall/Week 9 Reading Response.pdf){:target="_blank"}, [Week 10 - Jones, Kellog](https://andre-ye.github.io/ts/docs/portfolio/files/history/fall/Week 10 Reading Response.pdf){:target="_blank"} 
 
 #### Winter Quarter
 - [Winter Quarter Essay 1 - "Clashing Notions of Liberty in the Gilded Age"](https://andre-ye.github.io/ts/docs/portfolio/files/history/winter/Essay 1 Draft.pdf){:target="_blank"}
