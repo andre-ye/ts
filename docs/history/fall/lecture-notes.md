@@ -1152,7 +1152,8 @@ That I cannot be a slave.
 
 #### The Liberator and Abolitionist Debate
 
-```Our wealthy citizens, as a body, are hostile to the interests fo the laboring classes? Is it not found int heir commercial enterprise, which whiten the ocean with canvas, and give employment to a useful and numerous class of men; it is not found in their manufacturing which multiply labor and cheapen necessities... It is a miserable characteristic of human nature to look with an envious eye upon those whoa re more fortunate in their pursuits, or more exalted in their station."
+```
+Our wealthy citizens, as a body, are hostile to the interests fo the laboring classes? Is it not found int heir commercial enterprise, which whiten the ocean with canvas, and give employment to a useful and numerous class of men; it is not found in their manufacturing which multiply labor and cheapen necessities... It is a miserable characteristic of human nature to look with an envious eye upon those whoa re more fortunate in their pursuits, or more exalted in their station."
 ```
 
 - Abolitionists debated this.
