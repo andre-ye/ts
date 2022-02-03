@@ -528,3 +528,398 @@ Purpose of research and of our being here, of understanding, of looking through 
 ### UN Process and the Creation of the IPCC
 - Begin to propose policy proposals and protocols.
 - Kyoto Protocol and Paris Accords.
+
+---
+
+## Week 6
+
+### Longform Analysis
+- Developing sustained analysis for researched essays; creating a more robust claim and a bigger argument.
+- Can be a challenging move; however, develop ideas, draw them out, let each step of process be drawn out.
+
+
+### Planning an Analysis Section
+- What is analysis? What are the steps necessary to create analysis?
+- What did you do in previous essays?
+
+#### Building from the PIE Model
+- Point-Illustrate-Explain
+- Claim-Evidence-Reasoning-Evidence-Reasoning-etc.
+- Mirror the structure of an essay.
+  - Introduce the source
+  - Explain the context
+  - Provide the evidence
+  - Make your analysis
+- Don't just rush through the steps; help the reader move through each of them in a sustained way.
+
+---
+
+## Week 7
+
+### Longform Analysis Recap
+- Structuring analysis like an essay
+  - Break your thinking into components
+  - Walk your reader through your thought process
+
+
+### Section Writeup Feedback
+- Composition
+  - Construct like an essay
+  - Each section and each paragraph
+- Write the introduction last
+- Root *every claim* in a source
+- Explain source/evidence/analysis in detail
+  - Explaining in excruciating detail; that's what is needed as communicators.
+
+
+### Longform Analysis
+- Mirror the structure of an essay (mini-essay) in a paragraph.
+  - Introduce source
+  - Explain context
+  - Provide evidence
+  - Make your analysis
+- Each paragraph becomes a step in the process, designed to do something different.
+- Writing up the source; give the source the space it needs.
+
+
+### Baseline
+- Specifics of problem/issue/question
+  - Explain the "problem" - deserves further investigation.
+  - Real world or practical problem, theoreitcal one, something else.
+  - Data that raises questions
+  - Place to establish the stakes of your claim
+- Scope of literature on the question
+  - What have other scholars said on the question?
+    - Core ideas of the debate - why is it insufficient?
+  - What is being left out? What remaining problems emerge?
+- Usage of theory
+  - Is there a new way to look at the question?
+  - Is there a thinker, approach, or methodology that could provide new insights?
+    - Define the theory
+    - Explain its application to your work or problem
+- Your intervention
+  - How do you enter / contribute to this conversation?
+  - What is your claim? Explain in more detail your intervention
+  - Stakes of the claim - why your question or intervention is significant.
+
+### Unraveling
+- How to unravel complex reality in writings?
+
+### Signposting
+- Signposting: telling the reader exactly what is happening with the structure of the essay.
+- Leading into what else is needed.
+- Language may be clunky, but tells the reader what is changing.
+- Moving into [x new section].\
+
+---
+
+## Technology & Identity: Alienation, Cyborgs, and the 21st Century
+
+### Introduction
+- *Alternative Series*, Espen Kluge, 2019.
+- How should we understand the relationship between humans and machine? What explains this relationship? Where does power lie?
+  - Technology - what is it and how should we define it?
+  - Theories of technology - alienation and cyborg theory
+  - Concepts of technology in visual art
+
+### Technology
+- Information used for a practical purpose
+- Relationship between people/society and a set of tools
+- Debate about tech focused, or person focused approach
+- Can social constructions be technology?
+
+### Two Theories of Technology
+
+#### Second Industrial Revolution
+- Meaningful in many ways: so much of our current moment is structured by the industrial revolution.
+- Revolutionary in having ongoing impacts.
+
+#### Marx's Alienation and Industrial Labor
+- The rapidity of technological development.
+- Marxist theory of alienation, industrial labor.
+- Loss of control of individual laborers over their processes of labor.
+- Working to the pace of a machine - transforming the pacing of one's own labor based on physical limitations.
+- The laborer loses the process of self-control.
+- Marx's theory of alienation and control is not about the machinery, but about wages as a technology.
+- Wages are technologies of productivity, profitability, of **alienation**.
+
+**Wages and Labor Power**
+- Exploitation and class struggle: the site for tensions and struggles, the root of class struggle.
+- Conflict over where the value of production goes - profits or wages.
+- Central antagonism Marx sees within industrial capitalism, unresolvable.
+- Exploitations and worker-employer tensions cannot be reconciled.
+- A key part of Marx's overall theory of capitalism and class struggle.
+
+**Alienation**
+- Contribute to a process of alienation.
+- Alienation is a four-part process for people paid by the wage.
+- What is it that people are selling when they get paid for a wage? What is being exchanged?
+- People are paid property because others own the means of production.
+- "Labor power" - the capacity to work and to work *harder*.
+  - To intently be productive.
+  - The laborer sells their labor power, the intent production.
+  - Labor power is variable.
+- People in wages become alienated from their work.
+  - For them, they are alienated from the end result of the product they produce.
+  - Chain of alienation.
+- Alienated from the final product, their own labor (betterness is taken away), from other workes, and their Gattungswesen.
+
+**Gattungswesen**
+- Often translated as "species essence".
+- If people are being alienated from the final product, their own labor, and other workers, they are profoundly socially isolated, *and from themselves*.
+- How do we define humans? By what we do, our labor.
+- The wage system alienated ourselves from our definitions of what makes us unique.
+
+#### Haraway's Cyborg Theory
+- What is a cyborg?
+  - Hybridity between the organic and the inorganic.
+  - A metaphor to think of social relationships.
+> "Technology is not neutral. We're inside of what we make, and it's inside of us. We're living in a world of connections - and it matters which ones get made and unmade."
+> -Donna Haraway
+
+**Antagonistic Dualisms**
+- Opposites of dichotomies.
+- Argues against many of the constructions of feminism.
+- Lockean notions of mankind - how are men being defined?
+  - Aggressiveness, competitiveness, etc.
+  - In the cult of domesticity, women are defined as emotional, moral, nurturing.
+- This binary construction is not new.
+- Challenging feminist ideas about the social construction of women at all.
+  - What defines womanhood?
+- Cybernetics: connections between mutliple and contradictory positions.
+
+**Feminist politics of identity**
+- We need to think about cyborg relationships as waht defines these social categories.
+
+**End of three dichotomies**
+- Human/Animal
+- Human/Machine
+- Physical/Nonphysical
+- These dichotomies are not helpful in thinking about how society and humankind works.
+- We exist *inside* our technology, in constant relationship with our technology. Natural experience can not be separate from our technological impacts and relationships.
+
+**The ghost in the machine**
+- Obliquely references an old idea coming from the Enlightenment of the Ghost in the Machine.
+- A critique from theological thinkers of the critics of the Enlightenment, which was then adopted by Enlightenment thinkers.
+- As the scientific revolution unfolds and people explore their bodies as part of that scientific understanding, the brain is responsible for a whole series of human activity, desires, and so on.
+- There is a mechanical process of human existence animated by our conciousness.
+- We cannot be reduced to a mechanical process - does conciousness exist somewhere else?
+- Enlightenment philosophers could not quite understand human conciousness: there is an animating spirit, the ghost, magic, that makes the material world conscientious.
+- Sir Isaac Newton and gravity: the ghost in the machine of the physical world.
+- To think about how the physical universe works - mechanical and mathematical properties we can observe, test, and experiment, but there is a *thing* we know is there but cannot explain.
+- Human biology: conciosuness - how is our matter animated?, Newtonian physics: gravity.
+- This problem is less of a problem than it seems. A cyborg is a cybernetic organism, a hybrid of machine and organism, every entity as containing all language.
+
+#### Differences
+- Marx, on social constructions and relations as a technology of power
+- Haraway, a radically different notion of technology as the ability to connect, see bridges, and transgress boundaries. A path forward.
+
+
+---
+
+## Week 8
+
+
+### Navigate
+- [Section Writeup](#section-writeup)
+- [Beginnings and Endings](#beginnings-and-endings)
+- [Introductions](#introductions)
+  * [Hook](#hook)
+  * [Frame the Question](#frame-the-question)
+  * [Thesis Statement](#thesis-statement)
+  * [Roadmap](#roadmap)
+- [Conclusions and Implications](#conclusions-and-implications)
+
+### Section Writeup
+- A little bit messy - haggard, rough around the edges.
+  - A good place to be.
+- *Every assertion must be cited*.
+- Sources
+  - Make sure everything is cited
+  - No "most people", "some argue", "we can see that..." without citation
+- Paragraph construction
+  - Organize around a single source
+  - Short and punchy with signposts
+  - If in one paragraph you are moving between several sources, break up the paragraphs by source use.
+    - **One quote per paragraph**.
+- Specificity
+  - Use specific nouns and verbs
+  - Think about specificity in language.
+
+### Beginnings and Endings
+- Write the introduction last; it is when the concepts of the paper are clearest to you and when you can est articulate concepts.
+- Introductions - all four need to be included, each in its paragraph.
+  - Hook
+  - Central question
+  - Thesis/hypothesis
+  - Roadmap
+- Conclusions
+  - Argument
+  - So what? - implications, what this ends up meaning.
+- Hourglass writing
+  - Introduction narrows the reader's focus
+  - Conclusion broadens the narrower focus, throwing the ideas into the world.
+
+### Introductions
+
+#### Hook
+- Least essential component of the introduction. Stylistic thing - you can make your own choice.
+  - Must interesting and expresses the core idea of the essay.
+- Purpose
+  - Orients the reader to the project
+  - Catches the reader's attention
+  - Expresses the argument
+- Types
+  - Provocative quote as it relates directly to your claim
+  - Question - we're problem solvers, looking for answers. Getting some investment from the reader.
+  - Problem - set up a problematic
+  - Story - an account
+  - First-person - how you perhaps came to the project
+
+#### Frame the Question
+- State the central question of problematic for the essay (if you choose to include a clear articulation)
+  - Ease the reader into understanding the stakes and the grounding.
+  - Why is it meaningful? Where did it come from?
+- You don't even have to explicitly state the question.
+- You have to explain the problematics and the grounding.
+- State the **ultimate question**, not necessarily the primary research question.
+- Convincing someone about something about the topic; the preliminary research question will not work. What is the *why question* driving this whole process? What is the ultimate curiosity that is building this paper?
+- Reverse engineer the question from your thesis.
+  - Not why do [some specific phenomena happen], but why does [the ultimate phenomena] happen?
+
+#### Thesis Statement
+- Answer to a why question - what is the solution to the problem? Give a detailed and specific thesis.
+  - It will take space to tackle the thesis.
+- You need to let the topics breathe as you get into them.
+- Establish a causal relationship - make it specific. Not "racism caused *x*", but exactly what aspect?
+- Explain the mechanics - *how*? 
+- Points towards (gestures towards) a roadmap for the entire paper. If the thesis is multicausal, the paper should also have multiple corresponding sections.
+- Complex thesis - it takes space. Layer your claim. PIE your thesis statement - punchy, declarative sentences.
+- Allows for a layering of the claim - give piece-by-piece, what are the moving parts?
+
+#### Roadmap
+- The roadmap provides the structure and organization for the rest of the essay.
+- Describe each section.
+- If you have a multi-paragraph thesis, it should be enough and the roadmap is not necessary.
+- The thesis is getting out the core elements of the claim, providing missing pieces of the essay that the layered part of the claim didn't get into.
+
+### Conclusions and Implications
+- Implications specific to your field.
+- Conclusions allow you to be more political, philosophical, moral, 
+- Implications - immediate next steps based on your thesis. What are the next steps? 
+  - Immediate questions or shortcomings
+  - New problems
+  - Unfinished portions of your work
+  - Impact on the field.
+- Conclusions
+  - Restate your argument - here is what has been argued.
+  - Provide *broader significance*; not just why scholars should care, but why we as humans care?
+  - Does this relate to a functioning democracy? Basic justice and morality? 
+
+
+---
+
+
+## Week 9
+
+### Section Writeup 3 Feedback
+- Focus on what you have: time to cut your losses
+- Signpost.
+  - Use whole paragraphs to explain what each section does
+  - Topic sentences and transition sentences to explain your moves
+  - What does this paragraph or section do for the whole paper?
+  - Take time in an introduction paragraph, for instance, to discuss what has been established and what will be pursued afterwards.
+- Keep writing from your analysis
+  - Don't worry about argument and length at this point.
+- At this stage, it gets practically very difficult to incorporate new ideas.
+- Threads may point in other directions that you can continue to pursue, but we're out of time.
+- Implications: "in our next episode, we can pursue these threads." Unfinished questions, interesting sources that cannot be fully explored, thinking in new directions.
+
+### Unraveling: Organizing and Expressing Complexity
+- George Orwell: language use to expression and articulation of ideas. Writing is convoluted, complex, uses mixed metaphors, is unclear - this reflects unclear thinking.
+
+#### Explaining Complexity
+- How do you express a complex idea?
+- Writing language is extremely limited: linear, confined by "meaning", imprecise, obscure.
+- Language is a challenging tool.
+- Writing as a way to express complexity is extremely limited.
+
+**Overcoming the linearity of language**
+- Reality is complex: ow to express a complex reality in writing?
+
+
+- *Clarify your understanding of reality. Conceptualize complex problems.*
+  - Idea map
+  - Illustration/sketch
+  - Word cloud
+  - Radial chart
+  - Venn diagram
+- Simplify and abstract your topic
+- Use theory to choose a frame of analysis
+- Identify a salient factor - singular factors.
+
+
+- *Go to the source*.
+- Pick a source that is most compelling.
+- Develop your analysis through asking questions.
+
+- **Unraveling: the process for explaining complexity.**
+  1. Conceptualize the lived reality of your topic
+  2. Simplify through abstraction or theory
+  3. Go to source
+  4. Break the source into component parts
+  5. Write analysis through introduction, evidence, and explanation.
+
+### Revision: The Heart of Writing
+
+#### What is it?
+- Process of strengthening a text
+  - Clarify ideas
+    - Claim
+    - Organization
+    - Transitions
+  - Clarifying writing
+    - Style / voice
+    - Diction
+    - Concision
+
+#### A multipart process
+- Macro revisions
+  - Thesis
+  - Section organization
+  - Paragraph order
+  - Transitions
+  - New writing
+- Micro revisions
+  - Sentence structure
+  - Diction
+  - Concision
+  - Style / voice
+  - Adjectives / adverbs
+- Editing
+  - Spelling
+  - Grammar
+  - Typographical errors
+  - Errata
+  - Footnotes
+
+#### Revise your thesis
+- For God's sake, **revise your thesis!!!**
+- Writing is thinking.
+  - Conclusions have the clearest articulation of claims.
+    - Make this claim your introduction.
+  - Revise your thesis to reflect the specificity of your analysis
+  - Think of the structure of your essay in your thesis
+  - Don't be afraid of a major reworking.
+  
+#### Micro Reworkings
+- Topic sentences
+- Sentence level corrections - clarity / flow / style / voicing
+- Paragraphs are mini-essays themselves
+
+
+
+
+
+
+
