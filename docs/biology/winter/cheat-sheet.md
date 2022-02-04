@@ -11,7 +11,7 @@ nav_order: 100
 Winter Biology
 {: .fs-6 .fw-300 }
 
-| To the current TS bio students - good luck with your midterm! |
+[To the current TS bio students - good luck with your midterm!](){: .btn }
 
 ---
 
