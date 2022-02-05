@@ -7,6 +7,7 @@ nav_order: 100
 ---
 
 # Course Final Study Guide
+{: .no_toc }
 
 Winter History
 {: .fs-6 .fw-300 }
@@ -18,18 +19,14 @@ This is the history final study guide. It goes over all the course lectures and 
 
 ---
 
-
-
-## Navigate
-- [Summary](#summary)
-- [Gilded Age and Progressive Era](#gilded-age-and-progressive-era)
-- [American Empire](#american-empire)
-- [World War I and New Deals](#world-war-i-and-new-deals)
-- [World War II and Cold War](#world-war-ii-and-cold-war)
-- [Civil Rights and the New Critique](#civil-rights-and-the-new-critique)
-- [Neoliberalism](#neoliberalism)
-
-
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ---
 
