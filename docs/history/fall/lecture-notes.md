@@ -13,15 +13,14 @@ Fall History
 
 ---
 
-## Navigation
-* [*Slavery: Race and Unfree Labor*](#slavery-race-and-unfree-labor)
-* [Empire & Revolution: Society and Politics in Colonial America](#empire-revolution-society-and-politics-in-colonial-america)
-* [Gender & Industrial Capitalism: Wages, Domesticity, and Forms of Labor](#gender-industrial-capitalism-wages-domesticity-and-forms-of-labor)
-* [Race, Immigration, and Whiteness: Labor Markets and Cultural Constructions](#race-immigration--and-whiteness-labor-markets-and-cultural-constructions)
-* [A Slave Society: Economics and Culture of American Slavery](#a-slave-society-economics-and-culture-of-american-slavery)
-* [Movements for Liberation: Abolition and Expansions of Freedom](#movements-for-liberation--abolition-and-expansions-of-freedom)
-* [*Civil War: Politics and Control of the State*](#civil-war-politics-and-control-of-the-state)
-* [*Recontruction & Redemption: Contested Meanings of Freedom*](#-recontruction-redemption-contested-meanings-of-freedom)
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ---
 
@@ -3171,3 +3170,12 @@ It was desirable, therefore, as it respected them, and the residue of the popula
 
 
 
+## Alternative Linkage
+* [*Slavery: Race and Unfree Labor*](#slavery-race-and-unfree-labor)
+* [Empire & Revolution: Society and Politics in Colonial America](#empire-revolution-society-and-politics-in-colonial-america)
+* [Gender & Industrial Capitalism: Wages, Domesticity, and Forms of Labor](#gender-industrial-capitalism-wages-domesticity-and-forms-of-labor)
+* [Race, Immigration, and Whiteness: Labor Markets and Cultural Constructions](#race-immigration--and-whiteness-labor-markets-and-cultural-constructions)
+* [A Slave Society: Economics and Culture of American Slavery](#a-slave-society-economics-and-culture-of-american-slavery)
+* [Movements for Liberation: Abolition and Expansions of Freedom](#movements-for-liberation--abolition-and-expansions-of-freedom)
+* [*Civil War: Politics and Control of the State*](#civil-war-politics-and-control-of-the-state)
+* [*Recontruction & Redemption: Contested Meanings of Freedom*](#-recontruction-redemption-contested-meanings-of-freedom)
