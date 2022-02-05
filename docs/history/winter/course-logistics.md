@@ -7,6 +7,7 @@ nav_order: 50
 ---
 
 # Course Logistics
+{: .no_toc }
 
 Winter History
 {: .fs-6 .fw-300 }
