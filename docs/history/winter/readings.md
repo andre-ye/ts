@@ -7,35 +7,21 @@ nav_order: 2
 ---
 
 # Readings Notes
+{: .no_toc }
 
 Winter History
 {: .fs-6 .fw-300 }
 
 ---
 
-## Navigate
-- [*On Agency* by Walter Johnson](#on-agency-by-walter-johnson)
-- [*Is History a Science?* by Eugene Goodheart](#is-history-a-science-by-eugene-goodheart)
-- ["I am an Anarchist" by Lucy Parsons](#i-am-an-anarchist-by-lucy-parsons)
-- [Dynamite and Historical Significance](#dynamite-and-historical-significance)
-- [*Industrialism and the American Worker, 1865-1920* by Melvyn Dubofsky](#industrialism-and-the-american-worker--by-melvyn-dubofsky)
-- [*Documents on African-American Opposition to Empire (1898-1899)*](#documents-on-africanamerican-opposition-to-empire-)
-- [*Race-Making and Colonial Violence in the U.S. Empire: The Philippine-American War as a Race War* by Paul A. Kramer](#racemaking-and-colonial-violence-in-the-us-empire-the-philippineamerican-war-as-a-race-war-by-paul-a-kramer)
-- ["On the War in the Philippines" by Albert J. Beveridge](#on-the-war-in-the-philippines-by-albert-j-beveridge)
-- ["The Subjective Necessity for Social Settlements" by Jane Addams (1892)](#the-subjective-necessity-for-social-settlements-by-jane-addams-)
-- ["Now We Can Begin" (1920) by Crystal Eastman](#now-we-can-begin--by-crystal-eastman)
-- [*Reinventing the People: The Progressive Movement, the Class Problem, and the Origins of Modern Liberalism* by Shelton Stromquist](#reinventing-the-people-the-progressive-movement-the-class-problem-and-the-origins-of-modern-liberalism-by-shelton-stromquist)
-- [*Labor's Untold Story - Chapter 10, "Victory"* by Richard O. Boyer and Herbert M. Morais](#labors-untold-story--chapter--victory-by-richard-o-boyer-and-herbert-m-morais)
-- ["Preamble to the National Labor Relations Act"](#preamble-to-the-national-labor-relations-act)
-- [*Wartime Shipyard: A Study in Social Disunity* by Katherine Archibald](#wartime-shipyard-a-study-in-social-disunity-by-katherine-archibald)
-- [*American Empire: The Realities and Consequences of U.S. Diplomacy; Chapter 1: "The Myth of the Reluctant Superpower"* by Andrew Bacevich](#american-empire-the-realities-and-consequences-of-us-diplomacy-chapter--the-myth-of-the-reluctant-superpower-by-andrew-bacevich)
-- [*Revolution in the Air: Sixties Radicals Turn to Lenin, Mao, and Che* by Max Elbaum](#revolution-in-the-air-sixties-radicals-turn-to-lenin-mao-and-che-by-max-elbaum)
-- [*Beyond Vietnam* by Martin Luther King, Jr.](#beyond-vietnam-by-martin-luther-king-jr)
-- [*Guns and Butter: The Welfare State, the Carceral State, and the Politics of Exclusion in the Postwar United States* by Julilly Johler-Hausmann](#guns-and-butter-the-welfare-state-the-carceral-state-and-the-politics-of-exclusion-in-the-postwar-united-states-by-julilly-johlerhausmann)
-- [the Powell Memorandum: *Attack on American Free Enterprise System*](#the-powell-memorandum-attack-on-american-free-enterprise-system)
-- ["How Wealth Inequality Has Changed in the US since the Great Recession, by Race, Ethnicity, and Income" by Rakesh Kochhar](#how-wealth-inequality-has-changed-in-the-us-since-the-great-recession-by-race-ethnicity-and-income-by-rakesh-kochhar)
-- ["Global Warming's Terrifying New Math" by Bill McKibben](#global-warmings-terrifying-new-math-by-bill-mckibben)
-- [*From #BlackLivesMatter to Black Liberation* by Keeanga-Yamahtta Taylor](#from-blacklivesmatter-to-black-liberation-by-keeangayamahtta-taylor)
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ---
 
@@ -2465,3 +2451,29 @@ Winter History
   - Black Lives Matter is encountering some of the same questions as the Black Power movement of the 1960s and 70s.
   - Why did BLM emerge under the nation's first black president?
  
+---
+
+## Alternative Linkage
+
+- [*On Agency* by Walter Johnson](#on-agency-by-walter-johnson)
+- [*Is History a Science?* by Eugene Goodheart](#is-history-a-science-by-eugene-goodheart)
+- ["I am an Anarchist" by Lucy Parsons](#i-am-an-anarchist-by-lucy-parsons)
+- [Dynamite and Historical Significance](#dynamite-and-historical-significance)
+- [*Industrialism and the American Worker, 1865-1920* by Melvyn Dubofsky](#industrialism-and-the-american-worker--by-melvyn-dubofsky)
+- [*Documents on African-American Opposition to Empire (1898-1899)*](#documents-on-africanamerican-opposition-to-empire-)
+- [*Race-Making and Colonial Violence in the U.S. Empire: The Philippine-American War as a Race War* by Paul A. Kramer](#racemaking-and-colonial-violence-in-the-us-empire-the-philippineamerican-war-as-a-race-war-by-paul-a-kramer)
+- ["On the War in the Philippines" by Albert J. Beveridge](#on-the-war-in-the-philippines-by-albert-j-beveridge)
+- ["The Subjective Necessity for Social Settlements" by Jane Addams (1892)](#the-subjective-necessity-for-social-settlements-by-jane-addams-)
+- ["Now We Can Begin" (1920) by Crystal Eastman](#now-we-can-begin--by-crystal-eastman)
+- [*Reinventing the People: The Progressive Movement, the Class Problem, and the Origins of Modern Liberalism* by Shelton Stromquist](#reinventing-the-people-the-progressive-movement-the-class-problem-and-the-origins-of-modern-liberalism-by-shelton-stromquist)
+- [*Labor's Untold Story - Chapter 10, "Victory"* by Richard O. Boyer and Herbert M. Morais](#labors-untold-story--chapter--victory-by-richard-o-boyer-and-herbert-m-morais)
+- ["Preamble to the National Labor Relations Act"](#preamble-to-the-national-labor-relations-act)
+- [*Wartime Shipyard: A Study in Social Disunity* by Katherine Archibald](#wartime-shipyard-a-study-in-social-disunity-by-katherine-archibald)
+- [*American Empire: The Realities and Consequences of U.S. Diplomacy; Chapter 1: "The Myth of the Reluctant Superpower"* by Andrew Bacevich](#american-empire-the-realities-and-consequences-of-us-diplomacy-chapter--the-myth-of-the-reluctant-superpower-by-andrew-bacevich)
+- [*Revolution in the Air: Sixties Radicals Turn to Lenin, Mao, and Che* by Max Elbaum](#revolution-in-the-air-sixties-radicals-turn-to-lenin-mao-and-che-by-max-elbaum)
+- [*Beyond Vietnam* by Martin Luther King, Jr.](#beyond-vietnam-by-martin-luther-king-jr)
+- [*Guns and Butter: The Welfare State, the Carceral State, and the Politics of Exclusion in the Postwar United States* by Julilly Johler-Hausmann](#guns-and-butter-the-welfare-state-the-carceral-state-and-the-politics-of-exclusion-in-the-postwar-united-states-by-julilly-johlerhausmann)
+- [the Powell Memorandum: *Attack on American Free Enterprise System*](#the-powell-memorandum-attack-on-american-free-enterprise-system)
+- ["How Wealth Inequality Has Changed in the US since the Great Recession, by Race, Ethnicity, and Income" by Rakesh Kochhar](#how-wealth-inequality-has-changed-in-the-us-since-the-great-recession-by-race-ethnicity-and-income-by-rakesh-kochhar)
+- ["Global Warming's Terrifying New Math" by Bill McKibben](#global-warmings-terrifying-new-math-by-bill-mckibben)
+- [*From #BlackLivesMatter to Black Liberation* by Keeanga-Yamahtta Taylor](#from-blacklivesmatter-to-black-liberation-by-keeangayamahtta-taylor)
