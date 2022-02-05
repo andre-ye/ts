@@ -13,18 +13,14 @@ Winter History
 
 ---
 
-## Navigate
-* [Navigate](#navigate)
-* [Class Conflict in the Guilded Age](#class-conflict-in-the-guilded-age)
-* [Advent of Empire: Race and Conquest in 1900](#advent-of-empire--race-and-conquest-in-1900)
-* [The Progressive Era: Race, Class, and Gender in the 20th Century](#the-progressive-era--race--class--and-gender-in-the-20th-century)
-* [New Deals: Ideas and Governance](#new-deals--ideas-and-governance)
-* [Labor's Great Upheaval](#labor-s-great-upheaval)
-* [World War II: Meanings of Freedom and Popular Ideas](#world-war-ii--meanings-of-freedom-and-popular-ideas)
-* [World War II and the Cold War: Warfare and Statecraft](#world-war-ii-and-the-cold-war--warfare-and-statecraft)
-* [Freedom Now: Political Economy and Black Movements](#freedom-now--political-economy-and-black-movements)
-* [Neoliberalism: A Changing Political Economy](#neoliberalism--a-changing-political-economy)
-* [American History Now: Understanding Our Current Moment](#american-history-now--understanding-our-current-moment)
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ---
 
@@ -2418,4 +2414,21 @@ Winter History
 #### Increasing Racial Divide
   - Greatly exacerbates the racial wealth gap.
   - The racial wealth gap was growing steadily.
-  
+
+
+---
+
+
+
+## Alternative Linkage
+* [Navigate](#navigate)
+* [Class Conflict in the Guilded Age](#class-conflict-in-the-guilded-age)
+* [Advent of Empire: Race and Conquest in 1900](#advent-of-empire--race-and-conquest-in-1900)
+* [The Progressive Era: Race, Class, and Gender in the 20th Century](#the-progressive-era--race--class--and-gender-in-the-20th-century)
+* [New Deals: Ideas and Governance](#new-deals--ideas-and-governance)
+* [Labor's Great Upheaval](#labor-s-great-upheaval)
+* [World War II: Meanings of Freedom and Popular Ideas](#world-war-ii--meanings-of-freedom-and-popular-ideas)
+* [World War II and the Cold War: Warfare and Statecraft](#world-war-ii-and-the-cold-war--warfare-and-statecraft)
+* [Freedom Now: Political Economy and Black Movements](#freedom-now--political-economy-and-black-movements)
+* [Neoliberalism: A Changing Political Economy](#neoliberalism--a-changing-political-economy)
+* [American History Now: Understanding Our Current Moment](#american-history-now--understanding-our-current-moment)
