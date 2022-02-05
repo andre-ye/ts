@@ -7,14 +7,21 @@ nav_order: 5
 ---
 
 # Essay Notes
+{: .no_toc }
 
 Winter English
 {: .fs-6 .fw-300 }
 
 ---
 
-## Navigation
-Forthcoming.
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ---
 
