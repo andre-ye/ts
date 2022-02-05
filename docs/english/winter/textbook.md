@@ -7,21 +7,21 @@ nav_order: 1
 ---
 
 # Textbook Notes
+{: .no_toc }
 
 English English
 {: .fs-6 .fw-300 }
  
 ---
 
-## Navigate
-* [Chapter 3 Notes: "From Writing Summaries and Paraphrases to Writing Yourself Into Academic Conversations"](#chapter-3-notes-from-writing-summaries-and-paraphrases-to-writing-yourself-into-academic-conversations)
-* [Chapter 4 Notes: "From Identifying Claims to Analyzing Arguments"](#chapter-4-notes-from-identifying-claims-to-analyzing-arguments)
-* [Chapter 5 Notes: "From Identifying Issues to Forming Questions"](#chapter-5-notes-from-identifying-issues-to-forming-questions)
-* [Chapter 6 Notes: "From Formulating to Developing a Thesis"](#chapter-6-notes-from-formulating-to-developing-a-thesis)
-* [Chapter 7 Notes: "Identifying Sources"](#chapter-7-notes-identifying-sources)
-* [Chapter 8 Notes: "From Synthesis to Researched Argument"](#chapter-8-notes-from-synthesis-to-researched-argument)
-* [Chapter 12 Notes: "From Revising to Editing"](#chapter-12-notes-from-revising-to-editing)
-
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ---
 
@@ -987,7 +987,14 @@ The composition pyramid:
 
 
 
-
+## Alternative Linkage
+* [Chapter 3 Notes: "From Writing Summaries and Paraphrases to Writing Yourself Into Academic Conversations"](#chapter-3-notes-from-writing-summaries-and-paraphrases-to-writing-yourself-into-academic-conversations)
+* [Chapter 4 Notes: "From Identifying Claims to Analyzing Arguments"](#chapter-4-notes-from-identifying-claims-to-analyzing-arguments)
+* [Chapter 5 Notes: "From Identifying Issues to Forming Questions"](#chapter-5-notes-from-identifying-issues-to-forming-questions)
+* [Chapter 6 Notes: "From Formulating to Developing a Thesis"](#chapter-6-notes-from-formulating-to-developing-a-thesis)
+* [Chapter 7 Notes: "Identifying Sources"](#chapter-7-notes-identifying-sources)
+* [Chapter 8 Notes: "From Synthesis to Researched Argument"](#chapter-8-notes-from-synthesis-to-researched-argument)
+* [Chapter 12 Notes: "From Revising to Editing"](#chapter-12-notes-from-revising-to-editing)
 
 
 
