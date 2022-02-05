@@ -15,10 +15,14 @@ Dr. Reagan periodically takes class time to give feedback on assignments and ins
 
 ---
 
-## Navigation
-- [Week 5](#week-5)
-- [Week 6](#week-6)
-- [Research Sources](#research-sources)
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ---
 
