@@ -67,9 +67,9 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Personal Site":
-    - "http://andre-ye.ml"
-  "UW Notes":
     - "https://andre-ye.github.io"
+  "UW Notes":
+    - "https://andre-ye.github.io/uni"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
