@@ -25,7 +25,7 @@ Winter History
 
 ---
 
-## Class Conflict in the Guilded Age
+## Class Conflict in the Gilded Age
   
 ### Navigate
   - [Introduction](#introduction)
@@ -337,7 +337,7 @@ Winter History
   
  --- 
  
- ## Advent of Empire: Race and Conquest in 1900
+## Advent of Empire: Race and Conquest in 1900
   
   
   
@@ -521,7 +521,7 @@ Winter History
   
  --- 
  
- ## The Progressive Era: Race, Class, and Gender in the 20th Century
+## The Progressive Era: Race, Class, and Gender in the 20th Century
   
   
   
@@ -813,7 +813,7 @@ Winter History
   
  --- 
  
- ## New Deals: Ideas and Governance
+## New Deals: Ideas and Governance
   
   
   
@@ -1115,7 +1115,7 @@ Winter History
   
   
   
- ## Labor's Great Upheaval
+## Labor's Great Upheaval
   - 3 general strikes in 1934 around wages getting cut off, conflict, striking, the police are called in, violence ensued.
   - Continues to be violent class conflict in Minneapolis, Toledo, all across the country.
   
@@ -1171,7 +1171,7 @@ Winter History
   
  --- 
  
- ## World War II: Meanings of Freedom and Popular Ideas
+## World War II: Meanings of Freedom and Popular Ideas
   
   
   
@@ -1401,7 +1401,7 @@ Winter History
   
  --- 
  
- ## World War II and the Cold War: Warfare and Statecraft
+## World War II and the Cold War: Warfare and Statecraft
   
   
   
@@ -1713,7 +1713,7 @@ Winter History
   
  --- 
  
- ## Freedom Now: Political Economy and Black Movements
+## Freedom Now: Political Economy and Black Movements
   
   
   
@@ -1967,7 +1967,7 @@ Winter History
   
  --- 
  
- ## Neoliberalism: A Changing Political Economy
+## Neoliberalism: A Changing Political Economy
   
   
   
@@ -2183,7 +2183,7 @@ Winter History
   
  --- 
  
- ## American History Now: Understanding Our Current Moment
+## American History Now: Understanding Our Current Moment
   
   
   
