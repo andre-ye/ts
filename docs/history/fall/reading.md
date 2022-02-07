@@ -1035,13 +1035,959 @@ Weekly Reading #4.
 
 ---
 
-Continue to add reading response 6.
+## *Anti-Catholic Petition*, 1837
+
+
+### Context
+This documents is an Anti-Catholic petition from 97 electors in Washington County, New York to the U.S. Congress, 1837. Source: National Archives, Washington, D.C.
+
+### The Defense Against Corrupt Principles
+- Nations fall because of 'fatal disregard of that which ultimately effected their ruin.' (paragraph 1)
+- Human institutions are weak against corrupt principles. (paragraph 2)
+  - Strength of institutions lies in **intelligence, sound principles, and good morals.**[^2] (paragraph 2)
+  - Necessity of watchfulness on principles and measures that can 'subvert the liberties of the State.'
+
+### The Dangers of Foreigners
+- America had "equal right of suffrage[^1]", which was the pride and pinnacle of all political institutions. (paragraph 3)
+- Easy access of foreigners to vote in the United States were **dangerous to civil and religious liberties.**
+  > ...foreigners of doubtful morals and hostile political principles, is a source of danger...
+  - Naturalization was too lenient on foreigners.
+- Inviting the *speedy attention of Congress.*
+
+### Constitutional Justifications
+- Equal right to vote is the **right of a majority to rule.**
+- The Constitution did not consider a majority "hostile to its principels" (paragraph 4)
+- The United States has principles and institutions to be maintained *in opposition* to a foreigner.
+- A right to defend liberties from "foreign invasion."
+
+### Proposed Solutions
+- Protecting from 'foreign invasion' by open warfare or 'undercover tactics' to prevent citizenship. (paragraph 4)
+- Naturalization laws are protected.
+  - Accept the poor and the oppressed, and let America be their asylum.
+  > Let us see that those admitted from the lap of tyranny to the right of suffrage with us be indeed the friends of our cherished liberties.
+  - Those that are accepted must accept and embrace *American principles*.
+
+### Roman Catholics
+- The flow of Roman Catholics from Europe and their admission to citizenship is concerning. (paragraph 5)
+- Foreigners "retaining their principles" threatens civil and religious liberties.
+- Catholicism - a practice that is persecuting, sanguinary, and encroaching.
+- No hostility towards Roman Catholics.[^3] (paragraph 6)
+  - Asking no legislation against the religion, but asking 'defensive religion' against its political principels.
+  - Combat with education and religious institutions.
+
+### Intolerance Towards Intolerance
+- Catholicism advocates for 'political intolerance', therefore the religious liberties of the Constitution dictate intolerance for it.
+- Political intolerance does not escape under the guise of religion. (paragraph 7)
+- Argues that Roman Catholics tie their religion with their politics.
+  - Union of Church and State, "and the subjection of the latter to the former" (paragraph 7)
+  - Allegiance to the Pope of Rome.
+- Amendments to laws of naturalization to secure free institutions, liberties, "even under the cloak of religion."
+
+
+
+[^2]: Who had intelligence? What factors went into determining good morals?
+[^1]: Did they though? What does this say about
+[^3]: WTF moment: "as men"
+
+
+
+---
+
+## *"Asian American Dreams: The Emergence of an American People"* by Helen Zia
+
+### Asians in the Early Americas
+- First Asian Americas appeared as early as the 1500s. 
+- Spanish galleon trade between Manila and Mexico - Phillipine sailors conscripted into service on Spanish shifts.
+	- Settlement on coast of Louisiana.
+- 1600s, Chinatown in Mexico City.
+	- Asians seen as threats to a 'New World'.
+- Asian American New Worker in 1825.
+	- Son of a Chinese merchant seaman and an Irishwoman.
+- 1850, young Japanese sailor rescued at sea by an American ship; became a U.S. citizen.
+
+### Asian American Migration and Anglo American Slavery
+- 1806: 200 Chinese were brought to Trinidad.
+	- Used 'coolie' labor from China and India to perform the same conditions.
+	- Continued slavery under Asians that worked alongside Africans.
+- Asian workers were not slaves.
+	- Worked knowing they would be free after they served 8 year contracts.
+	- A pool of desperate Asian workers available as commodities.
+- Reliance on Asia for cheap labor.
+- 1845 and several decades afterwards: >500,000 Asian Indians shipped to Buyana, West Indies, and French Colonies.
+	- Importation of Chinese in 1847 to Cuba.
+	- Over 125,000 chinese supplementing shrinking African labor force.
+
+
+### The Pioneers from Asia
+- When gold was first discovered, <100 Chinese (merchants and traders) were living in California.
+- Plans to import labor was already being discussed.
+- 1860: 41,000 Chinese had come to the United States.
+	- 'semifree' men deeply in debt.
+	- Comparison: 2.5 million Europeans immigrated in the same period.
+- New laws and taxes singled out the Chinese.
+	- Foreign-miners tax targeted Chinese miners. (page 5)
+	- Forbade Chinese to testify in court, even in their own defense.
+	- Zoning ordinances enforced against Chinese.
+	- Citizenship denied to the Chinese even after the Civil War because they were neither black nor white.
+- Killings. (page 5)
+	- White gold diggers siezed Chinese miners' stakes by beating, burning, and shooting the Chinese.
+	- Mass kidnappings and murders of the Chinese.
+- Work for the railroad company.
+	- Expelled from the gold fields.
+	- 12,000 Chinese were hired. 90% of company's workforce.
+	- Shovelled, picked, blasted, drilled through mountain peaks.
+	- 1 in 10 Chinese died building the railroad.
+	- Were paid 60% the salary of white workers.
+	- Chinese workers went on strike but were forced back to work when food suply was cut.
+
+### The Driving-Out Time
+- Late 1870s, anti-Chinese "Yellow Peril" movement gripped the West.
+- Cities erupted in riots against the Chinese.
+	- Buildings were burned to the ground.
+	- Murders and lynchings were common.
+- Workingmen's Party of California: "The Chinese must go!"
+	- Attempted to drop a balloon with dynamit on San Francisco's Chinatown.
+
+#### Political Labor Stances
+- Democrats exploited race hysteria to win support of labor.
+- Republicans supported business ideal of an unlimited supply of labor.
+- Racism of both parties.
+
+
+#### Driving Out
+- From LA to Denver, Seattle to Rock Springs, Chiense were driven out.
+- in Tacoma, Washington, hundreds of Chinese were herded onto boats and set adrift at sea.
+- Mobs burned Chinese homes and businesses in Denver in 1880.
+- *New York Times* and *San Francisco Chronicle* feared that the Chinese, with the freed black population, would become a threat.
+
+
+#### Chinese Exclusion Act
+- Congress: Chinese Exclusion Act of 1882.
+- Barred Chinese from immigrating and forbade legal residents from becoming ciitzens.
+	- Inhibited Asian American political development for several decades.
+- First legislation passed by Congress that explicitly targeted a group based on race. (page 6)
+
+#### Civil Rights Groups
+- Chiense Americans organized civil rights groups.
+	- Native Sons of the Golden State / Chiense Americans Citizens Alliance in San Francisco
+	- Chiene Equal Rights League in New York
+	- Chinese Six Companies in 185 fought the Chinese Exclusion Act of 1882 to the Supreme Court.
+		- Ruled against them in 1889.
+	- 17 lawsuits by Chinese Americans went to the Supreme Court between 1881 and 1896.
+- 1896 *Yick Wo v. Hopkins* established race neutral laws could not be enforced against a particular group.
+- 1898 Wong Kim Ark - native-born American, established the principle of US citizenship by birthright.
+	- Many cases became precedents that broke down barriers for African Americans.
+
+### An Elusive Dream
+- Other Asian nations offered a source of labor when white workers weren't willing to.
+- American labor brokers introduced Japanese, Indian, Korean, and Filipino workers.
+- Ethnic hostilities **pitted Asians against each other.**
+
+#### Japanese Immigration
+- 1888, 75 Japanese workers brought for the Californian harvest.
+- Japan was in deep economic crisis.
+- Widespread starvation motivated many to become indentured laborers in America.
+- 1920s - Japanese American population reached 220,596, almost 2x the Chinese population.
+- Japanese government[^1] took interest in citizen's welfare.
+	- Confident citizens would avoid fate of the Chinese.
+	- Believed they were responsible for their misfortunes in America.
+- 'Picture bride' system - matchmaking through photo exchanges.
+	- Women were encouraged to emigrate for stabilization.
+- Growing Japanese population on the West Coast and in Hawaii became target for racial hatred against the Chinese.
+
+#### Race Lumping
+- anti-Chinese and anti-Japanese slurs were used against both with no difference.
+- New laws were written against the Japanese. 
+	- Condemned as being more dangerous because they were willing to adopt American customs.[^2] (page 7)
+- Chinese attacked for not assimilating.
+- Japanese attacked for integrating too much.
+
+#### Anti-Asian Legislation
+- 1913 - many states west of Mississippi River prohibited Chinese and Asian Indians from owning land.
+- Alien Land Law passed in 1920.
+	- Prevented anyone of Asian ancestry from owning land.
+
+###### Ozawa v. United States, 1922
+- Takao Ozawa attended high school in California and studied at University of California for 3 years.
+- Had no dealings with Japanese organizations.
+- Family spoke Englisha nd children attended American schools.
+- US District Court rejected application for citizenship in 1916.
+	- Qualified for citizenship, except for race.
+- Supreme Court upheld decision that Ozawa was not entitled to citizenship because of his race.
+- A setback for the Japanese.
+	- Attacked as being too foreign and for being too ready to adapt.
+	- Kingdom of Hawaii - many Japanese had become naturalized, but when Hawaii become a territory the US refused to recognize US citizenship.
+> "Of all the races ineligible to citizenship, the Japanese are the least assimilable and the most dangerous to this country... They come here... for the purpose of colonizing and establishing permanently the proud Yamato race. They never cease to be Japanese." -V.S. McClatchy, Congress Testimony.
+
+
+###### Immigration Act of 1924
+- Worded in a veiled way to sound applicable to all immigratns.
+- Barred anyone whow as "forbidden to be a U.S. citizen" from immigrating at all.,
+- Intent of law: *halt Japanese immigration.*
+- White nativists complained of 'huge waves' of Asian immigrants.
+	- 275,000 Japanese over 30-year span.
+	- 283,000 Italians in one year (1913-14).
+	- Development of a white culture?
+
+#### Indian Labor
+- Population of Japanese immigrants increased.
+	- Plantation owners and labor brokers feared they might organize for more money.
+	- Keep the workforce fragmented: looked to India for workers.
+- 1900: about 2,050 Asian Indians lived int eh United States.
+	- Professionals, students, merchants, or visitors.
+- 1906-1908: nearly 5,000 Asian Indians from the Punjab region arrived in Canada.
+- Canada quickly established regulations.
+- Misbranding: 'Hindus'.
+	- In reality, most were Sikhs and one third were Muslim.
+- Many Indians headed south to Washington and Oregon.
+- Intra-Asian hostilities arose between Japanese and Asian Indian laborers.
+
+#### Asian Indian Race Theories and Superiority
+- Some Caucasians included Asian Indians in their race. (page 8)
+	- European Americans acknowledged them as "full-blooded Aryans."[^3]
+	- Asian Indians counted as the "Mediterranean branch of the Caucasian family."
+- Led many Asian Indians to believe they were above other Asian migrants.
+- Citizenship was granted to about 67 Indians in 17 states.
+
+###### Asian Indian Exclusion
+- Dark skin and willingness to work for low wages made Asian Indians a theat to white society.
+	- Japanese and Korean Exclusion League (est. 1905) changed their name to Asian Exclusion League to include Punjabis.
+- Barred Asian Indians from entering the United States between 1908 and 1920.
+- Whites forced several hundred Asian Indians from Bellingham, Washington across the border in Canada, 1907.
+- Asian Indians in Everett, Washington were rounded up and expelled.
+- Indian immigration ended with the **Immigration Act of 1917**.
+
+###### Bhagat Singh Thind
+- Attempted to break citizenship barriers for Asian Indians.
+- Bhagat Singh Thind took the issue to court.
+	- Thind granted citizenship in 1920 by an Oregon court on grounds that he was Caucasian.
+	- Federal government disagreed and apealed in 1923.
+- Thind reasoned that Indians are Caucasians, not Asians.
+- Court ruled in *United States v. Bhagat Singh Thind* that it was not enough to be Caucasian.
+	- It was necessary to be white.
+- Citizenship of naturalized Indian Americans revoked. (page 8)
+
+#### Korean Labor
+- Korea offered a pool of cheap labor for the United States.
+- Political and economic instability resulted from Japanese aggression.
+- 1903 to 1907: about 7,000 Koreans came to the United States.
+	- Worked as contract plantation workers to Hawaii.
+- **Korean immigrants came from cities.**
+	- Worked as police officers, miners, clerks, etc.
+	- 40% were Christians, encouraged to come to the US by American missionaries.
+- Koreans didn't develop communities or settlements.
+	- Sought to become quickly integrated into American society.
+	- Learned English as quickly as possible.
+	- Workshipped as Christians.
+	- Expressed gratitude towards America.
+- Many Koreans felt that the Chinese and Japanese were to blame for their downfalls.
+- Koreans in America were still subject to anti-Asian laws.
+	- Barred from citizenship, land ownership, and equal access to education and housing.
+- Japan, which occupied Korea since late 1800s, cut off Korean immigration to Hawaii in 1970.
+	- Feared Korean labor would hurt Hawaiian Japanese.
+- Immigration Act of 1924 ended *all immigration* from China, japan, India, and Korea.
+
+#### Philippine Labor
+- The Philipines was a U.S. territory and residents were U.S. nationals.
+- Filipinos carried U.S. passports and could travel in the United States.
+	- Only Asians eligible for immigration after 1924.
+- Many Filipinos came to the U.S. as college students beginning in 1903.
+- Filipinos believed they could circumvent troubles of other Asians.
+
+###### Miscegenation and Salvador Roldan
+- 1993: Filipino Salvador Roldan sought right to marry outside his race.
+- 1880 California Antimiscegenation law.
+	> Prohibited marriage between whites and "Negroes, mulattoes, or Mongolians."
+- Roldan argued that Filipinos were "Malay", not "Mongolian".
+- California Court of Appeals agreed that Filipinos were not Mongolian.
+	- Allowed Roldan to marry his white fiancee.
+- The California legislature immediately voted to add "Malay" race to the list.
+
+###### Fears and Solutions to Filipino Integration
+- Feared that Filipino men had a preference for white women.
+> "California in this matter is seeking to protect the nation... against this peaceful penetration of another colored race." -V.S. McClatchy
+- White exclusionists argued that the one way to end Filipino immigration was to **grant independence to the philippines.**
+
+###### Tydings-McDuffie Act and Anti-Filipino Legislation
+- 1934: converted the Philippines to a commonwealth.
+- All Filipinos were reclassified as aliens and prohibited from applying for citizenship.
+- Only 50 Filipinos would be permitted to immigrate every year.
+- Congress offerred to pay workers' fare to the Philippines if they agreed not to return.
+	- Fewer than 5% took the offer.
+
+### Working on the Fringes of America
+- Of the 489,000 Asians living in the US when immigration from Asia was shut in 1934, 99% had come to work as laborers.
+- Found no solidarity with other workers. (page 9)
+- Status as "aliens ineligible for citizenship" who were neither black nor white.
+	- Objects of hostility ann revulsion.
+
+#### The Use of Asian Workers as Racial Leverage
+- California business leaders acknowledged in late 1800s that industries developed wiht Chinese labor.
+	- build railroads.
+	- drained delta swamps of Sacramento and San Joaquin rivers.
+	- build vineyards and worked in main manufacturing industries.
+- Low wages they were paid could be used to intimidate white and black workers.
+- Southern plantation owners imported Chinese to Mississippi, Arkansas, and Lousiana in the 1870s.
+- Brought to factories in Massachusetts, New Jersey, and Pennsylvania to keep wage rates low.
+- Gave white labor the possibility of upward mobility by subordinating the Chinese.
+> "After we got Chinamen to work, we took the more intelligent of the white laborers and made foremen of them... they got a start by controlling Chinese labor on our railroad." -Railroad builder Charles Crocker
+- Native Hawaiian population decimated by illnesses. (page 10)
+	- Plantation developers relied on imported Asian labor.
+	- 1920: contractors imported >300,000 laborers from Asia.
+
+#### Racial and Ethnic Antagonism
+- Labor strategy: keeping a variety of laborers of different nationalities prevented unified action.
+- Asian workers were commodities. One plantation receipt reads:
+	> Bone meal, canvas, Japanese laborers, macaroni, a Chinaman. 
+- Race-peddling and control.
+	- Foreign labor was used to 'set an example' for Native Hawaiian workers.
+	- Chinese hired to 'play off' Japanese.
+	- Portuguese used to offset the Chinese.
+- Inter-Asian resentment led to fights and riotsin labor camps.
+- Divide-and-conquer strategy was effective.
+
+#### Cross Nationality Unification
+- Even attempts to provoke ethnic disruption were trumped by eventual ethnic unity.
+- 1920: Filipino and Japanese plantation workers joined against plantation owners.
+	- 3,000 members of Filipino Federation of Labor and 5,000 Japanese workers went on strike after higher demands for wages rejected.
+	- Representing 77% of the workforce, halted sugar production.
+	- Led to a $12 million production loss.
+- Strikers joined by Portuguese and Chinese workers in an interethnic labor action in Hawaii.
+- Resulted in a 50% wage increase. (page 10)
+	- Paved the way for strong trade union movement tradition.
+- Filipino workers contributed to the American labor movement.
+	- Built interethnic solidarity with Mexican and white workers.
+	- 1936 strike alongside Mexican workers.
+	- Filipino labor activists initiated United Farm Workers' grape pickers' strike that Cesar Chavez would build into a movement.
+
+#### Asian Contributions
+- 1875: Ah Bing developed the Bing cherry in Oregon.
+- 1886: Lue Gim Gong produced the frost-resistant Lue orange.
+  - Foundation of Florida's citrus industry.
+- Hawaii: Japanese workers created irrigation through the islands.
+- 1921: Koreans Harry Kim and Charles Kim invented the nectarine.
+- Descendants of Filipino sailors introduced sun-drying shrimp to Louisiana.
+
+#### Going Around Legislative Restrictions
+- Children of immigrants were American citizens by birth and not subject to alien land ownership prohibitions.
+- Immigrants bought farmland in children's names.
+- Asian immigrants were able to create thousands of acres of productive farms across the West.
+- Still treated as foreigners.
 
 
 
 
+[^1]: unlike China's
+[^2]: How so? `WTF moment.`
+[^3]: Why? `WTF moment.`
+
+---
+
+## *"Becoming Caucasian: Vicissitudes of Whiteness in American Politics and Culture"* by Matthew Frye Jacobson
+
+### Thesis and Introduction
+- Race is thought of as being a feature of the natural landscape and as being biological.
+- Instead, racial categories change in response to politica, economic, and social circumstances.
+- European immigrants have been racialized and reracialized.
+	- This demonstrates the mutability of racial constructions.
+- **Argument:** *race is not social but biological.*
+	- Why can a white woman have black children but a black woman cannot have white children?
+	- What happened to Celts, Slavs, Hebrews, Anglo-Saxons?
+	- There is a level of arbitrariness in affixing racial labels.
+	- Racial groups *become*. For instanc, Jews became viewed as caucasian.
+- **Two premises:**
+	1. Race resides not in nature, but in politics and culture.
+	2. Race perceptions shift over time, and for particular reasons.
+- Non-white groups defined whiteness historically.
 
 
+### History, Power, and the Mutability of Race
+- White privilege has been a 'constant' in American political culture.
+	- Whiteness has been subject to all sorts of historical vicissitudes.
+	- For instance, Alabama Circuit Court of Appeals reversed a crime of miscegenation because the Sicilian woman was not deemed white.
+- A broader pattern of racial thinking persisted in the US between the mid 1800s to the mid 1900s.
+- One could be an exotic racial 'other' as well as an acceptable, chivalric European.
+	- Usages of 'white', 'Caucasian', and 'Celt' had tremendous overlap.
+	- Often, racial designations were also relative to each other.
+- Political culture produced a racial order that drew a color line around, rather tehan within Europe. (page 8)
+- Race is a theory of history.
+	- Who belongs to what and who does not.
+	- Who deserves what and who is capable of what.
+- Looking at racial categories offers glimpse into theories of history.
 
 
+#### The First Great Epoch: Naturalization Law
+- The naturalization law of 1790 limited naturalized citizenship to free white persons.
+- Demonstrates 'republican convergence of race and "fitness for self-government"' (page 9)
+- Presumed character and unambiguous boundaries of whiteness.
+- Demonstrated tasks of citizens in a settler society against 'Indians' and slave rebellions.
+
+#### The Second Great Epoch: Altering Authority and Untouched Enlightenment
+- American Revolution radically changed lines of authority from the Crown to the people.
+- Left untouched Enlightenment assumptions of what 'the people' should be (page 9).
+- Demanded moral character from people.
+	- Needed to be disciplined, self-sacrificing, productive, wise.
+	- Characters inscribed in Euro-American thought.
+	> Negro: "idelness, treachery, revenge, debauchery, nastiness." Entry for an encyclopedia in Philadelphia, 1790.
+- Citizenship became linked to whiteness naturally.
+- This uncomplicated view of whiteness existed until the 1840s.
+
+
+#### The Third Great Epoch: Massive Immigration
+- A massive influx of undesirable but white person from Ireland.
+	- Caused new interpretations in whiteness.
+- Mass European immigration from 1840s until 1924.
+	- Whiteness became a hierarchy of plural and scientifically determined white races.
+- Questions on whether immigrants were fit for self-government or not.
+- *Anglo-Saxon supremacism* replaces simple white supremacy. 
+- Restrictive legislation and racial mixing generated by African-American migration.
+	- Whiteness was reconsolidated.
+
+#### Race as Not Only a Conception But a Perception
+- Problem is not how races are comprehended or defined, but how they are seen.
+- In racial matters, the "eye that sees" is conditioned by a certain culture.
+- Race as an *ideology* resides in its ability to pass from generation to generation.
+
+### A Case Study: Laura Z. Hobson's Gentlemen's Agreement
+#### The Question of Visuality
+- Looking at American Jews' racial "odyssey": from 'Semitic' or 'Hebrew' to 'Caucasian'.
+- Laura Z. Hobson's 1947 novel *Gentlemen's Agreement.*
+
+#### Plot
+A journalist named Philip Green is assigned a series on American anti-Semitism for a major news magazine. He hits upon the idea of posing as a Jew, and writing a piece based on his own experience. He finds that most everyone he knows, including his fiancee, is anti-Semitic.
+
+#### Sameness and Difference
+- Racialized conceptions of Jewishness.
+	- Hobson articulates the theme of reracialization beyond passing and interchangability.
+	- Three great divisions of mankind: "Caucasian race, the Mongoloid, the Negroid... There is no Jewish race."
+- Franz Boas in 1930s attempted to stir indignation in the scientific communit about German extermination of Jews.
+	- Both sides of the Atlantic lamented the method, not the ethnological findings.
+- Is decency predicated on sameness?
+	- Challenging percieved difference dividing Anglo-Saxon and Hebrew while not touching the differences between "Caucasian" and "Negroid" or "Mongoloid".
+- Endorsement of the color-line.
+- Provides no syntax for commenting on anti-black racism (page 16)
+
+#### Recasting Race as Color
+- Racial difference; Caucasian unity won.
+- "White races" had significant impact on ideology and perception.
+- Politics of justice: not based on sameness, but acceptance of difference.
+
+### Conclusion
+- A snapshot in time.
+	- Hobson attempts to rethink 'race' but solidifies whiteness.
+- Europeans' racial status as "free white persons" were crucial to their entrance.
+- Racial inclusion was premised upon the racial exclusion of others.
+- European immigration and assimilation was fundamentally racial.
+
+
+---
+
+
+## John Brown's Last Speech
+
+
+### Context
+> On October, 16, 1859, John Brown and nearly two dozen comrades seized the armory at Harper's Ferry in West Virginia, hoping to use its massive arsenal in the struggle to forcibly end slavery. Captured and brought to trial at nearby Charles Town, Brown was found guilty of treason. One month before his execution, John Brown addressed a courtroom in Charlestown, West Virginia, defending his role in the action at Harper's Ferry. Henry David Thoreau, although himself did not favor violence, praised John Brown, and when the fiery Preacher was sentenced to death, Ralph Waldo emerson said: "He will make the gallows holy as the cross."
+
+### Denial of Intent
+- Intended to *free the slaves.*
+- In last winter, took slaves from Missouri to Canada "without the snapping of a gun."
+  - Intended to the same thing on a larger scale.
+- Did not intend murder, treason, or to create a slave insurrection/rebellion[^1].
+
+### Injustice of Penalty
+- It is unjust that such a penalty be given to Brown.
+- If Brown had successfully completed his plans, it would have been right.
+  - Every man in the court would have rewarded instead of punished it.
+  > ...so interfered in behalf of the rich, the powerful, the intelligent, the so-called great...
+  > ...and suffered and sacrificed what I have in this interference...
+
+### Religious Justification
+- The court acknowledges the validity of the law of God.
+- The Bible teaches to do unto others what others do to you.
+- Teaches to "remember them that are in bonds, as bound with them."
+- It was right to interfere on behalf of "His despised poor".
+- If it is necessary for life to be removed "...for the furtherance of the ends of justice", then "I submit; so let it be done!"
+
+### Concluding Statements
+- Satisfied with treatment on the trial.
+  - More generous than expected.
+- Feels no consciousness of guilt; never had malicious intent.
+
+> Now I am done.
+
+[^1]: WTF moment. Why wouldn't John Brown want to do so? Wouldn't it be the most effective way of accomplishing his goal? Furthermore, he writes that "I, John Brown, am now quite certain that the crimes of this guilty land can never be purged away but with blood." (last words before hanging)
+
+
+---
+
+
+## *River of Dark Dreams: Slavery and Empire in the Cotton Kingdom* by Walter Johnson
+
+### Context
+- Written by Walter Johnson. He is Winthrop Professor of History and Professor of African and African American Studies at Harvard University, where he is also director of the Charles Warren Center for Studies in American History.
+- Published by the Belknap Press of Harvard University Press.
+- Published in 2013 at Cambridge, Massachusetts.
+- The reading excerpt for class is Chapter 9: *The Mississippi Valley in the Time of Cotton*.
+- Every section will be marked by `*Page 244 (excerpt p.2)*`. This indicates that the section information begins on page 244 in the book, or the 2nd page of the PDF given for the class reading.
+
+### The Hidden Capitalism of Slavery
+*Page 244 (excerpt p.2)*
+- The experience of slaves in the Mississippi Valley seems far from capitalism.
+  - Laborered far from the North and England.
+- No exploitation under a contract; seems not to be capitalistic.
+
+#### Connections Between Slavery of the South and Capitalism of the North
+*Page 244 (excerpt p.2)*
+> ...lashes into labor into bales into dollars into pounds sterling.
+- Planters were not only concerned with profits, but *productivity*.
+  - Extracted profit from slaves by economizing on inputs and extending the working day.
+- **Between 1820 & 1860, productivity of slave increased 6x** at average cotton plantation.
+  - Viewed th ecotton business as a series of sum totals. (days, bales, dollars)
+- Cotton business was *less a series of summed-out totals than a set of processes, causes and effects, risks.*
+
+#### The Three Sets of Planters' Processes 
+*Page 245 (excerpt p.2)*
+1. Natural processes by which sun, water, & soil into cotton.
+2. Labor process by which cotton plants turned into bales.
+3. Financial process by which credit was transformed into income.
+  - Planters needed to negotiate exchanges.
+- Cotton made at the juncture of these three processes.
+  - These forces threatened to escape their control.
+
+#### Rate of Conversion
+*Page 246 (excerpt p.3)*
+- Slaveholders prided themselves at the rate of which their slaes worked.
+- Planters worried constantly that slaves were not working hard enough.
+- Getting slaves to work harder, faster, and better **required 'supervision' and 'management'**.
+- Planter's gaze *ruled by productivity*.
+- Only wanted to convert cotton with more efficiency.
+
+#### The Labor Calculation
+*Page 246 (excerpt p.3)*
+- **Bales per acre per hand.**
+- Standard mesure widely employed.
+- Framed the intensity of cropping cotton and land fertility.
+- This formula calcualtes the productivity of *labor*, not total yield.
+- *Ecological exhaustion.* The planters were squeezing out more fertility from the land than it could yield; depleting lands to save labor.
+> the great limitation to production is labor. -*American Cotton Planter*, 1853
+
+### Slavery as Productivity
+*Page 246 (excerpt p.3)*
+- 1860s - defenders of slavery pointing to the productivity of labor.
+- Bales per acre per hand rose from 4 to 5 to 8, then even 10.
+  - the "seeming productiveness of slavery" - David Christy
+- Defenders believed productivity of labor to be a *defining feature of Southern civilization*.
+
+#### The Aggregate Output Calculation
+*Page 247 (excerpt p.3)*
+- Pounds per day was an important metric.
+- Slaves picked, cleaned, ginned, packed, and shipped millions of pounds of cotton.
+- Daily numbers were used to tract deviations at the beginning of the season.
+  - Deviated numbers were disciplined.
+- If the weight of the cotton falls short in weight, the "[slave] must suffer."
+
+#### Violence as the Metric of Production
+*Page 248 (excerpt p.4)*
+- Failing to make weight, leaving cotton in the boll, breaking branches, spoiling cotton with dirt or twigs, etc. translated onto punishments.
+- 15 to 400 lash scale.
+- Standard measures of cotton production to measure the speed and efficiency of the process.
+- Standards to assess cotton quality: Inferior, Ordinary, Low Middling, Middling, Good Middling, Middling Fair, Fair, Good Fair, Good, Fine.
+- Quality dependend on how quickly and carefully a crop was picked and processed.
+
+### The Nature of Cotton
+*Page 249 (excerpt p.4)*
+- It is important to understand the nature of cotton to understand the rate of slave labor and market grade.
+- When cotton bloomed, it continuously diminished in value through exposure.
+- e.g. Petit Gulf cotton prized for 'pickability', but was vulnerable to wind.
+- Rain could mat cotton fibers together and entangle them
+- Cotton near the bottom of the plant could be splahed with mud.
+- Frost could stain the cotton deep red.
+- Blood from fingers from the rough husks of cotton bolls could stain fibers.
+
+#### Quality Escapes Measuring Cotton with a Quantitative Metric
+*Page 250 (excerpt p.5)*
+- Pounds per day was convenient for biological process of diminishing value.
+- However, the metric was a poor template of the crop's quality.
+- Slaves knew work were *measured by the pound*, had little incentive to pick clean cotton.
+  - Gathered leaves and stems with bolls, dragged sacks over soil, emptied them ont he ground at the end of the row, packed them down with muddy feet, etc.
+- This metric did not emphasize quality.
+
+#### High Standards and Classifications of Cotton During Sale
+*Page 250 (excerpt p.5)*
+- Classified by *color* and *staple* - length & strength of strands, how finely it could be woven.
+- Impressions were hand counted and often determined by the eye.
+- Attempted to make slaves embody metropolitan standards of cotton.
+  - In the gin house, slaves determined which cotton was ready to be ginned.
+- Cotton went to the market in *bales*.
+  - Shape and condition determined its merchantability.
+  - Cotton bales were large and heavy. Often reached market with damage.
+  - Cotton that was explosed to rain would ruin it.
+  - Improperly sorted cotton would compromise sales.
+
+###### Poor and Fraudulent Packing
+*Page 251 (excerpt p.5)*
+- Of great concern to buyers and brokers in Atlantic cotton market.
+- Torn bagging makes the cotton "trashy and worthless".
+- Careless packaging caused a discrepancy between "sample and the bulk".
+- Adjudication of capitalists were phrased on this.
+
+###### Thesis of Current Section
+Cotton planters were not ignorant of standards of the market; they were capitalists operating in a capitalistic sphere. Planters watched sharply over their slaves and strictly managed and balanced influences of ecology, labor, and finance. 
+
+### Where Slave-Owning Planters Capitalists?
+*Page 252 (excerpt p.6)*
+- Few discussion has been had on this topic.
+
+#### The Argument Against Slaveowners as Capitalists
+*Page 252 (excerpt p.6)*
+- Capitalism emerged in the 17th century, characterized by separation of laborers from the land, and the **commodification of labor power).
+  - Performance of work by an hourly wage.
+  - e.g. factory system of production.
+- From these premises, one cannot argue that slavery was capitalist.
+
+#### The Argument For Slaveowners as Capitalists
+*Page 252 (excerpt p.6)*
+- Capitalism as a global system of commerce and exchange that emerged long before the industrial revolution.
+- How else could the slave-produced commodities be produced?
+  - Slavery was then hence unquestionably capitalist.
+
+#### Compare and Contrast of the Two Positions
+*Page 253 (excerpt p.6)*
+
+| Position | Virtues and Positives |
+| --- | --- |
+| Against | Virtue of specificity. Locates emergence of capitalism at a specific time and place.  Places working people at the center of capitalism. |
+| For | Represents simultaneous and interdependent economic histories of Europe, Africa, Americas, and Asia.  Focuses on exchange.
+
+| Position | Criticism |
+| --- | --- |
+| Against | Eurocentric. Treats history of capitalism in England as global. Subordinates other histories.  Treats enslavement in Africa as primary accumulation.  Claims are not universal. |
+| For | Treats capitalism as a series of markers regardless the sphere of production. Do the differences in designations of slaves and wage-earning works not matter?  Capitalism *must* distinguish between slave and free labor. |
+
+#### Reframing the Argument in Light of the Two Positions
+*Page 254 (excerpt p.7)*
+- A materialist and historical analysis begins from the fact that there was no 19th century capitalism without slavery.
+- Industrial slavery, however, it *may* have developed w/o solave-produced cotton and Southern capital markets, did not develop that way.
+- One cannot extract the history of industrial development from its entanglement with slavery and label the former capitalist and the latter 'precapitalist' or 'noncapitalist'.
+- **Understand more concretely the workings of the market.**
+  - Set aside prefabricated questions and begin with *the bale of cotton.
+
+### The Bale of Cotton
+*Page 254 (excerpt p.7)*
+- Numbers are representations of real bales of cotton; abstractions of progress.
+  - Bales per acre per hand.
+  - Bales sent to market.
+  - Drayage.
+  - Insurance.
+  - Storage.
+  - Price per pound.
+- The commercial standard of the cotton trade is the *bale*.
+  - However, the weight is not uniform.
+  - There is almost not standard of capacity that is uniform for the bale.
+
+#### American Cotton Powering the World Economy
+*Page 255 (excerpt p.7)*
+- The American cotton dominated global supply of cotton and a large portion of global economic activity.
+  - From little cotton in end of 18th century to 2nd quarter of 19th.
+
+#### The Cotton Gin
+*Page 255 (excerpt p.7)*
+- In 1794, the cotton gin was invented.
+  - Credited to Eli Whitney, although is contested.
+- Provided cotton planters with a machine that could remove seeds entangled in each bool.
+- Made it possible to cultivate cotton profitably in large portions of the Southern US.
+- High prices of cotton produced the greatest economic boom in the nation's century.
+- 1821; Mississippi and Louisiana produced 20 million pounds of cotton.
+- 1859; that numbers was about 864 million pounds.
+- **Cotton and slavery went together.**
+
+#### The Slave Market and the Cotton Market
+*Page 256 (excerpt p.8)*
+- Prices in the slave market varied directly with that of the cotton market.
+  - This was no surprise in an economy where planters determined productivity of labor in cotton rather than in currency.
+
+#### New Orleans
+*Page 256 (excerpt p.8)*
+- Cotton produced by slaves in the Mississippi Valley made their way through the market into the port of New Orleans.
+- Cotton economy grew; river traffic on the Mississippi grew correspondingly.
+- New Orleans was an export-processing zone mediating the Cotton Kingdom (of the Mississippi) and the Atlantic.
+- New Orleans workers unloaded hundreds of thousands of bales of cotton from steamboats.
+  - Cotton was weighed, sampled, and sold.
+
+#### Cotton Markets and Global Pathways
+*Page 257 (excerpt p.8)*
+- Not all cotton shipped directly from the Mississippi Valley to Great Britain directly across the Atlantic.  
+- Cotton from New Orleans might take several paths to the market.
+  - 15% of Southern cotton was annually sold to domestic manufactures (usually in New England).
+    - This was a small portion of the global cotton trade.
+    - Accounted for a large portion of the industrial output of the United States.
+  - 85% of the crop was shipped directly from New Orleans across the Atlantic to Liverpool.
+- Lots of cotton was shipped to New York, where it wasa unloaded, inspected, consigned, reloaded, then shipped across the Atlantic.
+- Southern cotton reached Europe by way of New York.
+
+#### New York and the Cotton Trade
+*Page 257 (excerpt p.8)*
+- New York attained large control over the cotton trade.
+  - This was a concern to pro-slavery analysts of the cotton trade more than any other concern had been.
+- Commercial spaces of the nineteenth century were **made, not given**.
+  - Distance measured not in miles but dollars.
+  - New York's banks were able to offer longer credit on better terms to those interested in buying cotton.
+- Slower rates of money paid for cotton degraded; this could compensate for the longer distance the cotton would have to travel to market.
+- A large existing volume of trade between New York and Liverpool.
+  - Government had granted New York a monopoly over the mail service to Great Britain.
+  - Enabled regularly schedule ships to operate at a profit. 
+- US imported lots from Great Britain but exported very little other than cotton; it was in the interest of packets to ship cotton at lower rates than competitors.
+- Lowered the per-pound rate for shipping cotton to Liverpool via New York; shortened the distance cotton travelled to the market.
+  - Measured in dollars, New Orleans to New York to Liverpool was shorter than travelling directly (measured in miles).
+
+### The Banking System of Slavery and Capital
+*Page 259 (excerpt p.9)*
+- Agriculturalists that create the wealth of the country do not get daily receipts of money; their produce is ready only once a year.
+- Required supplies to be purchased **on credit** year round.
+- Banking system of the country based around this bill movement of produce.
+- Debts represented a dimension of linkages between Mississippi Valley.
+- Capital entered the Mississippi Valley in the winter months when cotton was sold.
+- Crops came to markets in New Orlenas; cotton merchants (often agents of merchant banks in NY or Liverpool) provided advances for eventual sale.
+- **In return for lending factors, the cotton merchants recieved the right to sell it on a consignment basis.**
+  - Perhaps earning the right to ship it aboard their own ships.
+- Credit took the form of a sight draft payable in NY or Liverpool.
+
+#### Credit and Debt
+*Page 260 (excerpt p.10)*
+- Credit extended by merchant houses revolved the complexity of trade into liquidity.
+- Planters in Louisiana and Mississippi were able to pay their debts when they delivered their crop.
+- American importers were able to buy debt that they could use to pay for European imports.
+- Foreign exchange cycled from the Deep South in the fal to the North in the winter.
+- Bills entered a transatlantic money market.
+  - Paid for finished goods imported to Great Britain, where cotton was shipped to a market where it was sampled, graded, and sold to a manufacturer.
+
+*Page 263 (excerpt p.11)*
+- Even a good crop did not protect a planter if he could not get it to market in time.
+- Even when crops were gathered, ginned, packed, and shipped, cotton planters were substantially exposed.
+  - Bore the risks of the global market.
+- Cotton was sold on consignment; planters retained legal ownership to the time it was sold.
+- Could find themselves demanded for money they had already paid; front of the debt chain.
+
+#### Supplies and Costs
+*Page 261 (excerpt p.10)*
+- A working plantation needed many things:
+  - Rough-cut shoes worn by slaves
+  - Salt pork for their rations
+  - Cornish hens and French wins for the planter
+  - Schoolbooks for his children
+  - Ribbons for his wife hair
+  - Hoes to cut graph
+  - Baling wire to pack cotton
+  - etc.
+- Planter's indebtedness to merchants was "common sense".
+- In the form of plantation supplies, consumable goods, or cash advanced, money that factors lent to planters was not their own.
+  - Borrowed from banks in New Orleans, New York, or even Liverpool.
+  - A fictional stream of capital.
+- Provided the factor with credit that could be used to pay for goods over the course of the year.
+- Drafts promising payment at a specified date could be "discounted"[^1] by local bankers and money changers.
+  - Credit allowed temporal and spatial unevenness of the cotton market to be smoothed out.
+  
+###### Example
+*Page 261 (excerpt p.10)*
+A planter who needed cotton seed in March could have it purchased by a factor in New Orleans, who could buy it with money borrowed from a bank in New York.
+
+When the seed grew into cotton, it will be shipped to the factor, who would sell the cotton and use the proceeds to cover his own debt to the bank. When the sale of cotton was insufficient, the factor would roll the debt to the next year's crop.
+
+Factor rates:
+
+| Interest | 8% |
+| Commission | 2.5% |
+
+#### Absorbment of Risk at the End of the Debt Chain
+*Page 261 (excerpt p.10)*
+- The network of advances and consignments structured the cotton trade with a small risk on the end of the chain of debt.
+- Factors and merchant-bankers were able to make money off the cotton trade *while absorbing very little risk.*
+
+*Page 262 (excerpt p.11)*
+- Merchant bankers could require borrowers to obtain an endorsement.
+  - 'Accomodating endorsers' would be liable for debt if principal borrower defaulted.
+- Endorsers lent their creditworthiness to the borrower; *eased the flow of capital into the economy.*
+- Endorsement respatialized and recapitalized risk by using local networks of trade and sociability to insulate merchant bankers.
+
+###### The Brown Brothers
+*Page 262 (excerpt p.11)*
+- One of the largest firms heavily involved in the cotton trade. 
+- Tried to limit risk by advancing only 3/4 of the value theye xpected cotton would eventually bring.
+- Brown Brothers rarely purchased cotton on the company's account.
+  - Distributed risk through a network of factors and cotton brokers.
+  - Lent them money and recieved guaranteed consignments.
+
+### Realities of the Ecosystem and Debt
+*Page 262 (excerpt p.11)*
+####  Weather
+*Page 262 (excerpt p.11)*
+- Rain or high wind after cotton bloomed would diminish the value of the crop.
+- Severe storms, cold springs, and droughts could leave plants small and the bolls few.
+- Too much sun in the middle of the season could cause a crop ot wither.
+- Too much rain could drown it.
+- Late spring meant that the crop bloomed 'behind'.
+- Early frost meant that picking season would be cut short.
+
+#### Bugs and Pests
+*Page 263 (excerpt p.11)*
+- Narrowing of genetic spectrum of Southern cotton meant it was more vulnerable to insects and parasites.
+- "Rust and rot" were the primary threats to the cotton plant.
+  - "Rust" gave the leaves a brown and deadened tinge.
+  - "Rot" attacked the boll; indicated the presence of worms.
+- "Army worm"; cannot be exterminated.
+
+#### Self-Imposed Biological Feedback Loop
+*Page 263 (excerpt p.11)*
+- Planters sough to *revise ecological limits* of a slave-based economic practice by using *hybridized seed.*
+- This created a biological feedback loop that threatened to ruin crops.
+
+#### Transportation Issues
+*Page 264 (excerpt p.12)*
+- Physical properties of cotton made it vulnerable to 'going bad' in the field.
+  - Cotton could be 'skidded' across a muddy embankment,
+  - Exposed to weather,
+  - Warehoused underneath a leaking rough,
+  - Partially eaten by cattle.
+- Cotton went to market in a 'reckless' way: rafts often were not careful with the luggage and ruined cotton.
+
+*Page 270 (excerpt p.15)*
+- Even if cotton was stowed in the hold of a ship, it could be delayed by low water and miss the high prices of the season.
+
+
+###### Paper Packaging to Address Physical Vulnerabilities
+*Page 265 (excerpt p.12)*
+- Much of factor business involved encasing bales of cotton in a protective coating.
+- Vulnerable physical properties were accompanied by paper guarantees of weight and quality, partitions of ownership and risk, designations of responsibility, etc.
+- **The 'merchantability' of cotton was rendered separable from its physical form: volatile cotton was determined to be commercially stable.**
+  - Factors collapsed the dimensionality of time in the cotton market into timeliness, focusing on being in the right place at the right time.
+
+### Speculation
+*Page 266 (excerpt p.13)*
+- Cotton was stabilized by commercial paper.
+- This made it a good medium for speculation.
+#### The Cotton Market
+*Page 266 (excerpt p.13)*
+- Cotton market had tremendous volatility.
+- Prices often varied 10 to 15 percent within a month.
+- Difference between a good crop and a good one could be determined by where the sale of one's cotton fell on a seasonal price curve.
+
+#### Statistics and Predicting the Future
+*Page 267 (excerpt p.13)*
+- Buyers and sellers in the cotton market began the season by trying to estimate the size of the previous year's crop.
+- These numbers helped planters and merchants imagine the future.
+  - Would there be a shortage of cotton?
+  - Would the bulk of the crop come in the middle of the season?
+- Mastering the cotton trade requires factors to imagine the arc of the cotton market.
+
+#### Estimating the Size of Total Cotton Crop
+*Page 268 (excerpt p.14)*
+- A crucial aspect of trader's speculation.
+- New Orlenas firms sent agent into the countryside to track the growth of crop in the field.
+- Factors that could determine the size of the crop:
+  - Too much rain in Alabama.
+  - Rain and rust in Georgia.
+  - The boll worm in Eastern Mississippi.
+  - etc.
+
+#### Information as Currency
+*Page 269 (excerpt p.14)*
+- Planters would sell their cotton, then talk up the size of their crop.
+- Cotton market subject to pull of stories told about it.
+  - Published reports and tables turne dto rumors and gossip.
+- Rumor and gossip at one end of the season became news and intelligence of history.
+- 1825: NY speculators exploited gap in news and newspaper by paying a postal contractor to transmit cotton purchase orders while holding mail containing news from Europe, upon which their bets were based.
+- Telegraphy in 1840s evened geographic access to market information.
+
+*Page 271 (excerpt p.15)*
+- Cotton could arrive at the market on the wave of rising prices.
+  - News of a short crop, long credit, expanding worldwide demand.
+- If the time was right, cotton planters could make considerable profit.
+- Cotton planters were often compared to gamblers.
+> They turn the farmer's life into that of a gambler and speculator. -Lousiana journalist.
+- Dependent upon chances and evil cards - bad seasons, fall in prices, etc.
+
+### Factor-Planter Relationships
+#### Planter Control Over Markets
+*Page 271 (excerpt p.15)*
+- Planters were legally but not physically present at the sale of their cotton.
+- Crucial decisions where usually made by factors.
+- Planter scould exert control over the sale of their crop by *holding it back from the market*.
+- Crops could be held back when planters believed it was going to be short
+- Cotton being held back into country in anticipation of higher prices was a source of uncertainty.
+  - Cotton factors urged planters to send crops further for sale.
+- When the market was active, it was best to ship cotton to catch the save.
+- When the market was dull, it was best to ship cotton so that it was available whent hings began to move.
+
+*Page 272 (excerpt p.16)*
+- Planters could gamble on rhythm of cotton season by withholding cotton.
+- Could not, however, stop the flow of time.
+- Always another crop gathering at their back.
+
+#### Factor Divergence of Interests
+*Page 272 (excerpt p.16)*
+- Factors handled multiple crops and made their money on commission.
+  - Had less of a stake in any particular transaction.
+- Income depended on maximizing the volume of sales, instead of maximizing the value of any one sale.
+
+#### Planter Control Over Sales
+*Page 273 (excerpt p.16)*
+- Once crop was sent, planters could control the shipment of cotton with written guidelines. 
+- e.g. hold onto cotton until it reaches *x* price, then sell.
+- A factor that sold cotton for less than that price **could be held legally liable for the difference** between that obtained and the one specified by the planter.
+- Cotton held a risk of not being sold.
+  - Generally planters allowed factors discretion in marketing cotton.
+
+#### Lack of Information to Planters
+*Page 274 (excerpt p.17)*
+- Information about a crop was often given the planters in writing.
+- Formulations gestureda t daily business of the cotton market.
+  - Even if they drew specifics, likely speculation.
+- Factors had not seen the bales themselves.
+  - Actions they took in the cotton market was shrouded in speculation.
+> Merchants act advisedly - planters in the dark.
+- Mishandling of crops could become subjects of lawsuits.
+
+#### Lack of Trust Between Planters and Factors
+*Page 275 (excerpt p.17)*
+- Cotton planters often doubted the honesty of factors.
+- Cotton merchants as "Southern Yankees".
+- New Orlenas merchants had creative accounting, heavy charging.
+- Planters believed agents would be dishonest:
+  - Record sales at a lower rate in their books,
+  - Deduct a half-cent on the rest,
+  - Launder goods they owned themselves through third-party sellers.
+- For instance, erred recordings in factor books: William Brandon *owed* $6,000 instead of being $6,000 in debt.
+- Interest of planters may have been sacrificed (sold short) at any chain of advance purchase and promised payment.
+- Cotton was regularly 'slaughtered' for capital.
+
+### Planter Denial of Responsibility, Self-Perception, and Agency
+*Page 277 (excerpt p.18)*
+- Planters would often credit themselvs for good prices and high cotton returns.
+- Terms like "management", "skill', "diligence", etc. reflected an image of wordly success.
+- "I"-language used extensively.
+- When return was low, the services like factors were not supports but contraints on freedom.
+- When times were bad, planters beat their slaves and blamed merchants.
+- Planters emphasized **loss of control** over their own affairs.
+- Claims of the South becoming "tributary" to a network of "avricious merchants".
+
+### Planter-Slave Relationships
+*Page 278 (excerpt p.19)*
+- Planters wereoverseers, not slaves; interposed betweens chedule of money market and cotton trade.
+- Former slaves attirbuted owner's violence to indebtedness.
+- Whereas the conventional political economy the separation of capital and labor is important, in the Cotton Kingdom slaves were both.
+
+#### Slaves as Capital
+*Page 279 (excerpt p.19)*
+- Slaveholders stored savings in salves.
+  - Slaves stood security for those that owned them.
+- Antebellum: majority of collateralized loans in Lousiana involved mortgages on slaves.
+- Mobility and salability of slaves - meant that slaves could be moved from place to place.
+  - Rendered the most liquidated form of capital in the Mississippi valley.
+- Slaves served as guarantors of loans that banks made to merchants and merchants made to planters.
+- Slaves were the human hosts for speculative loans of the cotton trade.
+- A "determination to ocnvert his slaves, and even his own flesh and blood, into money to pay his debt."
+- The real cotton could not absorb the flow of fictional capital; difference was accounted for in human flesh.
+
+[^1]: Traded at currency
 
