@@ -22,3 +22,9 @@ The [Transition School](https://robinsoncenter.uw.edu/programs/transition-school
 {: .text-red-200}
 
 **If you're a current or former TS student** and are introduced in contributing your notes, reach out to me at `andreye@uw.edu` for possibilities of collaboration. I'm looking to convert this site from a personal project into a wide-ranging repository for TS notes and content, if there are people willing to work with me to that end.
+
+---
+
+# Announcements
+
+| **2/9/2022** Notes on the remaining readings from TS Fall History have been transferred. |
