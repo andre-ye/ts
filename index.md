@@ -25,6 +25,6 @@ The [Transition School](https://robinsoncenter.uw.edu/programs/transition-school
 
 ---
 
-# Announcements
+## Announcements
 
 | **2/9/2022** Notes on the remaining readings from TS Fall History have been transferred. |
