@@ -27,9 +27,6 @@ Fall History
 
 ## *Forced Founders* by Woody Holton 
 
-
-
-
 ### Context/Background
 - Full Title: *Forced Founders: Indians, Debtors, Slaves, and the Revolution in Virginia*. 
 - Published by the University of North Carolina Press on Sep. 1st, 1999.
@@ -1990,4 +1987,770 @@ Factor rates:
 - The real cotton could not absorb the flow of fictional capital; difference was accounted for in human flesh.
 
 [^1]: Traded at currency
+
+---
+
+## *Ain't I A Woman?*, Sojourner Truth
+
+### Context
+Written by Sojourner Truth (1797-1883), delivered 1851 at the Women's Convention, Akron, Ohio.
+
+### Notes
+- Women of the north and black slaves of the South discussing race.
+- One perspective: women should be helped into carriages, lifted over ditches, and to have the best place everywhere.
+  - No one helped Truth into a carriage.
+  - Isn't she a woman?
+  - Bore 13 children, most sold off into slavery.
+- What does 'intellect' have to do with women's rights or slaves' rights?
+  - If one person begins at a disadvantaged place, it is only right to let them have their "little half measure full".
+- Argument: women do not have as many rights as men because Christ wasn't a woman.
+  - Christ came from God and a woman.
+
+### Full Text
+```
+Sojourner Truth (1797-1883): Ain't I A Woman?
+Delivered 1851
+Women's Convention, Akron, Ohio
+Well, children, where there is so much racket there must be something out of kilter. I think that 'twixt the negroes of the South and the women at the North, all talking about rights, the white men will be in a fix pretty soon. But what's all this here talking about?
+That man over there says that women need to be helped into carriages, and lifted over ditches, and to have the best place everywhere. Nobody ever helps me into carriages, or over mudpuddles, or gives me any best place! And ain't I a woman? Look at me! Look at my arm! I have ploughed and planted, and gathered into barns, and no man could head me! And ain't I a woman?
+I could work as much and eat as much as a man - when I could get it - and bear the lash as well! And ain't I a woman? I have borne thirteen children, and seen most all sold off to slavery, and when I cried out with my mother's grief, none but Jesus heard me! And ain't I a woman? Then they talk about this thing in the head; what's this they call it? [member of audience whispers, "intellect"] That's it, honey. What's that got to do with women's rights or negroes' rights? If my cup won't hold but a pint, and yours holds a quart, wouldn't you be mean not to let me have my little half measure full?
+Then that little man in black there, he says women can't have as much rights as men, 'cause Christ wasn't a woman! Where did your Christ come from? Where did your Christ come from? From God and a woman! Man had nothing to do with Him. If the first woman God ever made was strong enough to turn the world upside down all alone, these women together ought to be able to turn it back , and get it right side up again! And now they is asking to do it, the men better let them.
+Obliged to you for hearing me, and now old Sojourner ain't got nothing more to say. 
+```
+
+---
+
+## *Incidents in the Life of a Slave Girl*, Linda Brent
+### Context
+- Complete title: "*Incidents in the Life of a Slave Girl. Written by Herself.*"
+- Edited by L. Maria Child, published in Boston in 1861.
+- Signed under the name "Linda Brent".
+- Each section will begin with '*page x*', which indicates the content begins on page *x* in the PDF given for class.
+- This excerpt contains a preface by the author, an introduction by the editor, and Chapter 5: The Trials of Girlhood.
+
+### Preface
+*page 2*
+- This narrative is not fiction. Some descriptions may seem incredible but are strictly true.
+- Have not exaggerating the wrongs of slavery.[^1]
+- Arrived in Philadelphia; Bishop Paine advised to publish a sketch of her life.
+- Did not write these experiences to draw attention to themself.
+  - Nor cares to "excite sympathy for my own sufferings."
+- Desire to **arouse the women of the North in realizing the conditions of two million women in the South.**
+  - Convince the people in the Free States what slavery really is.
+  
+### Introduction by the Editor
+*page 4*
+- The author in the autobiography is personally known to the editor.
+- The author has lived with a distinguished family in New York for the past 17 years.
+- Author's accounts are accurate; "though some incidents in her story are more romantic than fiction."
+- Made revisions to her manuscript, but these have been for condensation and arrangement.
+  - No changes to remarks or important comments.
+- Surprised that a woman born in slavey could write so well.
+  - Deflect suspicions of falsehood.
+  - Nature gave her an ability to learn quickly.
+  - Her mistress taught her to read and spell.
+  - When she came to the north, having frequent intercourse disposed her to self-improvement.
+- Aware that some will accuse the editor of impropriety for presenting this work.
+  - The experiences of the author some may call delicate, and others indelicate.
+- Slavery has been veiled; the public should understand its horrific aspects.
+  > I willinglly take the responsibility of presenting them with the veil withdrawn.
+- Goal: **arouse and organize women of the North on the question of slavery.**
+  - Hopes men will not send fugitives back.
+
+### Chapter 5: The Trials of Girlhood
+*page 6*
+- First years of 'service' in Dr. Flint's family.
+- In her fifteenth year, Dr. Flint "began to whisper foul words in my ear."[^2]
+  - Sexual degredation.
+- Dr. Flint had stormy ways and gentleness.
+  - Author prefered the stormy moods.
+  - Dr. Flint attempted to corrupt pure principles.
+- Daily, Dr. Flint "violated the most sacred commandments of nature."
+  - Told the author that she was his property.
+- Soul yearned to revolt, but could not turn for protection.
+  - No shadow of law to protect a slave from violence or even death.
+  - The mistress feels jealousy and rage towards slaves.
+- If the North knew about the true degredation of slavery, "you... would not help to tighten the yoke."
+  - Northerners would refuse to do for the master that the "lowest class of whites" do for "the master" in the South. [^3]
+- Even the young child must learn why her mistress hates her so much.
+  - Will be compelled to realize that she is no longer a child.
+  - God bestowing beauty upon her is the greatest curse.
+    > That which commands admiration in the white woman only hastens the degradation of the female slave.
+- The master's presence hovered over the slave at every turn.
+- If author talked to her grandmother, master would kill her.
+  - Felt guilty telling grandmother such "guilty things".
+  - Although did not confide in her, felt comforted by grandmother's presence.
+- Even as the laws and customs were egregious in the slaveholding community, professional men deemed it prudent to keep up some show of decency.
+- Goal: to kindle a flame of compassion for the "sisters who are still in bondage, suffering as I once suffered."
+- In light of these actions, why are the free men and women of the North silent?
+  > God bless those, every where, who are laboring to advance the cause of humanity!
+
+
+[^1]: This preface is reminiscent to Equiano.
+[^2]: Sexual?
+[^3]: Appealing to a sense of first and second-class whiteness? i.e., Northern whites are 'less fit for cruel treatment' than Southern whites?
+
+---
+
+## *Narrative of the Life of Frederick Douglass*, Frederick Douglass
+### Context
+- Complete title: *Narrative of the Life of Frederick Douglass, an American Slave. Written by Himself*.
+- Published in Boston by the Anti-Slavery Office in 185.
+- Frederick Douglass was born into slavery on Maryland's Eastern Shore in 1818. He escaped from slavery at age 20 and became an active figure in the abolitionist movement, eventually becoming one of the most important black American figures of the 19th century. In these excerpts from his first autobiography, he describes his experiences as a slave.
+
+### Chapter 2
+- Slaves of all other farms recieved allowance of food and clothing.
+  - Monthly allowance: 8 pounds of pork and one bushel of corn meal.
+  - Yearly clothing: no more than 7 dollars of cost.
+- Children who could not work in the field had only two coarse linen shirts per year.
+  - Went naked until the next allowance day otherwise.
+- No beds given to the sleep. Minimal sleeping time was given.
+- At the sound of the driver's horn, all must rise to the field.
+  - No age or sex finds any favor.
+- Mr. Severe - an overseer.
+  - Whipped a woman, causing the blood to run half an hour at a time, in the midst of her crying children.
+  - A profane swearer.
+
+### Chapter 7
+- Lived in Master Hugh's family for about 7 years.
+- Succeeded in learning how to read and write.
+  - Needed to formulate many strategies.
+- Mistress was kind-hearted; this was a contradiction to slavery, in which human relationships could not be human.
+- Under slavery, the mistress hardened.
+  - Ceased to instruct the author.
+  - Became more violent and easily angered.
+- Plan adopted: made friends with the little white boys met in the street.
+  - These became teachers; author brought books and bread.
+- The bread given to the poor white boys was returned with the "more valuable bread of knowledge."
+
+### Chapter 9
+- Mr. Cookman: believed to be a good man.
+  - Thought to be instrumental in getting Mr. Samuel Harrison[^1] to emancipate his slaves.
+- Mr. Cookman took notice of the slaves; yet could not come along with them.
+- Proposed a Sabbath school for slaves, but were rejected.
+- Master found religious sanction in his cruelty.
+  - Master tied up a young woman and whipped her, in justification with a passage from the Scripture.
+- Master Thoomas - one of many slaveholders who held slaves for the purpose of taking care of them.
+
+### Chapter 10
+- Mr. Covey was at the house; when the fan stopped, he came immediately.
+  - Author had crawled away in hope to find relief from the sun.
+  - Was kicked and told to get up; then gave a heavy blow to the head.
+- Resolved to go to the master, enter a complaint, and ask for his protection.
+  - Needed to walk 7 miles; a evere undertaking.
+  - Had sickness and was feeble from the violence.
+- Covey discovered him and threatened if he did not return.
+- Upon arrival, was told that he deserved the punishment by Covey.
+  - Gave him many salts and was told to return to Mr. Covey's in the morning.
+- In the morning, ran into the cornfield - the high corn afforded a means of hiding.
+  - That night, fell with Sandy Jenkins; had a free wife who lived about four miles from Mr. Covey's.
+  - Invited him to go home with Jenkins.
+- Afterward, had a fight with Mr. Covey; was a turning-point in career as a slave.
+  - Rekindled feelings of freedom and revivd a feeling of manhood.
+- Was never whipped again, albeit involved in several fights.
+- Theory: reputation at stake, suffered him to go unpunished.
+
+- Mr. Freeland was the owner of only two slaves - Henry and John Harris.
+  - The other hands he hired (Douglass, Jenkins, and Hnady Caldwell)
+- Devoted Sundays to teaching fellow slaves how to read.
+- Slaves gave themselves the chance to read.
+  - As little publicity as possible.
+- Messrs. Wright Fairbanks and Garrison West rushed in with sticks and stones, breaking up the Sabbath school.
+  - Held the Sabbath school at the house of a free colored man.
+- Instructing fellow slaves was "the sweetest engagement with which I was ever blessed."
+
+### Chapter 11
+- Thought of leaving friends was the most painful thought needed to contend.
+- Hoped to get away with anything less than the severest punishment.
+- On September 3, 1838, left his chains and reached New York.
+  - Must leave this unexplained, for reasons mentioned.
+- Have never really been able to answer how Douglass was able to find himself in a free State in the first place.
+  - Immediately after arrival to New York, felt like he had escaped a den of hungry lions.
+- However, had a feeling of great insecurity and loneliness.
+  - Was afraid to speak to anyone for fear of speaking to the wrong person.
+  - Money-loving kidnappers could lie in wait for a fugitive.
+- Motto adopted for slavery: "Trust no man!"
+- Every moment, subjected to the liability of being seized.
+  - Without shelter, wanting money or credit, wanting break, etc.
+- The "Liberator" paper becmae "my meat and my drink. My soulw as set all on fire."
+  - Never felt happier than at an anti-slavery meeting.
+- Attended an anti-slavery convention at Nantucket on August 11, 1841.
+  - Felt strongly moved to speak.
+
+[^1]: a very rich slaveholder
+
+
+---
+
+## *Black Reconstruction*, Du Bois
+
+### Context
+- Complete title: *Black Reconstruction: An Essay Toward a History of the Part Which Black Folk Played in the Attempt to Reconstruct Democracy in America, 1860-1880*
+- By W.E. Burghardt Du Bois, professor of sociology in the Atlanta University.
+- Published by Harcourt, Brace and Company in New York.
+- Page numbers reference the PDF given in class.
+- Excerpt from in class is Chapter IV: The General Strike.
+
+### Summary and Key Points
+- Theory: Black slaves escaped the South to the North because they did not want to work anymore.
+  - Arising contradiction: Black slaves were better off in plantations than following a Northern army around, fugitives were ill-treated in the North.
+- Alternate theory: Instead, *Black slaves objected not to work itself but the **conditions** of work.*
+  - They were willing to work the same plantation work for the North, but when principles of honesty in treatment and education were fulfilled.
+  - Wanted to see the toils of their own work; when this was respected Black slaves were incredibly productive.
+  - They objected not to laboring but to the circumstances under which they labored.
+- Timeline:
+  - Beginnings of the Civil War. The Northern army initially *does not aim to fight against slavery*.
+  - Fugitive slaves begin approaching Northern troops in large numbers. Some officials in the Northern arm see labor potential and set them to work.
+    - Slaves are still often ill-treated.
+  - More fugitive slaves continue to arrive. As the white Northern soldier grew tired, the fugitive slave became a military laborer.
+  - The North found that fugitives were very productive when given their own land and some level of freedom.
+    - Several 'experiments' that used this were successful.
+- Thesis: The North was not abolitionist, but given the black slave's objection not to work itself but tyrannical *conditions* of work, the black slave became valuable assets that strengthened the North and weakened the South. This reframed the war from unity around slavery, something neither side had anticipated.
+
+### Introduction
+*Page 2*
+- War was murder, anarchy, and debt; it results in evil despite intended good.
+- Before 1861, neither the North nor the South had an intention of going to war.
+  - Were not prepared for war.
+  - National army small, poorly equipped, did not have experience.
+- Northern armies did not intend to become armies of emancipation.
+  - Did not propose to attack property or to free slaves.
+  - Was a war to preserve the Union.
+  
+### Initial Motivation for the War
+*page 2*
+- Slavery did not touch the heart of American masses.
+  - Common men did not understand the political and economic cost of slavery.
+  - **The Northern white population did not fight against slavery.**
+  - Free soil was a stronger motive
+  - Large economic ideal of keeping a large market for goods; the United States appealed to the West and the North.
+    - Additionally appealed to broder states.
+```
+To the flag we are pledged, all its foes we abhor,
+And we ain't for the n*****, but we are here for the war.
+```
+
+#### Economic Incentives
+*page 3*
+- Border States wanted to cotton belt in the Union.
+  - Allowed surplus slaves to be sold.
+- Wanted to be in the same union with the North and West; profit of trade was increasing.
+  - Saving the Union was a rallying cry of war; made the Border States hesitate secession to the South.
+  - Knew that the only prescription was abolition.
+- If the South had trained leadership, a compromise would have been made.
+  - Would have rendered the slave system impregnable for generations.
+
+#### Ignoring Interests of Minorities
+*page 3*
+- North and South ignored interests of the laboring class.
+  - North expected patriotism and union.
+  - South expected all white men to defend slaveholder property.
+  - Both expected a sharp, quick fight.
+    - South expected to secede peaceably and impose terms that recognized slavery.
+    - North expected South would return with slave property recognized but geographically limited.
+- Both ignored slaves.
+  - The North saw slaves as a 'curiosity'.
+  - Black slaves not considered important by a majority.
+
+### The Importance of Slaves
+*page 4*
+- Black slaves occupied the center stage.
+  - The war occurred in the South; there were ~4 million black slaves and ~260,000 free blacks.
+    - What did war mean to them? What did they mean to the war?
+- Two theories:
+  - Black slaves faithfully served until emancipation was thrust upon them.
+  - Black slaves immediately left serfdom and took their stand with freedom.
+- 9/10 of the black slaves could not read or write.
+  - Most isolated; mass movement would occur slowly.
+  - Black slaves waited, looked, and listened.
+    - No use seeking refuge in "an army which was not the army of freedom".
+
+#### Fugitive Slaves
+*page 4*
+- When it became clear that the Union armies would not return fugitives, slaves entered in a general strike.
+- Ran away to safety and offered services to the Federal Army.
+- Served the emancipating army.
+
+#### Southern Dependence on Slaves
+*page 4*
+- The South was heavily dependent on black slaves to raqise food and money for civillians and the army.
+  - The South ignored the idea that slaves would want to be rescued.
+  - Convinced the slaves did not want tob e free.
+- South made a careful calculation of military value of slaves.
+  - Slaves would run throughout the war.
+  - In the industrial North, the men fighting would be workers and laborers that ran it.
+  - The institution of slavery was a strong economic weapon.
+
+###### Military Usage
+*page 5*
+- The South considered using slaves as military labor.
+  - Would throw up breastworks, transport and prepare food, act as servants.
+  - Authorized slaves to work on military construction.
+  - Texas: 1,000 slaves offerred by planters to work on public defenses.
+  - Pondering military use as soldiers.
+- *Slavery softened as the war proceeded.*
+  - Some level of harshness had to disappear; women and children were mainly left.
+  - **The condition of the slave had changed**, no matter who won the war.
+- The South needed to be careful; assured them of the bad character of the North.
+
+#### Questioning that the Northernors were Abolitionists
+*page 6*
+- War was about to happen; slaves began to sense it and large numbers of fugitive salves & free blacks rushed to the North.
+- When Northern officials arrived in war, they made sure not to touch slavery.
+  - W.T. Sherman in October 1861: was polite and said he had no idea of interfering with slaves.
+  - Major Generasl Dix: was careful in seizure of two counties in Virginia not to touch slaves.
+  - Burnside: returned two slaves that had tried to run away from them.
+    - May have been salves.
+  - July 4th, Colonel Pryor of Ohio: repudiated that the Northern army were abolitionists.
+- Southern newspapers argued that the war was over abolition; Northeners denied this.
+  - Some even promised to put down slave insurrections "with an iron hand".
+  - Some took measures to send fugitives back.
+- In the North, blacks were not allowed to enlist.
+```
+[The Civil War was begun]... in the interests of slavery on both sides.
+The South was fighting to take slavery out of the Union,
+and the North fighting to keep it in the Union;
+the South fighting tog et it beyond the limits of the United State Constitution,
+and the North fighting for the old guarantees;
+- both despising the Negro,
+but insulting the Negro.
+- Frederick Douglass, Boston 1865
+```
+
+#### What the Civil War Was to Slaves
+###### Southern Propaganda
+*page 8*
+- It was not clear to most of the slaves what the war meant.
+  - Spread propaganda: the Northeners would sell the slaves into worse slavery of the West Indies.
+  - Would drive slaves from plantations into highways and danger.
+- The South spread propaganda and pointed to how badly fugitive slaves lived.
+  - Spread stories of Northernors taking women away forcefully.
+
+###### A Stream of Fugitive Slaves
+*page 9*
+- As long as the Union stood still, the slave worked; when the Union army moved into slave territory, the slave joined it.
+- Fugitive slaves: had been running to the North and onwards to Canada.
+  - Kept down the chanc of insurrection.
+  - The chhance to run away increased, there was encouragement.
+- The Union did not propose to fight for slaves or to touch slavery; yet faced a stampede of fugitive slaves.
+- Tried to send the slaves back; marker of a "dress parade war" (fancily and status-driven constructions of etiquette).
+  - When it became a real war, slaves were captured or recieved, used as laborers & servants for the Northern army.
+- **Southern worker held the key to the war.**
+  - The black worker raised food and raw materials in a more strategic place than the white worker.
+- When Fremont in Missouri freed slaves, Lincoln repudiated what he had done.
+  - General Butler: kept fugitives and freed them letting them to do whatever work they could.
+- Slaves were being used for military purposes by the North.
+- A flood of fugitives arrived; a slave population pushed its way towards Northern troops.
+  - Sometimes encountered worse treatment, but still stuck given that their interests were identical.
+  - Included a few poorerw hties as well.
+- Movement became a general strike against the slave system for all that could find oppurtunity.
+- A swarming and increasing population of slaves refused to work on Confederate plantations and sought freedom in the Northern armies.
+  - Treatment of slaves generally left at the discretion of department managers.
+- Eventually, fugitives organized and became laborers, servants, and spies.
+
+###### Southern Denialism
+*page 12*
+- South prided itself on absence of slave violence.
+- However, this was not true; hundreds of thousands of slaves were leaving masters.
+  - Found an easier and decent way to freedom.
+
+#### To Slaves as Militant Laborers
+*page 13*
+- Using fugitive slaves as soldiers to replace tired and rebellious white Northerners.
+  - Premise: the fugitive slave must have been fre.
+- The North began with the idea of fighting a war *without touching slavery*.
+  - Futigive slaves were eventually considered to be "contraband of war", a step to attract and introduce fugitive slave labor to assist Northern armies.
+- Eventually, became military laborers and plantation laborers to support the Federal army.
+- The North found itself freeing slaves hwen it had no intention of doing so.
+  - Rise of "Department[s] of Negro Affairs".
+
+###### Motivations for the Transition
+*page 14*
+- The Northern army with refugees is important but understudied.
+- It is not enough to say that "black slaves were tired of work and wanted to live at the expense of the government".
+- Contradiction: movement and suffering of the refugees, were better off on plantations than trailing an army.
+  - Were mistreated, ridiculed, and driven away.
+- It was a strike against not *work* but the *conditions of work*.
+- Wanted to stop the plantation system economy, so they left the plantations.
+- Black slaves found work they were willing to do in the North.
+  - Wanted land and to see and own the results of their labor.
+- When conditions of *honesty in treatment and education* were fulfilled, the result was phenomenal.
+
+### Systematic Organizing of Slaves
+#### Butler and the New Orleans Sugar Plantations
+*page 15*
+- Greatest and most systematic organizing of fugitives - New Orleans.
+  - Butler issued orders that no slave would be received in New Orleans.
+  - Planters were unable to make slaves work; sent them back to the Federal lands.
+  - Butler emancipated these slaves[^1]; seized abandoned sugar plantations and worked them with slave labor for the benefit of the government.
+- With permission from the War Department and authority of the Confiscation Act;
+  - Butler organized colonies of fugitives and regulated employment.
+  - Black slaves were *willing to do the work* on the very same Southern plantations, but for the North.
+- Maintained a black regimnet and kept black officers.
+> "the colored people of Louisiana under the proper sense of the good you have done to the African race in the United States, beg leave to express you their gratitude."
+
+#### Systems for Caring for Slaves
+- Butler and General Banks[^2] provided thousands of freedmen with medicine, rations, and clothing.
+
+###### Failing Systems and Justification Based on Conditions of Work
+- On January 30th, 1863, General Banks made labor on public works compulsory for blacks.
+- The plan failed; blacks refused to work.
+  - They were not *against work*, but *against conditions of work*.
+- Fixed this mistake: selected blacks to look into conditions and report what was needed, etc.
+- When respect was given, the experiment ran itself.
+
+###### General Grant's System
+- In Mississippi; many slaves had arrived from surrounding country.
+  - Begged for protection and needed food, clothing, and shelter.
+- A few were employed as servants, cooks, and scouts.
+  - Majority were left to freeze adn starve.
+- Grant determined that blacks would perform camp duties done normally by soldiers.
+- Grant: selected John Eaton as head of Dep. of Negro Affairs.
+  - Was appalled at the scenes at the camps.
+- White sodliers were[^3] unwilling to serve black fugitive slaves.
+- Economic basis in which work of relief can be placed:
+  - Fugitives were willing to go to work haqrvesting ungathered corn and cotton that could be sold.
+  - Eaton fixed wages and kept accounts for workers.
+- The freedmen became self-sustaining and gave little trouble.
+  - Constructed cabins for themselves.
+- Were perfectly willing to have a *tax on their wages* to support the sick and dependant.
+
+###### Blacks Buying Land
+*page 19*
+- In particular cases, blacks were *encouraged* to buy land.
+  - Building cabins and forming settlements was encouraged; a system of education was established.
+- Refugees were grouped into villages; their work was systemized.
+- Blacks saved up money from the sale of pigs, chickens, and eggs (and other work) to buy a tract of land.
+- Under General Saxton in South Carolina, blacks began to buy land sold for non-payment of taxes.
+  - Immensely productive in terms of cotton output. Lower cost.
+  
+###### Sherman and the Sea Island Circular
+*page 20*
+- Land and labor control were successful; a flood of refugees emerged from previously ontouched lands.
+- Sherman's march to the sea cut the Cotton Kingdom in two.
+- Sherman issued the Sea Island Circular in Jan. 18, 1865.
+  - Islands from southern Charleston were reserved as a settlement for blacks.
+  - A great success; worked with energy and diligence.
+
+#### Implications of Such Systems
+*page 22*
+- Blacks worked fewer hours and had more time for self-expression as a result.
+  - Exports were fewer than during slavery.
+  - Emancipation enlarged the black person's purchasing power; *producing to consume*.
+- Freedmen were further organized for cotton raising.
+
+###### The Importance of Conditions of Work
+*page 24*
+- Efficiency as free laborers dependent on the conditions in which they labored under.
+- Dishonesty and indolence were the *creation fo slavery* and not "faults of the negro Character."
+
+### Formation of Organizations and Commissions
+*page 24*
+- To aid the government came religious and benevolent organizations.
+
+#### Te American Missionary Association and Religion
+*page 24*
+- The AMA grew out of defense for black slaves; captured the slave ship *Amistad* in 1837.
+- Extended work in 1862-1863, establishing missions along the Atlantic Coast.
+- Churches and missionary societies responded to the reports of Pierce, Dupont, and Sherman.
+- Scope of work enlarged by the arrival of *white* refugees.
+  - A portal through which poor whites and blacks were sent to loyal states for homes and employment.
+
+#### Educational Commissions
+*page 25*
+- Educational organization in Bosto, suggested by reports of Pierce.
+  - New England aFreedman's Aid Society; worked in all Southern States.
+- National Freedmens' Relief Association in NYC, broadened towards the whole South.
+- Port Royal Relief Committee in Philadelphia, etc. expanded quickly.
+
+#### Abuses of Commissions
+*page 26*
+- President Yeatman of the Western Sanitary Commission in 1863; visited freedmen in Mississippi Valley.
+- Saw abuses of the leasing system.
+  - Suggested a plan to organize free labor and leasing plantations.
+- Bureau to take charge of leasing land and to secure justice and freedom to fo freedmen.
+  - Was adopted and satisfactory.
+- Confusion and lack of system were natural results of the general strike.
+  - Accomplished first aim; escaped plantation discipline, were recieving wages, and had protection from violence and justice[^4] in the courts.
+
+### Redefinition of the Objectives of the North in War
+*page 26*
+- The South woke up to the fact that the war would be very long.
+- The North realized what war meant in blood and money.
+  - The relationship between the North and the black person changed.
+- Free blacks of the North were clamoring; a war against the South was a war against slavery.
+- Abolitionists no longer needed to fear the mob; leaders of church and state talked of freedom.
+  - The black person was valuable labor initially, as a key to Southern resistance.
+  - Became military power: without them, Lincoln says, the North would not have won the war.
+- Slow changing of perceptions of the slave were not only a matter of soldiers.
+  - Without the labor of the slaves the South would starve.
+
+#### Impact on Strategies of the South
+*Page 27*
+- Action of slaves impacted poor whites.
+  - So long as the planters' war seemed successful, seemed to be little opposition.
+  - When conscription and other burdens were placed, there was increasing opposition.
+- Racism was developed to pit white mechanics with the planters against slaves and the North.
+  - Racial basis emphasized to harden the line between black and white.
+- Even the race argument could not hide that rich Southernors were not fighting in the war.
+  - Desperately, arguments were made that the poor white would benefit the most from protecting slavery.
+- Poor whites were losing faith; saw poverty was fighting the war, not wealth.
+  - Combination of fear and jealousy of blacks as much as disaffection with slaveowners.
+  - Economic rivalry with blacks arose.
+
+#### Lincoln and Centering Slaves in the War
+*page 29*
+- Lincoln began to see that the war was centering around slaves.
+- Talked about compensation for emancipated slaves, passed the Confiscation Act in August 1861.
+  - Freed slaves used in war by the enemy.
+- Lincoln suggests provision made for colonization fo salves.
+  - Could not envision free blakcs in the United States.
+  - If Lincoln could hold the country together and keep slavery, he would do it.
+- August, Lincoln faced the truth; blacks not only ought to be free, but thousands of them were already free.
+  - Either the black man would be allowed to fight, or the draft would not bring enough white men.
+- North faced the moral strength of declaring that they were fighting for the emancipation of slaves.
+  - Lincoln declared that the slaves of all persons in rebellion were "henceforward and forever free".
+
+### Conclusion
+- The fugitive slaves, fugitives as "contrabands", spies, serants and laborers; the black persona s a soldier, citizen, then voter.
+  - Steps were an almost rhythmic drumbeat.
+- Price of disaster of war; a price few Americans initially dreamed of paying.
+- North was not abolitionist; but as abolitionist-democracy gained in power, they guided the nation out of moral failure.
+
+[^1]: even though it was against Lincoln's policy.
+[^2]: Butler's successor
+[^3]: for the most part, at least
+[^4]: of some sort
+
+---
+
+## *The Emancipation Proclamation*, Lincoln
+
+### Context
+The Emancipation Proclamation, issued on September 22nd, 1862, by President Lincoln.
+> During the course of the Civil War, Lincoln had wanted to declare all slaves free. He waited, however, until the Union forces had some decisive victories over the Rebels; no doubt his holding off was to prevent giving the South a rallying point until one would have no effect on the outcome of the war. After the Southern defeat at Antietam, he felt the time was right. He announced that in 100 days, on January 1, 1863, he would issue an order freeing the slaves in the states in rebellion.
+> The reason that Lincoln restricted the Proclamation to those states active in the rebellion is that Lincoln felt he could take such unilateral action in those states not currently recognizing the authority of the Union; the loyal Union states had certain rights that a Presidential Proclamation would have no Constitutional power over.
+> The effect was to embolden the South, with an "I told you so" sort of pride - they could say that the President had always intended to take away their right to their slaves. They also saw it as a call for a slave rebellion within the Confederate borders. However, it also had the effect of causing European powers from backing off their already wavering support of the Confederacy, lest they be seen as supporting slavery.
+> Unfortunately, the Proclamation also made the war less popular in the North; the war now seemed to be over the freeing of slaves (something many Northerners were not particularly keen on, despite the general Northern propensity towards abolition) and not about the need to keep the Union together. The war ended two and a half years later.
+> - [usconstitution.net](https://usconstitution.net/eman.html)
+
+### Paragraph 1
+- All persons held as slaves will be free.
+- The Executive Government of the US will recognize and maintain such freedom.
+- Guarantees not to repress the freedoms of such slaves.
+
+### Paragraph 2
+- On January 1st, slaveholding states will be given a chance to 'vote their way out'.
+- If there is conclusive evidence, such a state will be considered "not in rebellion against the United States."
+
+### Paragraphs 3 and 4
+- By the virtue of the power vested in Abraham Lincoln, orders and designates all states and parts of states to surrender:
+> Arkansas, Texas, Louisiana, (except the Parishes of St. Bernard, Plaquemines, Jefferson, St. John, St. Charles, St. James Ascension, Assumption, Terrebonne, Lafourche, St. Mary, St. Martin, and Orleans, including the City of New Orleans) Mississippi, Alabama, Florida, Georgia, South Carolina, North Carolina, and Virginia, (except the forty-eight counties designated as West Virginia, and also the counties of Berkley, Accomac, Northampton, Elizabeth City, York, Princess Ann, and Norfolk, including the cities of Norfolk and Portsmouth[)], and which excepted parts, are for the present, left precisely as if this proclamation were not issued.
+- Note that this does not include border states of Missouri, Kentucky, Delaware, and Maryland, which practiced slavery.
+  - Lincoln did not want to propel them to the Confederate side.
+
+### Paragraphs 5-End
+- Declare all persons held as slaves to be free.
+  - Military and naval authorities will recognize and maintain this freedom.
+- Slaves will be free to abstain from violence, unless in self-defense.
+  - Recommends that they "labor faithfully for reasonable wages".
+- Slaves will be accepted into military positions.
+- This is believed to be an act of justice warranted by the Constitution.
+
+---
+
+## *Labor of Love, Labor of Sorrow*, Jacqueline Jones
+
+### Context
+- Full title: *Labor of Love, Labor of Sorrow: Black Women, Work, and the Family from Slavery to the Present*.
+- Class reading is *Chapter 2: Freed Women? The Civil War and Reconstruction.*
+- By Jacqueline Jones.
+- Published by Basic Books, Inc., Publishers in New York.
+
+### Thesis and Main Points
+- Among the dislocation of the Civil War, a common purpose remained to escape oppression of slavery while attempting to keep family intact.
+- In making decisions about how family labor was organized, black people rejected materialistic individualism of the North as well as brutal authoritarianism of the South.
+- The development of a coexisting between economic and social family worlds was significant and made a living increasingly carried by individuals apart from family life.
+- Patterns of interracial violence revealed anxieties related to sex, race, and power that remained locked in the South's collective consciousness.
+- Black women continued occupied two statuses: as wives, mothers, and upholders of culture in their neighborhoods, and as workers belonging to a despised caste. Freedwomen percieved freedom not to be a release from labor, but the oppurtunity labor for their own families and community.
+
+### Introduction
+*page 2*
+- Thomas W. Conway - stated his policy regarding families of southern black Union soldiers; although slaveowners had drove them off plantations in starving conditions, Conway believed in treating the black soldiers and their families to the same responsibilities as white soldiers.
+  - Acknowledged the sacrifices black men had made, but believed that freed people could do well off with "a little economy and industry".
+- A debate over the fate of emancipated slaves cast major white participants into new roles.
+  - Neoabolitionists sought to implement ideas of moral significance.
+  - "Free labor" ideology provided former slave with oppurtunity to exchange labor in a new marketplace.
+- Whites feared black people's desire for family autonomy.
+  - Preference of wives and mothers to take wage work instead of their own households.
+  - Freedwomen were considered exempt from ideal of full-time domesticity.
+- Southern plantations believed that "free black labor" was a contradiction.
+  - Began a vicious cycle of prodding labor and hysteria about low agricultural productivity in the South.
+- **The North and the South** differed tremendously in how they would re-build the South.
+  - Did assume black wives and mothers would continue in productive labor outside their homes.
+- However, freed blacks resisted northern work ethic and neoslavery.
+  - Were happiest when they worked for themselves in a sharecropping sense.
+  - The industrial North was increasingly becoming authoritarian in its manager-worker relations.
+  - Sharecropping sytem gave innumerable benefits of freedom.
+- *Emancipation was not a gift given by some presidential proclamation, but a process in which black people transfered their labor from their masters to themselves.*
+  - Black people struggled between spheres of economic and social welfare, but wanted for women to be wives first and cotton pickers econd.
+- Experiences of black women in these time reveals the strength and personal level of the Civil War and Reconstruction.
+
+### In Pursuit of Freedom
+*page 4*
+- Slavery gradually diminished, however, freedom was opened to many but very slowly and only in a few degree.
+- Women: welfare of children was often the primary consideration in determining an appropriate course of action.
+- Awareness and choice often shaped the decisions of slave women during this time.
+  - Some engineered dramatic escapes, some decided to remain on plantations for their children.
+  - Black children were not allowed to go to school, taught only to work.
+- Under the conditions in which situations produced by an absent master or nervous mistress unable to obtain an upper hand, slaves would slow their workpace: "awkward', "inefficient", "lazy".
+  - This seemed to spur more fears about the role of black female slaves, often in households, that might perform some sort of sabatoge.
+- Loosened by distractions of war, slaves pushed physical and emotional resolve of those in authority.
+  - The war had intensified their hardships.
+- Slave women took an increasing role in caring for the children, ill, and the elderly during wartime, more so than during the antebellum period.
+  - Military mobilization broke fragile ties between slave families.
+  - Men were put in military construction projects, armies, factories, etc. slave impressment policies.
+- An approaching Union army gave laves a chance to flee from their masters.
+  - Single mothers ran away from their masters and sought protection behind Union lines.
+
+#### Black Slaves and Impact on Family Structures
+- Union territory symbolized the beginning of a new life, but the beginning was not entirely pleasant. Lacked food, shelter, medicine, etc.
+  - Refugee settlements became targets for black male conscription.
+  - However, caused resentment among the refugees; women saw the draft as a seizure or a raid.
+  - Well-being of families remained a source of anxiety for them
+  - Black soldiers demanded the federal government provide loved ones with some sort of protection.
+- Some families followed male soldiers to the front lines; however this was discouraged.
+- Payment of soldiers' wages was slow and unpredictable. Left mothers with complete responsibility for full support of children.
+  - Discouraged qualified women from seeking aid in the Army Quartermaster Department.
+- Employment as a cook, etc. did not come easily.
+
+#### Slaves That Stayed
+- Although many women had no choice but to seek food and safety from Northern troops, some attained relative freedom where they were.
+- Many whites had fled in large numbers were black men had marched.
+  - Several hundred women made a small colony.
+- Fleeing black women deprived the South of a large labor supply.
+
+#### Conclusion
+Among the dislocation of the Civil War, a common purpose remained to escape oppression of slavery while attempting to keep family intact.
+
+### Black Women as Free Laborers
+*page 18*
+- Many black women and men travelled to towns to escape masters, but many had to search for work.
+  - Government failed to institute comprehensive land confiscation and redistribution; Southern whites refused to sell property or extend credit to former slaves.
+  - Majority of slaves would remain economicaly dependent on the group to which they had served as salves.
+- Most freed people remained concentrated in the Cotton Belt.
+- Northern vision of free labor markets struck the Confederates as ludicrous.
+
+#### Northern Free Labor Thought
+- There was some divergence in reconstructing southern society, but freedom was often equated with oppurtunity to work for oneself.
+- Northerners conceived a contract labor system that would ensure cotton production and deincentivize exploitation.
+  - Contract system premised on the idea that freed people would embrace gainful employment out of economic necessity.
+- Some believed black slaves required punitive measures to refresh their souls.
+- Slave women did not have much luxury in choosing which work they would do.
+  - Many workers were defrauded, both monetarily and in term of the physical punishment they were promised not to be subjected to.
+- Many Northerners detested southern planters but empathized with them as capitalists.
+- Union officials believed that freedwomen as a group should contribute full muscle power towards the rebuilding of the region's economic system.
+
+#### Unionization of Slave Workers
+- Slave women performed many jobs, be it cooking, gardening, special talents, etc.; varied and depended widely on time and difficult to guage because of geographic mobility.
+- Freed people were largely dependent on whites for employment, but strikes and group labor resistance began to surface.
+  - Whites began to learn an important basic lesson fo Reconstruction: **blacks' attitudes towards work depended on the extent of their freedom from white supervision.**
+- Blacks challenged intentions of bureau agents and northqern/southern planters alike; both underestimated the power of the workers.
+
+#### Conclusion
+In making decisions about how family labor was organized, black people rejected materialistic individualism of the North as well as brutal authoritarianism of the South.
+
+### The Political Economy of Black Family and Community Life in the Postwar Period
+- Northerners that hoped black workers would pursue interests as *individuals* did not take into account strong family ties.
+  - Family bound black households together.
+- Black women constituted a sizable proportion fo the labor force, but their obligation to family took priority.
+- Freedom, thus has little to do with individual oppurtunity but instead int he context of family.
+- Institution of slavery posed a threat to the stability of family, and after emancipation family relationships solidifed.
+- Black labor correspondingly dropped significantly after emancipation.
+
+#### Withdrawal of Black Females from Wage Labor
+- Major theme in Reconstruction: **widthdrawal of black females from wage-labor**.
+- Northernors ridiculed "lazy" freedwomen for working within their own homes.
+- Many assumed freed people were engaged in an attempt to imitate white middle-class norms. However, reorganization of female labor resulted from choices by men and women.
+  - Women were to be protected by freedmen from rape by eliminating white man-black woman interaction.
+- Slavery's persistence continued in the minds of black women that continued to suffer abuse from white employers.
+- Blacks preferred to organize by kin group, or "squad" system.
+  - Non-bureaucratic, self-regulating, self-selecting worker peer group.
+- Tug of economic and pyschological warfare between planters cultiminated in the "compromise" - the **sharecropping system.**
+
+#### Sharecroppping System
+- Met demands of each party; a relatively reliable source of labor and a measure of independence.
+- Sharecroppers moved into small houses around a plantation; contracts were renegotiated every year.
+- This system reshaped Southern race and class relations. 
+- Most freedwomen lived in rural areas, were illiterate, and very poor.
+  - Fertility rates went down very lowly; women were severely circumscribed.
+  - Most children did not have a chance to go to school.
+  - Black women were distinguished primarily by lower socioeconomic status and reliance on families of work done outside the realm of traditional domestic responsbilities.
+
+#### Sexual Division of Labor
+- The husband represented the family; men exercised authoritiy by age and sex.
+- Freedmen's Bureau's wage guidelines mandated black women and men recieve unequal compensation; bureau held men responsible for wives' unwillingness to labor.
+- This division of labor became more sharp after emancipation.
+  - Domestic duties were seen to be a woman's major obligation; contrast with slavemaster's view of female as a field or hosue worker.
+- Women's agricultural labor was more seasonal than that of their husbands; they worked when there labor was needed.
+- One cannot separate freedwomen's "work" from family-based obligations; productive labor had no meaning outside of family.
+- Husbands and wives needed each other to form a complete economic unit.
+  - If necessary, the wife would step into the husband's "sphere" or work.
+- The interests of the family superceded individual desires.
+- Obligations of black women assumed greater significance than immigrant or poor white communities because of distinctive low economic status possessed by blacks.
+
+#### Kinship and Collectivization of Labor
+- Field workers and nonworkers managed to care for themselves by growing vegetables, catching fish, trapping game, etc.
+  - Relied consequently less on wages paid by their employer.
+- There was a belief that black workers were *burdened* by their relatives.
+
+#### Political Gathering of Freedmen
+- Vitality of the political process provided back men a public forum distinct from the private sphere inhabited by woemn.
+  - Black men believed males alone were responsible for the serious business of politicking.
+- Freedmen monopolized formal positions of power within their own communities; however, freedwomen did not simply accept them all. Often these worlds clashed.
+- Freed people had a preference to work in "traditional" rural society rather than a nationalistic goal of social or economic progress.
+- Black households conformed to the "premodern" family model; however, the terms are a bit misleading becuase sharecropping families actually represented an adaptation.
+
+#### Conclusion
+The development of a coexisting between economic and social family worlds was significant and made a living increasingly carried by individuals apart from family life.
+
+### New Dresses, Defiant Words, and Their Price
+- Significance of clothing in an era whenr ace relations were at least temporarily fluctuating.
+- Role of women's clothes in transition from slavery to freedomw as significant.
+  - Older forms of dress were scorned in favor of more colorful and elaborate garments.
+- Black husbands took pride in buying fashinoable dresses for their women.
+- Clothing signaled a struggle over "social equality"; freedwomen were more outspoken and aggressive in their willingnes to confront white authority figures.
+- Freedwomen were especially impressed by the challenge to womanhood that subverted female submissiveness.
+  - Almost ironically, this put freedmen into a position of being more "reasonable".
+- Black women paid for their assertiveness by acting like free women.
+  - Continued to toil as they had under slavery and remained susceptible to punishment for offenses by angry overseers, often over compensation disagreements.
+  - Violence was not only sanctioned by sometimes *initiated* by 'law-enforcement'.
+- Systematic legal corruption made it difficult for black women to get justice for their assault.
+- **These were personal attacks carried out face-to-face.**
+
+#### Conclusion
+Patterns of interracial violence revealed anxieties related to sex, race, and power that remained locked in the South's collective consciousness.
+
+### Out of the Fields: City Life and Schooling
+*page 31*
+- Only 1/10 blacks lived in towns with populations > 2,5000 in 1870.
+  - However, experiences of urban freedwomen are important to consider.
+- Black men, women,a nd children came to the city; fleeing the war-torn countryside to seek food and safety but seen by many whites as an escape to luxury and apathy.
+- Hostility among whites caused a black exodus from the cotton fields; women were overrepresented among free people that remained in the cities permanently after the war.
+- Black women ecured jobs in a limited number of occupations at the bottom of the wage scale, like "women's work" or as industrial laborers.
+- Three times as many black women to white women listed an occupation.
+- Quality of city life had little to offer to mot freed people; encountered resentment of white competitors and racism fo white customers.
+- Economic and political conditions crushed health, stability, and welfare of the urban black family.
+  - Meanwhile, it gave rich culutral, educational, and religious oppurtunities.
+  - Social structure in urban areas was more complex.
+  - City children were able to attend class, variety of educational institutions concentrated.
+- Black women sponsored and supported social events, reinforced black community solidarity.
+  - Working women found it less difficult to band together and stage collective job actions.
+- Social consequences of freedom accompanied by changes in the way women worked, dressed, and thought about themsevles.
+- Liberation from bondage brought tangible, immediate benefits to some women.
+- For most women, childbearing and rearing, household chores and employment, etc. representing a continuum from slavery to freedom.
+
+#### Conclusion
+Black women continued to occupy two statuses: as wives, mothers, and upholders of culture in their neighborhoods, and as workers belonging to a despised caste. Freedwomen percieved freedom not to be a release from labor, but the oppurtunity labor for their own families and community.
+
 
