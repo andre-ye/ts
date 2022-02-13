@@ -13,18 +13,14 @@ Spring Sociology
 
 ---
 
-## Navigate
-- [Week 1: Introduction to Course](https://andre-ye.github.io/ts/sociology/lectures/introduction-to-course), 3/29-3/31.
-- [Week 2: Introduction to Research](https://andre-ye.github.io/ts/sociology/lectures/introduction-to-research), 4/7.
-- [Week 3: Choosing Questions, Annotated Bibliography](https://andre-ye.github.io/ts/sociology/lectures/week-3), 4/12.
-- [Week 4: Theoretical Frames, a History of Social Theory](https://andre-ye.github.io/ts/sociology/lectures/week-4), 4/19.
-- [Week 5: Planning and Drafting](https://andre-ye.github.io/ts/sociology/lectures/week-5), 4/30.
-- [Climate Change & Contested Knowledge: Historicizing the Anthropocene](https://andre-ye.github.io/ts/sociology/lectures/climate-change-and-contested-knowledge), 5/3.
-- [Week 6: Longform Analysis](https://andre-ye.github.io/ts/sociology/lectures/week-6)
-- [Week 7: Continued Longform Analysis, Paragraph Construction, Essay Components](https://andre-ye.github.io/ts/sociology/lectures/week-7)
-- [Technology & Identity: Alienation, Cyborgs, and the 21st Century](https://andre-ye.github.io/ts/sociology/lectures/technology-and-identity)
-- [Week 8: Introductions and Conclusions](https://andre-ye.github.io/ts/sociology/lectures/week-8)
-- [Week 9: Unraveling Complexity](https://andre-ye.github.io/ts/sociology/lectures/week-9)
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ---
 
