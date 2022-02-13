@@ -7,6 +7,7 @@ nav_order: 2
 ---
 
 # Reading Notes
+{: .no_toc }
 
 Spring English
 {: .fs-6 .fw-300 }
