@@ -27,4 +27,6 @@ The [Transition School](https://robinsoncenter.uw.edu/programs/transition-school
 
 ## Announcements
 
+| **2/13/2022** Notes on all readings from TS Spring English have been transferred [here](https://andre-ye.github.io/ts/docs/english/spring/reading/). |
+
 | **2/9/2022** Notes on the remaining readings from TS Fall History have been transferred. |
