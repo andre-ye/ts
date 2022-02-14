@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cheat Sheet
+title: Scientific Communication
 parent: Fall
 grand_parent: Biology
 nav_order: 1
