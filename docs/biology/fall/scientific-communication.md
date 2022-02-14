@@ -7,6 +7,7 @@ nav_order: 1
 ---
 
 # Scientific Communication
+{: .no_toc }
 
 Fall Biology
 {: .fs-6 .fw-300 }
