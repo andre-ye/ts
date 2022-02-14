@@ -7,6 +7,7 @@ nav_order: 100
 ---
 
 # Cheat Sheet
+{: .no_toc }
 
 Fall Biology
 {: .fs-6 .fw-300 }
