@@ -27,6 +27,8 @@ The [Transition School](https://robinsoncenter.uw.edu/programs/transition-school
 
 ## Announcements
 
+| **2/14/2022** The cheat sheet and "Chemistry, Nucleic Acids, Origin of Life" notes for Fall TS Biology have been added. Notes for all other quarters for all other classes should have been added -- we're in the home stretch of completing the TS Notes transfer. |
+
 | **2/13/2022** Notes on all readings from TS Spring English have been transferred [here](https://andre-ye.github.io/ts/docs/english/spring/reading/). |
 
 | **2/9/2022** Notes on the remaining readings from TS Fall History have been transferred. |
