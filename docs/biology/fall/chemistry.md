@@ -7,6 +7,7 @@ nav_order: 2
 ---
 
 # Chemistry, Nucleic Acids, Origin of Life
+{: .no_toc }
 
 Fall Biology
 {: .fs-6 .fw-300 }
