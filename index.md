@@ -18,14 +18,13 @@ I'm Andre Ye. I'm a current student at the University of Washington pursuing dua
 
 The [Transition School](https://robinsoncenter.uw.edu/programs/transition-school/){:target="_blank"} is a one-year college preparatory program offered through the [Robinson Center for Young Scholars](https://robinsoncenter.uw.edu/){:target="_blank"} at the University of Washington via the Early Entrance Program (EEP). Students leave eighth grade into the Transition School, from which they graduate and become matriculated college students.
 
-**This website is still in the process of being transferred. If you are looking for secure TS notes, visit [this page](https://andre-ye.github.io/ts-notes).** If you are looking for UW notes, please visit the link in the top right corner. Notes for UW classes will be uploaded soon. Note that this site works best with Chrome; using other browsers may expose bugs.
-{: .text-red-200}
-
 **If you're a current or former TS student** and are introduced in contributing your notes, reach out to me at `andreye@uw.edu` for possibilities of collaboration. I'm looking to convert this site from a personal project into a wide-ranging repository for TS notes and content, if there are people willing to work with me to that end.
 
 ---
 
 ## Announcements
+
+| **2/18/2022** All TS notes have been successfully transferred to this site (more or less; there are some tedious nonessential notes that may be added later). Enjoy a (generally) full TS notes repository! Email me at the email above if there are any specific notes or questions you have. Additional updates will not occur frequently unless solicited. |
 
 | **2/14/2022** The cheat sheet and "Chemistry, Nucleic Acids, Origin of Life" notes for Fall TS Biology have been added. Notes for all other quarters for all other classes should have been added -- we're in the home stretch of completing the TS Notes transfer. |
 
