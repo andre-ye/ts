@@ -24,6 +24,8 @@ The [Transition School](https://robinsoncenter.uw.edu/programs/transition-school
 
 ## Announcements
 
+| **2/19/2022** The entire portfolio has been updated. |
+
 | **2/18/2022** All TS notes have been successfully transferred to this site (more or less; there are some tedious nonessential notes that may be added later). Enjoy a (generally) full TS notes repository! Email me at the email above if there are any specific notes or questions you have. Additional updates will not occur frequently unless solicited. |
 
 | **2/14/2022** The cheat sheet and "Chemistry, Nucleic Acids, Origin of Life" notes for Fall TS Biology have been added. Notes for all other quarters for all other classes should have been added -- we're in the home stretch of completing the TS Notes transfer. |
