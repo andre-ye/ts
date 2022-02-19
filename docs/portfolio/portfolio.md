@@ -16,19 +16,19 @@ Collected work from Transition School
 
 ## Showcase
 
-["The Cigarette and the Tragic Pursuit of Death in *Pale Horse, Pale Rider*"](https://andre-ye.github.io/english/portfolio/Draft 3.pdf){:target="_blank"}
-> Written for English class, this essay explores the symbolism of the cigarette and tragic love amidst death in Katherine Anne Porter's novel, *Pale Horse, Pale Rider*.
+["The Cigarette and the Tragic Pursuit of Death in *Pale Horse, Pale Rider*"](https://andre-ye.github.io/ts/docs/portfolio/files/english/Draft 3.pdf){:target="_blank"}
+> Written for English class, this essay explores the symbolism of the cigarette and tragic love amidst death in Katherine Anne Porter's novel, *Pale Horse, Pale Rider*. I'm currently in the process of revising and submitting to *The Explicator*.
 
-["Analyzing Latent Space in Autoencoders of Varied Bottleneck Size""](https://andre-ye.github.io/precalc/portfolio/Project 4 Draft 3.pdf){:target="_blank"}
+["Analyzing Latent Space in Autoencoders of Varied Bottleneck Size"](https://andre-ye.github.io/ts/docs/portfolio/files/math/Project 4 Draft 3.pdf){:target="_blank"}
 > This mathematics class project explores and understands the clustering of neural network representations of handwritten digits, and uncovers some interesting findings suggesting another way to represent the Deep Double Descent curve.
 
-["Analying Sinusoidal Patterns in 2020 U.S. Presidential Election Tweets"](https://andre-ye.github.io/precalc/portfolio/Project_5_final.pdf){:target="_blank"}
+["Analying Sinusoidal Patterns in 2020 U.S. Presidential Election Tweets"](https://andre-ye.github.io/ts/docs/portfolio/files/math/Project_5_final.pdf){:target="_blank"}
 > This mathematics class project explores trends in the frequency and sentiment of tweets in the 2020 U.S. Presidential Election.
 
 ["The Immolation"](https://andre-ye.github.io/history/winter/portfolio/Final Draft for Cumulative Project.pdf){:target="_blank"} 
 > A short story written for history class seeking to reunderstand in both allegorical and literal paintings the dynamics of labor unionization in the 1930s.
 
-[Journal Club: "Improved Protein Structure Prediction Using Potentials from Deep Learning"](https://andre-ye.github.io/biology/winter-quarter/portfolio/winter-bio-jc.pdf){:target="_blank"}
+[Journal Club: "Improved Protein Structure Prediction Using Potentials from Deep Learning"](https://andre-ye.github.io/ts/docs/portfolio/files/biology/winter-bio-jc.pdf){:target="_blank"}
 > Slides from a journal club presentation on a DeepMind paper for biology class.
 
 ---
@@ -63,7 +63,7 @@ Collected work from Transition School
 ---
 
 ### Sociology
-[Final Research Essay - "Collective Individualism in Black Conservatism"](https://andre-ye.github.io/ts/docs/portfolio/files/sociology/Draft 4 - Final.pdf){:target="_blank"}
+[Final Research Essay - "Collective Individualism in Black Conservatism"](https://andre-ye.github.io/ts/docs/portfolio/files/history/winter/Final Draft for Cumulative Project.pdf){:target="_blank"}
 
 Reading Responses: [Week 1 - Booth, Harding](https://andre-ye.github.io/ts/docs/portfolio/files/sociology/Week 1 Reading Response.pdf){:target="_blank"}, [Week 2 - Booth, Wallace](https://andre-ye.github.io/ts/docs/portfolio/files/sociology/Week 2 Reading Response.pdf){:target="_blank"}, [Week 3 - Booth, Kapczynski & Gonsalves, Van Ness](https://andre-ye.github.io/ts/docs/portfolio/files/sociology/Week 3 Reading Response.pdf){:target="_blank"}, [Week 4 - Althusser, De Beauvoir, Taylor](https://andre-ye.github.io/ts/docs/portfolio/files/sociology/Week 4 Reading Response.pdf){:target="_blank"}
 
@@ -85,3 +85,16 @@ Reading Responses: [Week 1 - Rampolla, Rael, Diamond](https://andre-ye.github.io
 - [Winter Quarter Essay 1 - "Clashing Notions of Liberty in the Gilded Age"](https://andre-ye.github.io/ts/docs/portfolio/files/history/winter/Essay 1 Draft.pdf){:target="_blank"}
 - [Winter Quarter Essay 2 - "The Hesitancy of Progressivism"](https://andre-ye.github.io/ts/docs/portfolio/files/history/winter/Essay 2 Draft 2.pdf){:target="_blank"}
 - [Final Culminating Project - "The Immolation"](https://andre-ye.github.io/history/ts/docs/portfolio/files/history/winter/Final Draft for Cumulative Project.pdf){:target="_blank"}, a short story on unionization in the 1930s.
+
+Reading Responses: 
+[Week 1 - Goodheart, Johnson](https://andre-ye.github.io/ts/docs/portfolio/files/history/winter/Reading Response 1.pdf), 
+[Week 2 - Parsons, Sumner, Dubofsky](https://andre-ye.github.io/ts/docs/portfolio/files/history/winter/Reading Response 2.pdf), 
+[Week 3 - Douglass, Beveridge, Kramer](https://andre-ye.github.io/ts/docs/portfolio/files/history/winter/Reading Response 3.pdf), 
+[Week 4 - Addams, Eastman, Stromquist](https://andre-ye.github.io/ts/docs/portfolio/files/history/winter/Reading Response 4.pdf), 
+[Week 5 - Preamble to the NLRA, Boyer & Morais](https://andre-ye.github.io/ts/docs/portfolio/files/history/winter/Reading Response 5.pdf), 
+[Week 6 - Houston, Archibald](https://andre-ye.github.io/ts/docs/portfolio/files/history/winter/Reading Response 6.pdf), 
+[Week 7 - Yasui, Bacevich](https://andre-ye.github.io/ts/docs/portfolio/files/history/winter/Reading Response 7.pdf), 
+[Week 8 - Elbaum, King Jr.](https://andre-ye.github.io/ts/docs/portfolio/files/history/winter/Reading Response 8.pdf), 
+[Week 9 - Powell Memorandum, Kohler-Hausmann](https://andre-ye.github.io/ts/docs/portfolio/files/history/winter/Reading Response 9.pdf), 
+[Week 10 - McKibben, Kochhar & Cilluffo, Taylor](https://andre-ye.github.io/ts/docs/portfolio/files/history/winter/Reading Response 10.pdf)
+
