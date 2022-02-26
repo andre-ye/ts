@@ -25,9 +25,6 @@ Collected work from Transition School
 ["Analying Sinusoidal Patterns in 2020 U.S. Presidential Election Tweets"](https://andre-ye.github.io/ts/docs/portfolio/files/math/Project_5_final.pdf){:target="_blank"}
 > This mathematics class project explores trends in the frequency and sentiment of tweets in the 2020 U.S. Presidential Election.
 
-["The Immolation"](https://andre-ye.github.io/ts/docs/portfolio/files/history/winter/Final Draft for Cumulative Project.pdf){:target="_blank"} 
-> A short story written for history class seeking to reunderstand in both allegorical and literal paintings the dynamics of labor unionization in the 1930s.
-
 [Journal Club: "Improved Protein Structure Prediction Using Potentials from Deep Learning"](https://andre-ye.github.io/ts/docs/portfolio/files/biology/winter-bio-jc.pdf){:target="_blank"}
 > Slides from a journal club presentation on a DeepMind paper for biology class.
 
