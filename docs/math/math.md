@@ -125,13 +125,14 @@ Chapter 12: "Logarithmic Functions." Working with logarithms.
 
 Chapter 13: "Three Construction Tools." Reflections, dilations, and translations. 
 {: .fs-4 .fw-300 }
-[Collingwood 49](https://andre-ye.github.io/ts/docs/portfolio/files/math/hw/Collingwood_49.pdf){:target="_blank"}
+- [Collingwood 49](https://andre-ye.github.io/ts/docs/portfolio/files/math/hw/Collingwood_49.pdf){:target="_blank"}
+- [Collingwood 50](https://andre-ye.github.io/ts/docs/portfolio/files/math/hw/Collingwood_50.pdf){:target="_blank"}
 
 <br>
 
 Chapter 14: "Rational Functions." Constructing and modeling rational functions. 
 {: .fs-4 .fw-300 }
-[Collingwood 50](https://andre-ye.github.io/ts/docs/portfolio/files/math/hw/Collingwood_50.pdf){:target="_blank"}
+[Collingwood 51](https://andre-ye.github.io/ts/docs/portfolio/files/math/hw/Collingwood_51.pdf){:target="_blank"}
 
 <br>
 
