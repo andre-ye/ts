@@ -60,7 +60,7 @@ Collected work from Transition School
 ---
 
 ### Sociology
-[Final Research Essay - "Collective Individualism in Black Conservatism"](https://andre-ye.github.io/ts/docs/portfolio/files/history/winter/Final Draft for Cumulative Project.pdf){:target="_blank"}
+[Final Research Essay - "Collective Individualism in Black Conservatism"](https://andre-ye.github.io/ts/docs/portfolio/files/sociology/Draft 4 - Final.pdf){:target="_blank"}
 
 Reading Responses: [Week 1 - Booth, Harding](https://andre-ye.github.io/ts/docs/portfolio/files/sociology/Week 1 Reading Response.pdf){:target="_blank"}, [Week 2 - Booth, Wallace](https://andre-ye.github.io/ts/docs/portfolio/files/sociology/Week 2 Reading Response.pdf){:target="_blank"}, [Week 3 - Booth, Kapczynski & Gonsalves, Van Ness](https://andre-ye.github.io/ts/docs/portfolio/files/sociology/Week 3 Reading Response.pdf){:target="_blank"}, [Week 4 - Althusser, De Beauvoir, Taylor](https://andre-ye.github.io/ts/docs/portfolio/files/sociology/Week 4 Reading Response.pdf){:target="_blank"}
 
